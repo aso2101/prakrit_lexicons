@@ -1,120 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xml:lang="eng">
     <fileDesc>
       <titleStmt>
-        <title>Carakasaṃhitā with Cakrapāṇidatta's commentary [a machine-readable
-        transcription]</title>
-        <author>Caraka</author>
-        <author>Agniveśa</author>
-        <author>Cakrapāṇidatta</author>
+        <title>Dēśīnāmamālā</title>
+        <author>Hemacandra</author>
         <respStmt>
-          <persName>Dominik Wujastyk</persName>
-          <resp>Editing of machine-readable version acquired from anonymous source.</resp>
+          <persName>Andrew Ollett</persName>
+          <resp>Creation of (quasi) TEI-encoded text.</resp>
         </respStmt>
+	<respStmt>
+	  <resp>data entry by</resp>
+	  <name>SWIFT Information Technologies, Mumbai</name>
+	</respStmt>
       </titleStmt>
       <publicationStmt>
-
-        <authority>SARIT: Search and Retrieval of Indic Texts</authority>
-        <availability status="restricted">
-          <p>Copyright Notice</p>
-          <p>
-            <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence"
-                 >Distributed by <ref target="http://sarit.indology.info" type="url"
-                 >SARIT</ref> under a Creative Commons Attribution-ShareAlike 4.0
-            Unported License. </ref>
-          </p>
-          <p>Under this licence, you are free <list>
-          <item>to Share — to copy, distribute and transmit the work</item>
-          <item>to Remix — to adapt the work </item>
-          </list></p>
-          <p>Under the following conditions:</p>
-          <p>
-            <list>
-              <item>Attribution — You must attribute the work in the manner specified
-              by the author or licensor (but not in any way that suggests that
-              they endorse you or your use of the work).</item>
-              <item>Share Alike — If you alter, transform, or build upon this work,
-              you may distribute the resulting work only under the same or similar
-              license to this one.</item>
-            </list>
-          </p>
-          <p>More information and fuller details of this license are given on the Creative
-          Commons website.</p>
-          <p>SARIT assumes no responsibility for unauthorised use that infringes the
-          rights of any copyright owners, known or unknown.</p>
-        </availability>
-        <date>2011</date>
-        <idno>2013-04-30</idno>
+      	<authority/>
+	<availability status="restricted">
+	  <p>Published under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</ref> license by Andrew Ollett. The most recent version of this text can be had from <ref target="https://github.com/aso2101/prakrit_lexicons/blob/master/d%C4%93%C5%9B%C4%ABn%C4%81mam%C4%81l%C4%81.xml">GitHub</ref>. The source from which this electronic text was prepared is in the public domain.</p>
+	</availability>
+	<date>2019</date>
       </publicationStmt>
-
-
       <sourceDesc>
         <bibl>
-          <title>Carakasaṃhitā, śrīcakrapāṇidattaviracitayā āyurvedadīpikāvyākhyayā
-          saṃvalitā = The Charakasaṃhitā of Agniveśa revised by Charaka and Dṛiḍhabala
-          With the Āyurveda-dīpikā Commentary of Chakrapāṇidatta</title>
-          <editor>Yādavaśarman Trivikramātmaja Ācārya</editor>
-          <publisher>Śa. He. Gurjara at the Āyurvidyā Mudraṇālaya</publisher>
-          <pubPlace>Puṇyapattane</pubPlace>
-          <date>1981</date>
-          <note>3rd. ed. Nirnaya Sagar Press, Bombay, 1941, 4th. ed. Munshiram Manoharlal,
-          New Delhi, 1981. </note>
-          <note>@BOOK{cara-trikamji, title = {{Carakasaṃhitā,
-          śrīcakra-pāṇi-datta-viracitayā āyur-veda-dīpikā-vyākhyayā saṃ-valitā = The
-          Charakasaṃhitā of Agniveśa revised by Charaka and Dṛiḍhabala With the
-          Āyurveda-dīpikā Commentary of Chakrapāṇidatta}}, publisher = {Munshiram
-          Manoharlal}, year = {1981}, editor = {Yādavaśarma Trivikrama Ācārya},
-          address = {New Delhi}, edition = {4}, annote = {First edition, Bombay:
-          Nirnaya Sagara Press, 1941}, timestamp = {2010.03.16}, xlanguage =
-          {sanskrit} } </note>
+          <title>The Deśînâmamâlâ of Hemachandra: Part I: Text and Critical Notes</title>
+          <editor>
+	    <persName>
+	      <surname>Pischel</surname>
+	      <forename>Richard</forename>
+	    </persName>
+	  </editor>
+          <publisher>Government Central Book Depôt</publisher>
+          <pubPlace>Bombay</pubPlace>
+          <date>1880</date>
         </bibl>
       </sourceDesc>
     </fileDesc>
-
     <encodingDesc>
-      <p>The published edition from which this e-text was transcribed is printed in the
-      Devanāgarī script. The electronic text below is in a lossless transliteration using
-      the Latin alphabet. The transliteration scheme used is the IAST (<ref
-      target="http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration"
-      >The International Alphabet of Sanskrit Transliteration</ref>). IAST differs in
-      small ways from ISO 15919, but is preferred by most working Sanskrit scholars.
-      Conversion of this file to ISO 15919 can be achieved by performing the following
-      replacements throughout the file: <code> ṛ -&gt; r̥ and ṃ -&gt; ṁ </code>
-      </p>
-      <p>Text divison is as Devanāgarī ("ityevam" not "ityevam".) </p>
-      <p>Initial vowel elision for avagraha is reversed and marked with a + sign: e.g.,
-      "prathamo+adhyāyaḥ"</p>
-      <p>The notes by Trivikramātmaja Ācārya are included in the e-text. using the
-      <tag>note</tag> element. </p>
+      <p>This source edition was printed in the Dēvanāgarī script. This electronic text was initially input in the Dēvanāgarī script as well, and subsequently converted automatically to the ISO-15919 (uniform vowels) standard. Following conversion to ISO-15919, I have inserted spaces between words (e.g. "ity ēvam") when I have come across them.</p>
+      <p>Hēmacandra’s Dēśīnāmamālā consists of a number of different components. There are the Prakrit gāthās, which constitute the base text, and which provide Prakrit synonyms to Prakrit words. Then there is Hēmacandra’s Sanskrit commentary, in prose, which provides Sanskrit synonyms to the Prakrit words in each gāthā. Hēmacandra will then include a Prakrit verse of his own creation that employs the words listed in the gāthā.</p>
+      <p>Thus I have treated the individual gāthā as the “section” (tagged with <tag>div type="gāthā"</tag>), which includes the Prakrit gāthā (<tag>quote type="base-text"</tag>) and the Sanskrit commentary in prose paragraphs (<tag>p</tag>), with sentences separated into <tag>s</tag> elements. At the end of each section there are usually one or two example verses (<tag>lg type="example"</tag>).</p>
+      <p>Note that in Pischel’s edition, the gāthās are numbered (both in the verses themselves, and at the end of the section headed by each verse) as well as the example verses. The numbering is reflected in the @n element for the gāthās (<tag>lg</tag> within <tag>quote type="base-text"</tag>, as well as <tag>div type="gāthā"</tag>) and for the examples (<tag>lg type="example"</tag>).</p>
+      <p>The Dēśīnāmamālā is divided into eight adhyāyas, which are separated in this text into eight divisions (<tag>div type="adhyāya"</tag> with the appropriate @n attribute). The words are arranged first alphabetically and then in terms of number of syllables (hence three-syllabled words beginning with "a" follow two-syllabled words beginning with "a"). The transitions between alphabetico-syllabic sections are reflected in <tag>milestone</tag> elements. The end of an alphabetico-syllabic section is explicitly marked in the text; I have encoded it as a <tag>label</tag> element.</p>
     </encodingDesc>
-
+    <profileDesc>
+      <langUsage>
+	<language ident="pra-Latn">Prakrit in Roman transliteration</language>
+	<language ident="san-Latn">Sanskrit in Roman transliteration</language>
+      </langUsage>
+    </profileDesc>
     <revisionDesc>
       <change when="2019-06-07" who="Andrew Ollett">
         <list>
-          <item>Initial commit to the Git Repository (<ref target=""></ref>).</item>
-          <item>Minor corrections to the Sanskrit text, as serendiptously noticed during
-          encoding</item>
-      </list></change>
-      <change when="2011-08-25" who="Dominik Wujastyk">
-        <list>
-          <item>Made a line group of the 6 initial mangala verses</item>
-          <item>Did formatting and indenting, to get rid of the massive long lines of the
-          commentary</item>
-      </list></change>
-      <change when="2013-04-30" who="Dominik Wujastyk"> Revised the div sections. Added
-      headings for sthānas and adhyāyas.</change>
-      <change when="2016-07-13" who="Dominik Wujastyk"><persName>Dominik Wujastyk</persName>:
-      more work to get the div entities right. Added the correct adhyaya-in-sthana numbers
-      with a total adhyaya counter "n in 120"</change>
-      <change when="2016-07-13" who="Dominik Wujastyk"><persName>Dominik Wujastyk</persName>:
-      changed the numbered divs into non-numbered divs, in accordance with the SARIT guidelines.</change>
-      <change when="2016-07-13" who="Dominik Wujastyk"><persName>Dominik Wujastyk</persName>:
-      removed the outer div.</change>
-      <!-- to be done: separate text and commentary -->
+          <item>Initial commit to the Git Repository (<ref target="https://github.com/aso2101/prakrit_lexicons"></ref>).</item>
+	</list>
+      </change>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="sa-Latn" xml:id="DēNā">
+
+  <text xml:lang="pra-Latn" xml:id="DēNā">
     <body>
       <div type="adhyāya" n="1" xml:id="DēNāMā.1">
 	<div type="gāthā" n="1" xml:id="DēNāMā.1.1">
@@ -227,7 +171,7 @@
 	  </lg>
 	</div>
 	<div type="gāthā" n="5" xml:id="DēNāMā.1.5">
-	  <milestone type="letter" n="a"/><milestone type="syllables" n="a2"/>
+	  <milestone unit="syllables" n="a"/><milestone unit="syllables" n="a2"/>
 	  <p>
             <s>atra akārādayō dvyakṣarāḥ śabdāḥ saṁgr̥hyantē |</s>
           </p>
@@ -277,7 +221,7 @@
             <s>hē akka || <ref target="Kātantra.2.1.40">[kātantram 2, 1, 40]</ref> appō pitā |</s>
             <s>ahaṁ duḥkham ||</s>
           </p>
-	  <milestone type="syllables" n="a3"/>
+	  <milestone unit="syllables" n="a3"/>
 	  <label type="section">|| atha tryakṣarāḥ ||</label>
 	  <p>
             <s>aṁguṭṭhī avaguṇṭhanam |</s>
@@ -576,7 +520,7 @@
           </p>
 	  <lg type="example" n="15">
 	    <l>aḍaē suṇāhi ayaḍē aṇāḍaaḍayaṇapiē sarasi kālē |</l>
-	    <l>aṁdhaṁdhumaviṇayavarāhavvāṭhāṇaṁ tamittha aṇaḍō kiṁ || 18 || [15]</l>
+	    <l>aṁdhaṁdhumaviṇayavarāhavvāṭhāṇaṁ tamittha aṇaḍō kiṁ || 15 || [18]</l>
 	  </lg>
 	</div><!-- gāthā !-->
 	<div type="gāthā" n="19" xml:id="DēNāMā.1.19">
@@ -606,14 +550,14 @@
 	<div type="gāthā" n="20" xml:id="DēNāMā.1.20">
 	  <quote type="base-text">
 	    <lg n="20">
-	      <l><w xml:id="apphuṇṇaṁ">apphuṇṇaṁ</w> <milestōne type="syllables" n="a4"/><w xml:id="ahisāyaṁ">ahisāyaṁ</w> āpuṇṇē <w xml:id="avaḍaō">avaḍaō</w> a tiṇapurisē |</l>
+	      <l><w xml:id="apphuṇṇaṁ">apphuṇṇaṁ</w> <milestone unit="syllables" n="a4"/><w xml:id="ahisāyaṁ">ahisāyaṁ</w> āpuṇṇē <w xml:id="avaḍaō">avaḍaō</w> a tiṇapurisē |</l>
 	      <l><w xml:id="avagūḍhaṁ">avagūḍhaṁ</w> viliē khaṇarahiē <w xml:id="avarikkō">avarikka</w><w xml:id="aṇarikkō">aṇarikkā</w> || 20 ||</l>
 	    </lg>
 	  </quote>
 	  <p>
             <s>apphuṇṇaṁ tathā ahisāyaṁ pūrṇam |</s>
             <s>ākrāntavācakastvapphuṇṇaśabdaḥ ktēnāpphuṇṇādaya [siddhahē. 4,285] iti siddhaḥ |</s>
-            <s>atra ca tryakṣaraprakaraṇē  'nyairanyē ’pi śabdā upāttāḥ |</s>
+            <s>atra ca tryakṣaraprakaraṇē  ’nyair anyē ’pi śabdā upāttāḥ |</s>
             <s>tē cāsmābhiḥ śabdānuśāsana ēva sādhitā iti nēha saṁgr̥hītāḥ |</s>
             <s>tathā hi |</s>
             <s>acchalaṁ anaparādha iti saṁskr̥tasamaḥ |</s>
@@ -653,7 +597,7 @@
             <s>aṁtōhuttaṁ adhō<lb break="no"/>mukham |</s>
             <s>ahihāṇaṁ varṇanā |</s>
             <s>yadyapyabhidhānaśabdaḥ saṁskr̥tē ’pi dr̥śyatē tathāpi<lb/> saṁskr̥tānabhijñaprākr̥tajñaṁmanyadurvidagdhajanāvarjanārtha saṁgr̥hītaḥ |</s>
-            <s>ēvamanyatrāpi saṁskr̥ta<lb break="no"/>bhavaśabdasaṁgrahē nyāyō  'bhyūhyaḥ ||</s>
+            <s>ēvamanyatrāpi saṁskr̥ta<lb break="no"/>bhavaśabdasaṁgrahē nyāyō ’bhyūhyaḥ ||</s>
             <s>yathā |</s>
           </p>
 	  <lg type="example" n="19">
@@ -1089,7 +1033,7 @@
 	  </quote>
 	  <p>
             <s>acchiharullō dvēṣyō vēṣō vā vēsaśabdasyōbhayārthatvāt |</s>
-            <s>kēcit hasthānē ghaṁ paṭhanti |<s/><lb/>
+            <s>kēcit hasthānē ghaṁ paṭhanti |</s><lb/>
 	    <s>acchigharullō |</s>
             <s>kēcid rēpham ikārāntaṁ paṭhanti |</s>
             <s>acchiharillō |</s>
@@ -1217,7 +1161,7 @@
 	<div type="gāthā" n="47">
 	  <quote type="base-text">
 	    <lg n="47">
-	      <l>avaḍāhiamukkuṭṭhē pavāyaṇihaē  'vaḍakkiō taha ya |</l><lb/>
+	      <l>avaḍāhiamukkuṭṭhē pavāyaṇihaē ’vaḍakkiō taha ya |</l><lb/>
 	      <l>rōgammi aṁgavaḍḍhaṇamayataṁciamuvaciē cēa ||47||</l><lb/>
 	    </lg>
 	  </quote>
@@ -1249,7 +1193,7 @@
 	  </quote>
 	  <p>
 	    <s>aṇuvahuā navavadhūḥ |</s>
-            <s>sāmānādhikaraṇyanirdēśō  'nyōnyaṁ vidhyanuvādārthaḥ |<pb n="23"/> tēna aïrajuvaī aṇuvahuāity apyarthaḥ saṁgr̥hītaḥ |</s>
+            <s>sāmānādhikaraṇyanirdēśō ’nyōnyaṁ vidhyanuvādārthaḥ |<pb n="23"/> tēna aïrajuvaī aṇuvahuāity apyarthaḥ saṁgr̥hītaḥ |</s>
             <s>atra |</s>
             <s>avajjasaï gacchati |<lb/> avaakkhaï avaajjhaï paśyati |</s>
             <s>ahirēmaï pūrayati |</s>
@@ -1283,7 +1227,8 @@
 	    <l>dūiṁ ammaṇuaṁcasi jassa kaē bahiṇi candabimbamuhi |</l><lb/>
 	    <l>taṁ kiṁ ṇa ṇiasi muddhē daïaṁ aṇṇāhipaccuiaṁ || 48 ||</l><lb/>
 	  </lg><!-- example !-->
-	  <trailer>|| atha dvyakṣarādikramēṇa akārādayō  'nēkārthāḥ ||</trailer>
+	  <milestone unit="syllables" n="a-mult"/>
+	  <label>|| atha dvyakṣarādikramēṇa akārādayō ’nēkārthāḥ ||</label>
 	  <p>
             <s>acchaṁ atyarthaṁ śīghraṁ ca |</s>
             <s>aaṁ vistāritamādaraṇīyaṁ tyaktaṁ cēti tryartham || ihānē<lb break="no"/>kārthēṣu śabdēṣu vaiṣamyācchiṣyamativyāmōhō mā bhūdityudāharaṇāni nōpadarśayiṣyantē |</s>
@@ -1391,7 +1336,7 @@
 	  <p>
             <s>avaṇō parīvāhō gr̥haphalahakaścēti dvyarthaḥ |</s>
             <s>aṇṇaō taruṇō dhūrtō dēvaraścēti tryarthaḥ |<lb/> aṁtēllī madhyaṁ jaṭharaṁ taraṅgaścēti tryarthā |</s>
-            <s>asaṁgiō aśvō  'navasthitaśca || [ 55 ]</s>
+            <s>asaṁgiō aśvō ’navasthitaśca || [ 55 ]</s>
           </p>
 	</div><!-- gāthā !-->
 	<div type="gāthā" n="56">
@@ -1462,16 +1407,17 @@
 	    </lg>
 	  </quote>
 	  <p>
-            <s>akaṁḍatalimō niḥsnēhō  'kr̥tavivāhaśca |</s>
+            <s>akaṁḍatalimō niḥsnēhō ’kr̥tavivāhaśca |</s>
             <s>atra ca |</s>
             <s>ahipaccuaï guhṇāti ā<lb break="no"/>gacchati cēti dhātvādēśēṣūkta iti nōktaḥ |</s>
             <s>avarihaḍḍhapusaṇaṁ akīrtirasatyaṁ dānaṁ<lb/> cēti tryartham || [ 60 ]</s>
           </p>
 	</div><!-- gāthā !-->
-	<milestone type="syllables" n="ā"/>
-	<milestone type="syllables" n="ā2"/>
-	<trailer>|| atha ākārādayaḥ śabdā dvyakṣarādikramēṇa prastūyantē ||</trailer>
+
 	<div type="gāthā" n="61">
+	  <milestone unit="syllables" n="ā"/>
+	  <milestone unit="syllables" n="ā2"/>
+	  <label>|| atha ākārādayaḥ śabdā dvyakṣarādikramēṇa prastūyantē ||</label>
 	  <quote type="base-text">
 	    <lg n="61">
 	      <l>āhū ghūē āū salilē taha viṁcuammi ālāsō |</l><lb/>
@@ -1631,7 +1577,7 @@
 	  </quote>
 	  <p>
             <s>āaḍḍiaṁ paravaśacalitam |</s>
-            <s>yastu vyāprērāaḍḍaity ādēśō  'smābhiruktaḥ sa<lb/> vyāpāramātrārthaḥ |</s>
+            <s>yastu vyāprērāaḍḍaity ādēśō ’smābhiruktaḥ sa<lb/> vyāpāramātrārthaḥ |</s>
             <s>āūḍiaṁ dyūtapaṇaḥ |</s>
             <s>ālaṁkiaṁ khañjīkr̥tam |</s>
             <s>āmaṁḍaṇaṁ<lb/> bhāṇḍam ||</s>
@@ -1756,9 +1702,11 @@
             <s>āsē<lb break="no"/>aṇayaśabdaścāvitr̥ptadarśanārtha āsēcanakaśabdabhava iti nōktau || [ 72 ]</s>
           </p>
 	</div><!-- gāthā !-->
-	<label type="section">|| athānēkārthāḥ ||</label>
+
 	<div type="gāthā" n="73">
 	  <pb n="32"/>
+	  <milestone unit="syllables" n="ā-mult"/>
+	  <label type="section">|| athānēkārthāḥ ||</label>
 	  <quote type="base-text">
 	    <lg n="73">
 	      <l>pasavaduhaṇiccadiṭṭhēsu āvi ālaṁ vahōlamaüēsu |</l><lb/>
@@ -1838,10 +1786,10 @@
             <s>atra āluṁkhaï dahati spr̥śati cēti dhātvādēśēṣūkta iti nōktaḥ || [ 78 ]</s>
           </p>
 	</div><!-- gāthā !-->
-	<milestone type="syllables" n="i"/>
-	<milestone type="syllables" n="i2"/>
-	<label type="section">|| atha ikārādayō dvyakṣarādikramēṇaivōcyantē ||</label>
 	<div type="gāthā" n="79">
+	  <milestone unit="syllables" n="i"/>
+	  <milestone unit="syllables" n="i2"/>
+	  <label type="section">|| atha ikārādayō dvyakṣarādikramēṇaivōcyantē ||</label>
 	  <quote type="base-text">
 	    <lg n="79">
 	      <l>iggō bhīē ibbhō vaṇiē ucchusayalammi iṁgālī |</l><lb/>
@@ -1947,9 +1895,9 @@
             <s>illīraṁ br̥sī vr̥ṣṭivāraṇaṁ gr̥hadvāraṁ <lb/>cēti tryartham || [ 83 ]</s>
           </p>
 	</div><!-- gāthā !-->
-	<milestone type="letter" n="ī"/>
-	<label type="section">|| atha īkārādayaḥ ||</label>
 	<div type="gāthā" n="84">
+	  <milestone unit="syllables" n="ī"/>
+	  <label type="section">|| atha īkārādayaḥ ||</label>
 	  <quote type="base-text">
 	    <lg n="84">
 	      <l>īsaṁ kīlē rōjjhammi īsaō īsarō mayaṇē |</l><lb/>
@@ -1972,9 +1920,9 @@
             <s>īsiaṁ śabaraśiraḥ patrapuṭaṁ vaśāyitaṁ cēti dvyartham || [ 84 ]</s>
           </p>
 	</div><!-- gāthā !-->
-	<milestone type="letter" n="u"/>
-	<label type="section">|| atha ukārādayaḥ ||</label>
 	<div type="gāthā" n="85">
+	  <milestone unit="syllables" n="u"/>
+	  <label type="section">|| atha ukārādayaḥ ||</label>
 	  <quote type="base-text">
 	    <lg n="85">
 	      <l>uṁḍaṁ gahirē ucchū vāē ukkaṁ. ca pāḍavaṇē |</l><lb/>
@@ -2178,7 +2126,7 @@
             <s>ukkōḍī pratiśabdaḥ |</s>
             <s>usīraṁ bisam |</s>
             <s>upphēsō trāsaḥ |</s>
-            <s>apavādārthē  ' pyayaṁ lakṣyēṣu dr̥śyatē |</s>
+            <s>apavādārthē ’ pyayaṁ lakṣyēṣu dr̥śyatē |</s>
             <s>yathā |</s>
           </p>
 	  <lg type="example" n="77">
@@ -2311,7 +2259,7 @@
 	    </lg>
 	  </quote>
 	  <p>
-            <s>ullūḍhō uccappō uccuppiō trayō  ' pyēta ārūḍhārthāḥ |</s>
+            <s>ullūḍhō uccappō uccuppiō trayō ’ pyēta ārūḍhārthāḥ |</s>
             <s>ullūḍhō aṅkuritaity anyē |<lb/> uvvīḍhaṁ uddariaṁ ummariaṁ cēti trayō ’py ēta utkhātārthāḥ ||</s>
             <s>yathā |</s>
           </p>
@@ -2368,7 +2316,7 @@
             <s>ucchuṇṇaṁ vimarditamityutsāhaütkṣuṇṇaśabdaprabhavau |<lb/> unduraüccayaśabdāvākhunīvīvācakau saṁskr̥tasamau |</s>
             <s>uṁghaï nidrāti |</s>
             <s>uggaï udghā<lb break="no"/>ṭayati |</s>
-            <s>ētau dhātvādēśēṣūktāvityētē  ' nyairuktā api nōktāḥ |</s>
+            <s>ētau dhātvādēśēṣūktāvityētē ’ nyairuktā api nōktāḥ |</s>
             <s>[ 102 ]</s>
           </p>
 	</div><!-- gāthā !-->
@@ -2737,7 +2685,7 @@
 	  <p>
             <s>uvalabhattā tathā uvalayabhaggā valayāni |</s>
             <s>alyēraṇḍayōryathāsaṁkhyēna dvau śabdau<lb/> uṇhōdayabhaṁḍō bhramaraḥ |</s>
-            <s>yastu uṇhōdayabhaṁḍaśabdaḥ piṭharavācī kaiścinnibaddhaḥ sō<lb/>  'smābhiḥ saṁskr̥tabhavatvādupēkṣitaḥ |</s>
+            <s>yastu uṇhōdayabhaṁḍaśabdaḥ piṭharavācī kaiścinnibaddhaḥ sō<lb/> ’smābhiḥ saṁskr̥tabhavatvādupēkṣitaḥ |</s>
             <s>uttāṇapattayaṁ airaṇḍam |</s>
             <s>ēraṇḍasyēdamairaṇḍam |<lb/> patraprāyam ||</s>
             <s>yathā |</s>
@@ -2908,7 +2856,7 @@
 	    </lg>
 	  </quote>
 	  <p>
-            <s>uttappō garvitō  'dhikaguṇaśca |</s>
+            <s>uttappō garvitō ’dhikaguṇaśca |</s>
             <s>uccōlō nīvī khēdaśca |</s>
             <s>ucchullō anuvādaḥ khēdaśca |<lb/> ummallō nr̥pō mēghaḥ pīvaraścēti tryarthaḥ |</s>
             <s>ummallō balātkāra iti kēcit || [ 131 ]</s>
@@ -2924,7 +2872,7 @@
 	  </quote>
 	  <p>
             <s>uṇṇuiō huṁkārō gaganōnmukhasya śrunaḥ śabdaśra |</s>
-            <s>uvvariaṁ adhikamanīpsitaṁ<lb/> niścitaṁ tāpō  'gaṇitaṁ cēti pañcārtham || [ 132 ]</s>
+            <s>uvvariaṁ adhikamanīpsitaṁ<lb/> niścitaṁ tāpō ’gaṇitaṁ cēti pañcārtham || [ 132 ]</s>
           </p>
 	</div><!-- gāthā !-->
 	<div type="gāthā" n="133">
@@ -2965,7 +2913,7 @@
             <s>bāṇādinātivyathitaḥ |</s>
             <s>apahr̥taścēti dvyarthaḥ |</s>
             <s>ujjaṁgalaṁ<lb/> balātkārō dīrgha ca |</s>
-            <s>uppiṁjalaṁ surataṁ rajō  'kīrtiścēti tryartham || [ 135 ]</s>
+            <s>uppiṁjalaṁ surataṁ rajō ’kīrtiścēti tryartham || [ 135 ]</s>
           </p>
 	</div><!-- gāthā !-->
 	<div type="gāthā" n="136">
@@ -3023,7 +2971,7 @@
 	  <p>
             <s><pb n="56"/>uccattavarattaṁ pārśvayōḥ sthūlamasamañjasavivartanaṁ ca |</s>
           </p>
-	  <milestone type="letter" n="ū"/>
+	  <milestone unit="syllables" n="ū"/>
 	  <label type="section">|| atha dvyakṣarādikramēṇaiva ūkārādayaḥ ||</label>
 	  <p>
             <s>ūā yūkā |</s>
@@ -3096,8 +3044,10 @@
 	    <l>ūsuṁbhiēṇa tīē kayamūsurusuṁbhiaṁ sahīṇaṁ pi || 110 || [ 142 ]</l><lb/>
 	  </lg><!-- example !-->
 	</div>
-	<label type="section">|| athānēkārthāḥ ||</label>
+
 	<div type="gāthā" n="143">
+	  <milestone unit="syllables" n="ū-mult"/>
+	  <label type="section">|| athānēkārthāḥ ||</label>
 	  <quote type="base-text">
 	    <lg n="143">
 	      <l>gāmē saṅghē ūrō jimbhiapajjāulēsu ūsatthō |</l><lb/>
@@ -3111,7 +3061,7 @@
           </p>
 	</div><!-- gāthā !-->
 	<div type="gāthā" n="144">
-	  <milestone type="letter" n="e"/>
+	  <milestone unit="syllables" n="ē"/>
 	  <label type="section">|| atha ēkārādayō dvyakṣarādikramēṇa prastūyantē | r̥varṇalr̥varṇayōḥ prākr̥tē prayō<lb break="no"/>gābhāvāt ||</label>
 	  <quote type="base-text">
 	    <lg n="144">
@@ -3123,7 +3073,7 @@
             <s>ēlō kuśalaḥ |</s>
             <s>ēkkō snēhaparaḥ |</s>
             <s>ēkkaṁgaṁ candanam |</s>
-            <s>ēttōppaṁ ētatprabhr̥tītyarthaḥ |<lb/> yastu ēttōppaṁ ēddahamēttaṁ iti vyācaṣṭē sō  'bhimānacihnasūtraṁ vivr̥ṇvaṁstadabhiprāyaṁ nāva<pb break="no" n="58"/>budhyatē |</s>
+            <s>ēttōppaṁ ētatprabhr̥tītyarthaḥ |<lb/> yastu ēttōppaṁ ēddahamēttaṁ iti vyācaṣṭē sō ’bhimānacihnasūtraṁ vivr̥ṇvaṁstadabhiprāyaṁ nāva<pb break="no" n="58"/>budhyatē |</s>
             <s>yatō dēśyantarēṣvapi ēttōppaṁ ēappahudi ētāvadēva dr̥śyatē |</s>
             <s>udāhr̥taṁ cābhi<lb/> mānacihnēnaiva svavr̥ttau |</s>
             <s>yathā |</s>
@@ -3219,7 +3169,7 @@
 	    <p>
               <s>ēlavilō ādyō vr̥ṣabhaśca |</s>
               <s>ēkkamuhō nirdharmō daridraḥ priyaścēti tryarthaḥ ||<lb/> || atha ōkārādayaḥ |</s>
-              <s>aikārasya prākr̥tē  'bhāvāt |</s>
+              <s>aikārasya prākr̥tē ’bhāvāt |</s>
               <s>ōlī kutaparipāṭī |<lb/> paṅktivācakastvālīśabdabhavaḥ |</s>
               <s>ōjjhaṁ acōkṣam |</s>
               <s>ōppā śāśādinā maṇyādērmā<lb break="no"/>rjanam ||</s>
@@ -3596,8 +3546,8 @@
 	      </lg>
 	    </quote>
 	    <p>
-              <s>ōhaṭṭō apasr̥tō  'vaguṇṭhanaṁ nīvī cēti tryarthaḥ |</s>
-              <s>ōāō grāmādhīśō  'pahr̥ta<lb/> ājñā hastyādīnāṁ bandhanārtha khātaṁ cēti caturarthaḥ || [ 166 ]</s>
+              <s>ōhaṭṭō apasr̥tō ’vaguṇṭhanaṁ nīvī cēti tryarthaḥ |</s>
+              <s>ōāō grāmādhīśō ’pahr̥ta<lb/> ājñā hastyādīnāṁ bandhanārtha khātaṁ cēti caturarthaḥ || [ 166 ]</s>
             </p>
 	  </div><!-- gāthā !-->
 	  <div type="gāthā" n="167">
@@ -3692,7 +3642,7 @@
 	    <p>
               <s>ōvasēraṁ candanaṁ ratiyōgyaṁ cēti dvyartham |</s>
               <s>candaṇaraïjōggē iti samāhāradvandvaḥ |<lb/> ōhasiaṁ vastraṁ dhūtaṁ cēti dvyartham |</s>
-              <s>upahasitārthastu ōhasiaśabdaḥ saṁskr̥tabhava ēva |<lb/> ōsikkhiaṁ gativyāghātō  'ratinihitaṁ ca || [ 173 ]</s>
+              <s>upahasitārthastu ōhasiaśabdaḥ saṁskr̥tabhava ēva |<lb/> ōsikkhiaṁ gativyāghātō ’ratinihitaṁ ca || [ 173 ]</s>
             </p>
 	  </div><!-- gāthā !-->
 	  <div type="gāthā" n="174">
@@ -3731,9 +3681,10 @@
               <s>idānīṁ vyañcanādayaḥ saṁgr̥hyantē |</s>
               <s>tē ’pi vargakra<lb break="no"/>mēṇēti kavargādayō dvyakṣarādikramēṇa svarakramēṇa ca prastūyantē |</s>
             </p>
+	    <milestone unit="syllables" n="k"/>
 	    <quote type="base-text">
 	      <lg n="1">
-		<l><milestone type="letter" n="k"/>andhiakavaḍḍiāsuṁ kattāō mūlaē kaṁdī |</l><lb/>
+		<l>andhiakavaḍḍiāsuṁ kattāō mūlaē kaṁdī |</l><lb/>
 		<l>kaṁtū kāmē kaṁcī musalāṇaṇalōhavalayammi || 1 || </l><lb/>
 	      </lg>
 	    </quote>
@@ -3914,7 +3865,7 @@
               <s>kalhōḍō<lb/> vatsataraḥ |</s>
               <s>vatsatarī cētkalhōḍī |</s>
               <s>kaṁḍūrō tathā kāullō bakaḥ |</s>
-              <s>akārāntaka<lb break="no"/>kārādiśabdaprastāva ākārāntakakārādērnivēśō  'rthānurōdhāt ||</s>
+              <s>akārāntaka<lb break="no"/>kārādiśabdaprastāva ākārāntakakārādērnivēśō ’rthānurōdhāt ||</s>
               <s>yathā |</s>
             </p>
 	    <lg type="example" n="9">
@@ -3973,7 +3924,7 @@
 	    <p>
               <s>kassayaṁ tathā kōsaliaṁ prābhr̥tam |</s>
               <s>kōsaliāity ākārāntamityanyē |<lb/> lakārasya dvirbhāvē kōsalliaṁity api |</s>
-              <s>kōsaliaśabdasyātra pāṭhō  'rthānurōdhāt |<lb/> ēvamanyatrāpi |</s>
+              <s>kōsaliaśabdasyātra pāṭhō ’rthānurōdhāt |<lb/> ēvamanyatrāpi |</s>
               <s>karālī dantapavanakāṣṭham |</s>
               <s>kaṁkēllī aśōkavr̥kṣaḥ |</s>
               <s>kalavū tathā<lb/> kuuā tumbīpātram ||</s>
@@ -4013,7 +3964,7 @@
 	      <quote type="base-text">
 		<lg n="14">
 		  <l>majjaparīsaṇabhaṇḍē kariā taha kōttalaṁkā ya |</l><lb/>
-		  <l>kaṇṇāsō  'ntammi karambē kakkasakakkasārā vi || 14 ||</l><lb/>
+		  <l>kaṇṇāsō ’ntammi karambē kakkasakakkasārā vi || 14 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
@@ -4224,7 +4175,7 @@
 		</lg>
 	      </quote>
 	      <p>
-		<s>kaṁṭhadīṇārō kuḍiā kuṇiā kuḍīraṁ kucchillaṁ ētē pañca vr̥tivivarārthāḥ |<lb/> kaṇiāriaṁ kaṇṇassariaṁ kāṇacchī trayō ’py ētē  'nyōnyaparyāyatayā kāṇākṣidr̥ṣṭa<lb break="no"/>vācakāḥ |</s>
+		<s>kaṁṭhadīṇārō kuḍiā kuṇiā kuḍīraṁ kucchillaṁ ētē pañca vr̥tivivarārthāḥ |<lb/> kaṇiāriaṁ kaṇṇassariaṁ kāṇacchī trayō ’py ētē ’nyōnyaparyāyatayā kāṇākṣidr̥ṣṭa<lb break="no"/>vācakāḥ |</s>
 		<s>kaṇṇōssariaṁ kāṇākṣidr̥ṣṭamityanyē |</s>
 		<s>kalaṁkavaī vr̥tiḥ ||</s>
 		<s>yathā |</s>
@@ -4362,7 +4313,8 @@
 		<s>kāma<lb break="no"/>kisōrō gardabhaḥ ||</s>
               </p>
 	      <pb n="81"/>
-	      <trailer>|| atha ikārāntakakārādayaḥ ||</trailer>
+	      <milestone unit="syllables" n="ki"/>
+	      <label>|| atha ikārāntakakārādayaḥ ||</label>
 	      <p>
 		<s>kiṇṇaṁ śōbhamānam |</s>
 		<s>kirō sūkaraḥ ||</s>
@@ -4432,7 +4384,8 @@
 	      <p>
 		<s>atha īkārāntakakārādiśabda ēka ēva || kīlā navavadhūḥ |</s>
               </p>
-	      <trailer>|| atha ukārāntakakārādayaḥ ||</trailer>
+	      <milestone unit="syllables" n="ku"/>
+	      <label>|| atha ukārāntakakārādayaḥ ||</label>
 	      <p>
 		<s>kukulā navavadhūrēva |</s>
 		<s>kuṁḍaṁ vēṇumayaṁ jīrṇamikṣupīḍanakāṇḍam |</s>
@@ -4456,7 +4409,7 @@
 	      </quote>
 	      <p>
 		<s>kukkhī kukṣiḥ |</s>
-		<s>kr̥kṣiśabdasya prākr̥tē  'kṣyādipāṭhācchatvē kucchīity ēva bhava<lb break="no"/>tīti kukkhīśabdō dēśyaḥ |</s>
+		<s>kr̥kṣiśabdasya prākr̥tē ’kṣyādipāṭhācchatvē kucchīity ēva bhava<lb break="no"/>tīti kukkhīśabdō dēśyaḥ |</s>
 		<s>kulhō śrr̥gālaḥ |</s>
 		<s>kuṁṭī pōṭṭalam |</s>
 		<s>vastranibaddhaṁ dravyam |<lb/> kuṁbhī sīmantālakādiḥ kēśaracanā |</s>
@@ -4643,7 +4596,8 @@
 		<s>kuṁḍiapēsaṇaṁ brāhmaṇaviṣṭiḥ |</s>
 		<s>kuṁtīpōṭṭalayaṁ catuṣkōṇam |</s>
               </p>
-	      <trailer>|| ita ūrdhvamūkārāntakakārādayaḥ ||</trailer>
+	      <milestone unit="syllables" n="kū"/>
+	      <label>|| ita ūrdhvamūkārāntakakārādayaḥ ||</label>
 	      <p>
 		<s>kūlaṁ sainyasya paścādbhāgaḥ |</s>
 		<s>kūḍō pāśaḥ |</s>
@@ -4667,7 +4621,8 @@
 		<s>kūṇiaṁ īṣanmukulitam |</s>
 		<s>kūsārō gartākāraḥ |</s>
               </p>
-	      <trailer>|| atha ēkārāntakakārādayaḥ ||</trailer>
+	      <milestone unit="syllables" n="kē"/>
+	      <label>|| atha ēkārāntakakārādayaḥ ||</label>
 	      <p>
 		<s>kēā rajjuḥ |</s>
 		<s>kēlī asatī |</s>
@@ -4694,7 +4649,7 @@
 		<s>kēārabāṇō palāśaḥ |</s>
               </p>
 	      <pb n="87"/>
-	      <trailer>|| atha ōkārāntakakārādayaḥ ||</trailer>
+	      <label>|| atha ōkārāntakakārādayaḥ ||</label>
 	      <p>
 		<s>kōṭṭaṁ nagaram |</s>
 		<s>kōṇō kr̥ṣṇavarṇaḥ |</s>
@@ -4821,8 +4776,9 @@
 		<s>ētē dhātvādēśēṣūktā iti nōktāḥ || [ 50 ]</s>
               </p>
 	    </div>
-	    <label type="section">|| athānēkārthāḥ ||</label>
 	    <div type="gāthā" n="51">
+	      <milestone unit="syllables" n="k-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <quote type="base-text">
 		<lg n="51">
 		  <l>kaṁdō daḍhamattēsuṁ kaṁḍō dubbalavivaṇṇaphēṇēsu |</l><lb/>
@@ -4852,7 +4808,7 @@
 	      <quote type="base-text">
 		<lg n="53">
 		  <l>kaṅkālakarālēsu kalērō thēvōllavahalēsu |</l><lb/>
-		  <l>bapphē a kasavvaṁ kagghāḍō  'gghāḍē kilāḍē a || 53 ||</l><lb/>
+		  <l>bapphē a kasavvaṁ kagghāḍō ’gghāḍē kilāḍē a || 53 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <pb n="90"/>
@@ -4998,7 +4954,7 @@
 	      <p>
 		<s>kuṁḍhayaṁ tathā kullaḍaṁ cullī laghubhāṇḍaṁ cēti dvāvapi dvyarthau |</s>
 		<s>kuruḍō nirdayō nipuṇaśca |</s>
-		<s>kurulō punaradayanipuṇayōḥ kuṭilakēśē  'pīti tryarthaḥ || [ 63 ]</s>
+		<s>kurulō punaradayanipuṇayōḥ kuṭilakēśē ’pīti tryarthaḥ || [ 63 ]</s>
 	      </p>
 	    </div><!-- gāthā !-->
 	    <div type="gāthā" n="64">
@@ -5029,7 +4985,7 @@
 	    </div><!-- gāthā !-->
 	    <div type="gāthā" n="66">
 	      <label type="section">|| atha svarakramēṇa dvyakṣarādikramēṇa ca khakārādayaḥ ||</label>
-	      <milestone type="letter" n="kh"/>
+	      <milestone unit="syllables" n="kh"/>
 	      <quote type="base-text">
 		<lg n="66">
 		  <l>khaḍḍā khāṇī khallā cammē khaḍḍaṁ ca maṁsummi |</l><lb/>
@@ -5301,7 +5257,7 @@
 	      </lg><!-- example !-->
 	      <p>
 		<s>khaṁḍaṁ muṇḍaṁ madyabhāṇḍaṁ cēti dvyartham |</s>
-		<s>khaṁḍiō māgadhō  'nivāraśca |</s>
+		<s>khaṁḍiō māgadhō ’nivāraśca |</s>
 		<s>kharullaṁ<lb/> kaṭhinaṁ sthapuṭaṁ ca |</s>
 		<s>khajjiaṁ jīrṇamupālabdhaṁ ca || [ 78 ]</s>
               </p>
@@ -5315,7 +5271,7 @@
 	      </quote>
 	      <p>
 		<s>khammakkhamō saṁgrāmō manōduḥkhaṁ ca |</s>
-		<s>manōduḥkhaviśēṣō  'nuśayaniḥ śvasitamityanyē<lb/> kharaḍiaṁ rūkṣaṁ bhagnaṁ ca |</s>
+		<s>manōduḥkhaviśēṣō ’nuśayaniḥ śvasitamityanyē<lb/> kharaḍiaṁ rūkṣaṁ bhagnaṁ ca |</s>
 		<s>khallaïaṁ saṁkucitaṁ prahr̥ṣṭaṁ ca |</s>
 		<s>khittayaṁ anarthō dīptaṁ ca |<lb/> dīptaṁ prajvālanamityarthaḥ || [ 79 ]</s>
               </p>
@@ -5334,7 +5290,7 @@
 	    </div><!-- gāthā !-->
 	    <div type="gāthā" n="1">
 	      <pb n="99"/>
-	      <milestone type="letter" n="g"/>
+	      <milestone unit="syllables" n="g"/>
 	      <label type="section">|| atha dvyakṣarādikramēṇa svarakramēṇa ca gakārādayaḥ ||</label>
 	      <quote type="base-text">
 		<lg n="81">
@@ -5719,8 +5675,9 @@
 		<l>gaṁttīsu gōalāsuṁ gōraṁphiḍi mā kuṇāsaṇiṇivāyaṁ|| 83|| [ 98 ]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <label type="section">|| athānēkārthāḥ ||</label>
 	    <div type="gāthā" n="99">
+	      <milestone unit="syllables" n="g-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <quote type="base-text">
 		<lg n="99">
 		  <l>ghummiamuē gayaṁ vaṇatalārabālamigaṇhāviē gaṁḍō |</l><lb/>
@@ -5741,7 +5698,7 @@
 		<s>gaṁdhēllī chāyā madhumakṣikā ca |</s>
 		<s>gahavaī grāmīṇaḥ śaśī ca |</s>
 		<s>grahapatitvamāditya<lb/> ēva rūḍhaṁ na śaśinīti nāyaṁ grahapatiśabdasamudbhavaḥ |</s>
-		<s>gaṁjōlliaṁ rōmāñcitaṁ tathā<lb/> hāsyasthānē  'ṅgasparśō yat giligilāviaṁ iti lōkē rūḍhamiti vdyartham || [ 100 ]</s>
+		<s>gaṁjōlliaṁ rōmāñcitaṁ tathā<lb/> hāsyasthānē ’ṅgasparśō yat giligilāviaṁ iti lōkē rūḍhamiti vdyartham || [ 100 ]</s>
               </p>
 	      <lg type="example" n="101">
 		<l>binduahamēsu guṁpāguṁdāguṁchāu dāḍhiāē vi |</l><lb/>
@@ -5792,7 +5749,7 @@
               </p>
 	    </div><!-- gāthā !-->
 	    <div type="gāthā" n="105">
-	      <milestone type="letter" n="g"/>
+	      <milestone unit="syllables" n="g"/>
 	      <label type="section">|| atha ghādayaḥ ||</label>
 	      <quote type="base-text">
 		<lg n="105">
@@ -5976,7 +5933,7 @@
 	    <div type="gāthā" n="1">
 	      <label type="section">|| atha cādiḥ ||</label>
 	      <pb n="111"/>
-	      <milestone type="letter" n="c"/>
+	      <milestone unit="syllables" n="c"/>
 	      <quote type="base-text">
 		<lg n="1">
 		  <l>cattō takkū caṁgaṁ cāruṁ caḍacōṭṭiāu sihā |</l><lb/>
@@ -6437,8 +6394,8 @@
 	      <p>
 		<s>ciṁdhālaṁ ramyaṁ mukhyaṁ ca |</s>
 		<s>cullō śiśurdāsaśca |</s>
-		<s>cuṇaō caṇḍālō  'lpō bālō<lb/> muktaśrchandō  'rōcakō vyatikaraścēti saptārthaḥ |</s>
-		<s>cuṇaō viaraō iti dhanapālaḥ |<lb/> āghrātārthē  'pīti kēcit || [ 22 ]</s>
+		<s>cuṇaō caṇḍālō ’lpō bālō<lb/> muktaśrchandō ’rōcakō vyatikaraścēti saptārthaḥ |</s>
+		<s>cuṇaō viaraō iti dhanapālaḥ |<lb/> āghrātārthē ’pīti kēcit || [ 22 ]</s>
               </p>
 	    </div><!-- gāthā !-->
 	    <div type="gāthā" n="23">
@@ -6455,12 +6412,12 @@
 		<s>cuṁculiaṁ ava<lb break="no"/>dhāritaṁ satr̥ṣṇatā ca |</s>
 		<s>cuṁcuṇiā cyutaṁ pratiravō ramaṇamamlikā muṣṭidyūtaṁ yūkā<lb/> cēti ṣaḍarthā |</s>
 		<s>pratirava iti sāmānyaśabdō ’pi viśēṣē gōṣṭhīpratiravē vartatē |</s>
-		<s>yadāha |<lb/> || cuṁcuṇiā pratiravō gōṣṭhayām || kēcit cuṁcuṇiaṁ calitē  'pyāhuḥ || [ 23 ]</s>
+		<s>yadāha |<lb/> || cuṁcuṇiā pratiravō gōṣṭhayām || kēcit cuṁcuṇiaṁ calitē ’pyāhuḥ || [ 23 ]</s>
               </p>
 	    </div><!-- gāthā !-->
 	    <div type="gāthā" n="24">
 	      <label type="section">|| atha chādiḥ ||</label>
-	      <milestone type="letter" n="ch"/>
+	      <milestone unit="syllables" n="ch"/>
 	      <quote type="base-text">
 		<lg n="24">
 		  <l>challī tajāi chaddī sējjāē vijjulāi chaḍā |</l><lb/>
@@ -6686,7 +6643,7 @@
 		<s>chaṁṭō jalacchaṭā śīghraścēti vdyarthaḥ |</s>
 		<s>chāō bubhukṣitaḥ kr̥śaśca |</s>
 		<s>nanu |</s>
-		<s>chātōdarī<lb/> yuvadr̥śāṁ kṣaṇamutsavō  'bhūt ||ity ādau chātaśabdasya kr̥śārthasya darśanātkathamayaṁ<lb/> dēśyaḥ |</s>
+		<s>chātōdarī<lb/> yuvadr̥śāṁ kṣaṇamutsavō ’bhūt ||ity ādau chātaśabdasya kr̥śārthasya darśanātkathamayaṁ<lb/> dēśyaḥ |</s>
 		<s>naivam |</s>
 		<s>chēdanārthasyaiva chātaśabdasya sādhutvāt |</s>
 		<s>na ca dhātvanēkārthatā |<lb/> uttaramatra |</s>
@@ -6783,7 +6740,7 @@
 	    </div>
 	    <div type="gāthā" n="40">
 	      <label type="section">|| atha jādayaḥ ||</label>
-	      <milestone type="letter" n="j"/>
+	      <milestone unit="syllables" n="j"/>
 	      <quote type="base-text">
 		<lg n="40">
 		  <l>jaṁgā gōarabhūmī jaccō purisē tusē jaṁbhō |</l><lb/>
@@ -7075,7 +7032,7 @@
 	    </div><!-- gāthā !-->
 	    <div type="gāthā" n="53">
 	      <label type="section">|| atha jhādayaḥ ||</label>
-	      <milestone type="letter" n="jh"/>
+	      <milestone unit="syllables" n="jh"/>
 	      <quote type="base-text">
 		<lg n="53">
 		  <l>saṁtatavarisammi jhaḍī jhaṁkhō tuṭṭhē jhalā ya mayataṇhā |</l><lb/>
@@ -7289,7 +7246,7 @@
 	  <div type="adhyāya" n="4">
 	    <pb n="136"/>
 	    <label type="section">|| atha ṭādayaḥ ||</label>
-	    <milestone type="letter" n="ṭ"/>
+	    <milestone unit="syllables" n="ṭ"/>
 	    <div type="gāthā" n="1">
 	      <quote type="base-text">
 		<lg n="1">
@@ -7380,7 +7337,7 @@
 	    </div><!-- gāthā !-->
 	    <div type="gāthā" n="5">
 	      <label type="section">|| atha ṭhādiḥ ||</label>
-	      <milestone type="letter" n="ṭh"/>
+	      <milestone unit="syllables" n="ṭh"/>
 	      <quote type="base-text">
 		<lg n="5">
 		  <l>ṭhallayaṭhaïaṭṭhaviā ṇiddhaṇaükkhittapaḍimāsu |</l><lb/>
@@ -7404,18 +7361,20 @@
 		<l>ṇa ya ṭhikkaṁ saṇḍhāṇaṁ aṭhaviaüvalāṇa ṇa ya pūā || 5 || [ 5 ]</l><lb/>
 	      </lg><!-- example !-->
 	    </div>
-	    <label type="section">|| athānēkārthāḥ ||</label>
 	    <div type="gāthā" n="6">
+	      <milestone unit="syllables" n="ṭh-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <quote type="base-text">
 		<lg n="6">
 		  <l>gōraviuddhēsuṁ ṭhariaṁ ṭhiviaṁ uddhaṇiaḍahikkāsu |</l><lb/>
-		  <l><milestone type="letter" n="ḍ"/>dantaggahiē ḍakkaṁ ḍavvō ḍāvō a vāmakarē || 6 ||</l><lb/>
+		  <l>dantaggahiē ḍakkaṁ ḍavvō ḍāvō a vāmakarē || 6 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
 		<s>ṭhariaṁ gauravitamūrdhvasthitaṁ ca |</s>
 		<s>ṭhiviaṁ ūrdhvaṁ nikaṭaṁ hikkā cēti tryartham<lb/> ūrdhvārthē ṭhiaaṁity anyē ||</s>
               </p>
+	      <milestone unit="syllables" n="ḍ"/>
 	      <label type="section">|| atha ḍādayaḥ ||</label>
 	      <p>
 		<s>ḍakkaṁ dantagr̥hītam |</s>
@@ -7570,12 +7529,13 @@
 	      <quote type="base-text">
 		<lg n="13">
 		  <l>ḍōṁgī a hatthabimbē tambōlaṭṭhāṇabhēē a |</l><lb/>
-		  <l><milestone type="letter" n="ṭh"/>ḍhaḍḍhō bhērī ḍhaṁkō a vāyasē ḍhaṁḍhaṇī a kavikacchū || 13 ||</l><lb/>
+		  <l>ḍhaḍḍhō bhērī ḍhaṁkō a vāyasē ḍhaṁḍhaṇī a kavikacchū || 13 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
 		<s>ḍōṁgī sthāsakastāmbūlabhājanaviśēṣaśca |</s>
               </p>
+	      <milestone unit="syllables" n="ḍh"/>
 	      <label type="section">|| atha ḍhādayaḥ ||</label>
 	      <p>
 		<s>ḍhaḍḍhō bhērī |</s>
@@ -7670,7 +7630,7 @@
 	      <quote type="base-text">
 		<lg n="17">
 		  <l>piḍharōṇhajalēsuṁ ḍhamaraṁ ḍhēṁkā harisakūvayatulāsu |</l><lb/>
-		  <l><milestone type="letter" n="ṇ"/>ṇatthā ṇāsārajjū āuttē ṇavvaṇōvvā ya || 17 ||</l><lb/>
+		  <l>ṇatthā ṇāsārajjū āuttē ṇavvaṇōvvā ya || 17 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <pb n="143"/>
@@ -7681,6 +7641,7 @@
 	      <p>
 		<s>ḍhēṁkā harṣaḥ kūpatulā cēti vdyarthā ||</s>
               </p>
+	      <milestone unit="syllables" n="ṇ"/>
 	      <label type="section">|| atha ṇādiḥ ||</label>
 	      <p>
 		<s>ṇatthā nāsārajjuḥ |</s>
@@ -7776,7 +7737,7 @@
 	      </quote>
 	      <p>
 		<s>yadāha || niyamaviśēṣaśca ṇavalayā jñēyā |</s>
-		<s>ādāya palāśalatāṁ bhrāmyati lōkō<lb/>  'khilō yasyām |</s>
+		<s>ādāya palāśalatāṁ bhrāmyati lōkō<lb/> ’khilō yasyām |</s>
 		<s>pr̥ṣṭā patināma strī nihanyatē cāpyakathayantī ||</s>
 		<s>yathā |</s>
               </p>
@@ -8110,7 +8071,7 @@
 	      </quote>
 	      <p>
 		<s>ṇijjhāyādayaḥ sapta śabdā nirdayavācakāḥ |</s>
-		<s>ṇivvērisaśabdō  'tyarthē ’pi dr̥śyatē |<lb/> ṇimēṇaṁ sthānam ||</s>
+		<s>ṇivvērisaśabdō ’tyarthē ’pi dr̥śyatē |<lb/> ṇimēṇaṁ sthānam ||</s>
 		<s>yathā |</s>
               </p>
 	      <pb n="151"/>
@@ -8339,13 +8300,13 @@
 	      <quote type="base-text">
 		<lg n="47">
 		  <l>rayaduddiṇēsu ṇaḍḍalamaha ṇaddhaṁbavayamaghiṇaṇindāsu |</l><lb/>
-		  <l>sabbhāvē  'bhippāē ṇāuḍḍō cōrakañcaṇē ṇikkhō || 47 ||</l><lb/>
+		  <l>sabbhāvē ’bhippāē ṇāuḍḍō cōrakañcaṇē ṇikkhō || 47 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
 		<s>ṇaḍḍalaṁ rataṁ durdinaṁ ca |</s>
 		<s>ṇaddhaṁbavayaṁ aghr̥ṇā nindā cēti dvyartham |</s>
-		<s>ṇāuḍḍō<lb/> sadbhāvō  'bhiprāyaśca |</s>
+		<s>ṇāuḍḍō<lb/> sadbhāvō ’bhiprāyaśca |</s>
 		<s>manōrathaity anyē |</s>
 		<s>ṇikkhō cōraḥ kāñcanaṁ ca || [47]</s>
               </p>
@@ -8419,11 +8380,12 @@
 	  </div><!-- adhyāya !-->
 	  <div type="adhyāya" n="5">
 	    <pb n="157"/>
+	    <milestone unit="syllables" n="t"/>
 	    <label type="section">|| atha tādayaḥ ||</label>
 	    <div type="gāthā" n="1">
 	      <quote type="base-text">
 		<lg n="1">
-		  <l><milestone type="letter" n="t"/>taṁbā gāī taṁṭaṁ puṭṭhaṁ suttōppalēsu taggataṇā |</l><lb/>
+		  <l>taṁbā gāī taṁṭaṁ puṭṭhaṁ suttōppalēsu taggataṇā |</l><lb/>
 		  <l>taṭṭī vaīi sōgammi tamō tavaṇī a bhakkhammi || 1 ||</l><lb/>
 		</lg>
 	      </quote>
@@ -8431,7 +8393,7 @@
 		<s>taṁbā gauḥ |</s>
 		<s>taṁṭaṁ pr̥ṣṭham |</s>
 		<s>taggaṁ sūtram |</s>
-		<s>sūtramiti sāmānyābhidhānē  'pi<lb/> sūtrakaṅkaṇamucyatē |</s>
+		<s>sūtramiti sāmānyābhidhānē ’pi<lb/> sūtrakaṅkaṇamucyatē |</s>
 		<s>yadāha |</s>
 		<s>|| taggaṁ ca sūtrakaṅkaṇakam || taṇaṁ utpalam |</s>
 		<s>taṭṭī  vr̥tiḥ |</s>
@@ -8503,7 +8465,7 @@
 		<s>yathā |</s>
               </p>
 	      <lg type="example" n="4">
-		<l>caya taṁbēhikuḍaṅgaṁ ṇa taṁbaṭakkārirattavasaṇō  'aṁ |</l><lb/>
+		<l>caya taṁbēhikuḍaṅgaṁ ṇa taṁbaṭakkārirattavasaṇō ’aṁ |</l><lb/>
 		<l>ṇa hu tarasatakkaṇaṁ kaṅgutaṁtaḍī kalamatōṁtaḍī a harē || 4 || [4]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
@@ -8826,11 +8788,9 @@
 		<l>tōaa majjha avatthākahaṇē daïasa tōkkaō hōhi || 18 || [18]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā  !-->
-
-
-
-	    <label type="section">|| athānēkārthāḥ ||</label>
 	    <div type="gāthā" n="19">
+	      <milestone unit="syllables" n="t-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <quote type="base-text">
 		<lg n="19">
 		  <l>taṁḍaṁ khalīṇalālayasirahīṇasarāhiēsuṁ ca |</l><lb/>
@@ -8897,13 +8857,13 @@
               </p>
 	    </div>
 
-
-	    <label type="section">|| atha thādiḥ ||</label>
 	    <div type="gāthā" n="24">
+	      <milestone unit="syllables" n="th"/>
+	      <label type="section">|| atha thādiḥ ||</label>
 	      <quote type="base-text">
 		<lg n="24">
-		  <l><milestone type="letter" n="th"/>thagghō gādhē ṇilaē thahō tharō dahisarē tharū charuē |</l><lb/>
-		  <l>thaṁbaṁ visamē thakkō  'vasarammi pasummi thaṭṭithavā || 24 ||</l><lb/>
+		  <l>thagghō gādhē ṇilaē thahō tharō dahisarē tharū charuē |</l><lb/>
+		  <l>thaṁbaṁ visamē thakkō ’vasarammi pasummi thaṭṭithavā || 24 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
@@ -9045,11 +9005,8 @@
 		<l>thōrabhuathambha iṇhiṁ tuha thōhēṇaṁ raṇē hayavaīō |</l><lb/>
 		<l>suabhikkhaṇimittaṁ riusuddhantavahūu thōlamuḍḍanti || 35 ||</l><lb/>
 	      </lg><!-- example !-->
-	    </div>
-
-
-	    <label type="section">|| athānēkārthāḥ ||</label>
-	    <div n="1">
+	      <milestone unit="syllables" n="th-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <p>
 		<s>tatra thakkaï tiṣṭhati phakkati cēti dhātvādēśēṣūktamiti nōktam |</s>
 		<s>ṭhāṇaṁ sthānam |<lb/> uṇḍaṁ gambhīrajalam |</s>
@@ -9087,11 +9044,12 @@
 	    </div>
 
 
-	    <label type="section">|| atha dādiḥ ||</label>
 	    <div type="gāthā" n="33">
+	      <milestone unit="syllables" n="d"/>
+	      <label type="section">|| atha dādiḥ ||</label>
 	      <quote type="base-text">
 		<lg n="33">
-		  <l><milestone type="letter" n="d"/>daramaddhē dayamambū daṁtō kaḍaē davō a gaggaraē |</l><lb/>
+		  <l>daramaddhē dayamambū daṁtō kaḍaē davō a gaggaraē |</l><lb/>
 		  <l>dacchaṁ tikkhē suttakaṇayammi daṁḍī dasērō a || 33 ||</l><lb/>
 		</lg>
 	      </quote>
@@ -9497,11 +9455,9 @@
 		<l>dōṇakkāē daṭṭhaṁ dōsākaraṇaṁ karēsi kiṁ ittha || 44 || [51]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā  !-->
-
-
-
-	    <label type="section">|| athānēkārthāḥ ||</label>
 	    <div type="gāthā" n="52">
+	      <milestone unit="syllables" n="d-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <quote type="base-text">
 		<lg n="52">
 		  <l>daliaṁ ṇikūṇiacchē dārummi a aṅgulīē a |</l><lb/>
@@ -9553,7 +9509,7 @@
 	    <div type="gāthā" n="56">
 	      <quote type="base-text">
 		<lg n="56">
-		  <l>dūṇāvēḍhamasakkē sarē a dōsō  'ddhukōvēsu |</l><lb/>
+		  <l>dūṇāvēḍhamasakkē sarē a dōsō ’ddhukōvēsu |</l><lb/>
 		  <l>dōhaṇahārī pāṇiahārīē pārihāriṇīē a || 56 ||</l><lb/>
 		</lg>
 	      </quote>
@@ -9563,13 +9519,12 @@
 		<s>dōhaṇahārī jalahāriṇī<lb/> pārihāriṇī ca || [56]</s>
               </p>
 	    </div>
-
-
-	    <label type="section">|| atha dhādiḥ ||</label>
 	    <div type="gāthā" n="57">
+	      <milestone unit="syllables" n="dh"/>
+	      <label type="section">|| atha dhādiḥ ||</label>
 	      <quote type="base-text">
 		<lg n="57">
-		  <l><milestone type="letter" n="dh"/>dharadhavvā tūlarayā bhamarē dhaṁgadhuagāyadhūmaṁgā |</l><lb/>
+		  <l>dharadhavvā tūlarayā bhamarē dhaṁgadhuagāyadhūmaṁgā |</l><lb/>
 		  <l>dhayadhaṁdhā ṇaralajjā dhavalō jaccōttamē gharē dhayaṇaṁ || 57 ||</l><lb/>
 		</lg>
 	      </quote>
@@ -9718,16 +9673,17 @@
 		<s>nakārādayastu dēśyāmasaṁbhavina ēvēti na nibaddhāḥ |</s>
 		<s>yacca vādāviti sūtritama<lb break="no"/>smābhistatsaṁskr̥tabhavaprākr̥taśabdāpēkṣayā na dēśyapēkṣayēti sarvamavadātam || [63]</s>
               </p>
-	      <trailer>||ity ācāryaśrīhēmacandraviracitāyāṁ dēśīnāmamālāyāṁ pañcamō vargaḥ ||</trailer>
+	      <label>||ity ācāryaśrīhēmacandraviracitāyāṁ dēśīnāmamālāyāṁ pañcamō vargaḥ ||</label>
 	    </div><!-- gāthā !-->
 	  </div><!-- adhyāya !-->
 	  <div type="adhyāya" n="6">
 	    <pb n="181"/>
+	    <milestone unit="syllables" n="p"/>
 	    <label type="section">|| atha pādiḥ ||</label>
 	    <div type="gāthā" n="1">
 	      <quote type="base-text">
 		<lg n="1">
-		  <l><milestone type="letter" n="p"/>paḍḍī paḍhamapasūā | pacchī piḍiā palaṁ pasēammi |</l><lb/>
+		  <l>paḍḍī paḍhamapasūā | pacchī piḍiā palaṁ pasēammi |</l><lb/>
 		  <l>gāmaṭṭhāṇē paddaṁ dhavalē paḍḍamahirōhiṇī pajjā || 1 ||</l><lb/>
 		</lg>
 	      </quote>
@@ -10037,7 +9993,7 @@
 		<s>paccēḍaṁ tathā paccavaraṁ musalam |</s>
 		<s>paggējjō tathā pahayarō nikaraḥ |</s>
 		<s>palahiaṁ tathā<lb/> purōhaḍaṁ viṣamam |</s>
-		<s>yadāha || palahiaṁ viṣamamasamaṁ ca purōhaḍaṁ gaditam || iti |<lb/> atra caturakṣarapakārādiśabdaprastāvē ukārasahitapakārādipurōhaḍaśabdapāṭhō  'rthānu<lb break="no"/>rōdhāt |</s>
+		<s>yadāha || palahiaṁ viṣamamasamaṁ ca purōhaḍaṁ gaditam || iti |<lb/> atra caturakṣarapakārādiśabdaprastāvē ukārasahitapakārādipurōhaḍaśabdapāṭhō ’rthānu<lb break="no"/>rōdhāt |</s>
 		<s>anyē tu palahiaṁ purōhaḍaṁity anyōnyaparyāyatayā āvr̥tamahīvāstuvācakā<lb break="no"/>vityāhuḥ |</s>
 		<s>yadāha || āvariamahīvatthū purōhaḍō palahiō taha ya || purōhaḍaṁ<lb/> pacchōkaḍamiti tu sātavāhanaḥ |</s>
 		<s>pariaṭṭō rajakaḥ ||</s>
@@ -10310,7 +10266,7 @@
 		<s>paḍialī tathā paviraïō tvaritaḥ |</s>
 		<s>paḍihatthō tathā pōṇiō pūrṇaḥ |</s>
 		<s>paḍikhaṁdhaṁ<lb/> paḍikhaṁdhī jalavahanam |</s>
-		<s>jalamuhyatē  'nēnēti jalavahanam |</s>
+		<s>jalamuhyatē ’nēnēti jalavahanam |</s>
 		<s>dr̥tyādi |</s>
 		<s>anyē jalavāha<lb break="no"/>māhuḥ |</s>
 		<s>pavaraṁgaṁ śiraḥ |</s>
@@ -10877,7 +10833,7 @@
 	    <div type="gāthā" n="55">
 	      <quote type="base-text">
 		<lg n="55">
-		  <l>puruhūō ghūē puḍaïṇī a ṇaliṇī pulāsiō  'ggikaṇē |</l><lb/>
+		  <l>puruhūō ghūē puḍaïṇī a ṇaliṇī pulāsiō ’ggikaṇē |</l><lb/>
 		  <l>asurē purilladēvō ukkaṇṭhāē a purupuriā || 55 ||</l><lb/>
 		</lg>
 	      </quote>
@@ -11075,8 +11031,9 @@
 		<l>pōlaccachēttakaṇṭhē supōmarā pēccha ahisaraï || 66 || [63]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā  !-->
-	    <label type="section">|| athānēkārthāḥ ||</label>
 	    <div type="gāthā" n="64">
+	      <milestone unit="syllables" n="p-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <quote type="base-text">
 		<lg n="64">
 		  <l>dariakkhamēsu pakkō pattaṇamisuphalayapuṅkhēśu |</l><lb/>
@@ -11193,7 +11150,7 @@
 		<s>dvāḥsthā pratīhārī |<lb/> ākr̥ṣṭirākarṣaṇam |</s>
 		<s>mahiṣī sāmānyōktāpi ciraprasūtēha gr̥hyatē |</s>
 		<s>ēṣu dvāḥsthādiṣu<lb/> triṣvarthēṣu payaḍḍhaṇipārihaṭṭiśabdau |</s>
-		<s>yad āha <persNama ref="pers:Gōpāla">gōpālaḥ</persNama> |</s>
+		<s>yad āha <persName ref="pers:Gōpāla">gōpālaḥ</persName> |</s>
 		<s>|| payaḍḍhaṇī syātpratīhārī |<lb/> ākr̥ṣṭiḥ parihaṭṭī payaḍḍhaṇī cēti vijñēyā || || dvāḥsthā ca pārihaṭṭī ākr̥ṣṭīḥ<lb/> pārihaṭṭī syāt || iti ca |</s>
 		<s>gōkulaprakaraṇē dēvarājastvāha |</s>
 		<s>parihāriṇī<lb break="no"/>payaḍḍhaṇipaḍicchiā pārihaṭṭīē || [72]</s>
@@ -11253,7 +11210,7 @@
 	      <quote type="base-text">
 		<lg n="76">
 		  <l>caccapaḍusu pāḍukkō vippuapaḍisāraēsu pālappō |</l><lb/>
-		  <l>haṁsē visē  'mbujē pāḍalō duvāratiriēsu pāsallaṁ || 76 ||</l><lb/>
+		  <l>haṁsē visē ’mbujē pāḍalō duvāratiriēsu pāsallaṁ || 76 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
@@ -11327,17 +11284,18 @@
 		<s>pēṁḍaṁ khaṇḍaṁ valayaśca |</s>
 		<s>pōō dhavavr̥kṣō laghusarpaścēti dvyarthaḥ |</s>
 		<s>pōō bāla iti tu<lb/> pōtaśabdabhavaḥ |</s>
-		<s>pōalaō āśvinamāsōtsavō  'pūpaśca |</s>
+		<s>pōalaō āśvinamāsōtsavō ’pūpaśca |</s>
 		<s>yadāha |</s>
-		<s>bhartā bhuṅktē  'pūpaṁ<lb/> yatra gr̥hiṇyāḥ karātsamādāya |</s>
-		<s>āśvayujē pōalaō sa utsavō  'pūpabhēdaśca || pō<lb break="no"/>alaō bālavasantaity anyē || [81]</s>
+		<s>bhartā bhuṅktē ’pūpaṁ<lb/> yatra gr̥hiṇyāḥ karātsamādāya |</s>
+		<s>āśvayujē pōalaō sa utsavō ’pūpabhēdaśca || pō<lb break="no"/>alaō bālavasantaity anyē || [81]</s>
               </p>
 	    </div>
-	    <label type="section">|| atha phādiḥ ||</label>
 	    <div type="gāthā" n="82">
+	      <milestone unit="syllables" n="ph"/>
+	      <label type="section">|| atha phādiḥ ||</label>
 	      <quote type="base-text">
 		<lg n="82">
-		  <l><milestone type="letter" n="ph"/>phaggū mahucchaṇē phalahī vavaṇī phasulaphaṁsulā mukkē |</l><lb/>
+		  <l>phaggū mahucchaṇē phalahī vavaṇī phasulaphaṁsulā mukkē |</l><lb/>
 		  <l>pharaō phalayammi a phaṁsulī a ṇōmāliāē a || 82 ||</l><lb/>
 		</lg>
 	      </quote>
@@ -11432,7 +11390,7 @@
 	      <p>
 		<s>phēllusaṇaṁ picchilō dēśaḥ |</s>
 		<s>phēllusa iti patanārthaḥ |</s>
-		<s>kriyāśabdō  'yam |</s>
+		<s>kriyāśabdō ’yam |</s>
 		<s>sa yadā<lb/> adhikaraṇasādhanastadā phēllusaṇaṁ picchilō dēśaḥ |</s>
 		<s>yadā tu bhāvasādhanastadā<lb/> phēllusaṇaṁ patanamucyatē |</s>
 		<s>ēvaṁ ca |</s>
@@ -11474,7 +11432,7 @@
 	      <quote type="base-text">
 		<lg n="88">
 		  <l>phōḍiayaṁ rāī dhūmiaṁ ca sīhāirakkhaṇavihī a |</l><lb/>
-		  <l><milestone type="letter" n="b"/>baṁdhō bhiccē babbhō vaddhē bappabaliā suhaḍapīṇā || 88 ||</l><lb/>
+		  <l>baṁdhō bhiccē babbhō vaddhē bappabaliā suhaḍapīṇā || 88 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <pb n="213"/>
@@ -11483,11 +11441,8 @@
 		<s>śākādi |</s>
 		<s>rātrāvaṭavyāṁ siṁhādirakṣāprakāraśca ||</s>
               </p>
-	    </div>
-
-
-	    <label type="section">|| atha bādiḥ ||</label>
-	    <div n="1">
+	      <milestone unit="syllables" n="b"/>
+	      <label type="section">|| atha bādiḥ ||</label>
 	      <p>
 		<s>baṁdhō bhr̥tyaḥ |</s>
 		<s>babbhō vardhraḥ |</s>
@@ -11731,11 +11686,8 @@
 		<l>bōhaharamaṅgalajhuṇīi jhatti mihuṇāṇa uṭṭhamāṇāṇa |</l><lb/>
 		<l>rayatuṭṭahāramuttā ua bōhārīharīu gēṇhanti || 83 ||</l><lb/>
 	      </lg><!-- example !-->
-	    </div>
-
-
-	    <label type="section">|| athānēkārthāḥ ||</label>
-	    <div n="1">
+	      <milestone unit="syllables" n="b-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <p>
 		<s>bahuṇō cōrō dhūrtaśca |</s>
 		<s>bāṇō subhagaḥ panasaśca || [97]</s>
@@ -11757,7 +11709,7 @@
 	      <quote type="base-text">
 		<lg n="99">
 		  <l>rūvamuhataṇusu bōṁdī bhūsiaāḍōvaēsu bōṁgillō |</l><lb/>
-		  <l><milestone type="letter" n="bh"/>bhallū ricchē bhaggaṁ littē bhaṁbhī a asaīē || [99]</l><lb/>
+		  <l>bhallū ricchē bhaggaṁ littē bhaṁbhī a asaīē || [99]</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
@@ -11766,6 +11718,7 @@
 		<s>bōṁgillō bhūṣita<lb/> āṭōpaśca ||</s>
               </p>
 	      <pb n="218"/>
+	      <milestone unit="syllables" n="bh"/>
 	      <label type="section">|| atha bhādiḥ ||</label>
 	      <p>
 		<s>bhallū r̥kṣaḥ |</s>
@@ -11977,8 +11930,9 @@
 		<l>bhōiabhēruṁḍā dōmuhabhōruḍayāṇa pēcchaï avāyaṁ || 93 || [108]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā  !-->
-	    <label type="section">|| athānēkārthāḥ ||</label>
 	    <div type="gāthā" n="109">
+	      <milestone unit="syllables" n="bh-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <quote type="base-text">
 		<lg n="109">
 		  <l>chiṇṇasirabandibhūsāsahidōhittēsu bhaṁḍō a |</l><lb/>
@@ -11987,7 +11941,7 @@
 	      </quote>
 	      <p>
 		<s>bhaṁḍō chinnamūrdhā māgadhō maṇḍanaṁ sakhā dauhitraścēti pañcārthaḥ |</s>
-		<s>bhaṁḍī śirīṣavr̥kṣō<lb/>  'ṭavī asatī gantrī cēti caturarthā || [109]</s>
+		<s>bhaṁḍī śirīṣavr̥kṣō<lb/> ’ṭavī asatī gantrī cēti caturarthā || [109]</s>
               </p>
 	      <pb n="222"/>
 	      <quote type="base-text">
@@ -12004,11 +11958,12 @@
 		<s>bēḍāyāṁ bhēlaōity api kēcit || [110]</s>
               </p>
 	    </div>
-	    <label type="section">|| atha mādayaḥ ||</label>
 	    <div type="gāthā" n="111">
+	      <milestone unit="syllables" n="m"/>
+	      <label type="section">|| atha mādayaḥ ||</label>
 	      <quote type="base-text">
 		<lg n="111">
-		  <l><milestone type="letter" n="m"/>maṁtī vivāhagaṇaē maṁṭhō saṇṭhē pihāṇiā maṁḍī |</l><lb/>
+		  <l>maṁtī vivāhagaṇaē maṁṭhō saṇṭhē pihāṇiā maṁḍī |</l><lb/>
 		  <l>maṁcō bandhē maggō pacchā maccaṁ malē malō sēē || 111 ||</l><lb/>
 		</lg>
 	      </quote>
@@ -12032,7 +11987,7 @@
 	      <quote type="base-text">
 		<lg n="112">
 		  <l>siṅgavihīṇē maṭṭō maṭṭhamarālā ya alasammi |</l><lb/>
-		  <l>maṁkhō  'ṇḍē mammī mallāṇī māmā ya māmīē || 112 ||</l><lb/>
+		  <l>maṁkhō ’ṇḍē mammī mallāṇī māmā ya māmīē || 112 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
@@ -12367,7 +12322,7 @@
 	      <quote type="base-text">
 		<lg n="128">
 		  <l>maṇiṇāyaharaṁ jalahī mālā juṇhāi rōmasē māī |</l><lb/>
-		  <l>māhaṁ ca kundakusumē māyaṁdō  'mbammi māḍiaṁ gēhē || 128 ||</l><lb/>
+		  <l>māhaṁ ca kundakusumē māyaṁdō ’mbammi māḍiaṁ gēhē || 128 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
@@ -12908,7 +12863,7 @@
 		<s>yathā |</s>
               </p>
 	      <lg type="example" n="6">
-		<l>rikkhō vi khalō  'ricchō vi riṭṭhaō riddhalimbariddhī a |</l><lb/>
+		<l>rikkhō vi khalō ’ricchō vi riṭṭhaō riddhalimbariddhī a |</l><lb/>
 		<l>rikkaṁ pi hu kiṁ mahurā riṁgantēhiṁ imē diṭṭhā || 6 || [6]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
@@ -12959,7 +12914,7 @@
 	    <div type="gāthā" n="9">
 	      <quote type="base-text">
 		<lg n="9">
-		  <l>rūaṁ tūlē  'kkadumē rūvī rūvavaïāi rūvamiṇī |</l><lb/>
+		  <l>rūaṁ tūlē ’kkadumē rūvī rūvavaïāi rūvamiṇī |</l><lb/>
 		  <l>rēṇī paṅkē chiṇṇammi rēsiaṁ rēvayaṁ paṇāmammi || 9 ||</l><lb/>
 		</lg>
 	      </quote>
@@ -13037,8 +12992,9 @@
 		<l>rōjjhi vva viaḍarōmūsalarōaṇivāḍayammi mā vacca || 12 || [12]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā  !-->
-	    <label type="section">|| athānēkārthāḥ ||</label>
 	    <div type="gāthā" n="13">
+	      <milestone unit="syllables" n="r-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <quote type="base-text">
 		<lg n="13">
 		  <l>haṁsē vagghē rattacchō raïjōajahaṇēsu raïlakkhaṁ |</l><lb/>
@@ -13085,7 +13041,7 @@
 	      <quote type="base-text">
 		<lg n="16">
 		  <l>rōhō pamāṇaṇamaṇēsu rōkkaṇī siṅgikūrakammēsu |</l><lb/>
-		  <l>ṇavadaṁpaīṇa aṇṇuṇṇaṇāmagahaṇōsavammi <milestone type="letter" n="l"/>layaṁ || 16 ||</l><lb/>
+		  <l>ṇavadaṁpaīṇa aṇṇuṇṇaṇāmagahaṇōsavammi layaṁ || 16 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
@@ -13095,6 +13051,7 @@
 		<s>kē rōkkaṇiō |</s>
 		<s>śr̥ṅgī nr̥śaṁsaścēti dvyarthaḥ |</s>
               </p>
+	      <milestone unit="syllables" n="l"/>
 	      <label type="section">|| atha lādiḥ ||</label>
 	      <p>
 		<s>layaṁ navadaṁpatyōḥ parasparaṁ nāmagrahaṇōtsavaḥ ||</s>
@@ -13301,11 +13258,9 @@
 		<l>iha lōṭṭiassa maha rayalōhillapiassa lēḍhiaṁ rayasi || 22 || [25]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā  !-->
-
-
-
-	    <label type="section">|| athānēkārthāḥ ||</label>
 	    <div type="gāthā" n="26">
+	      <milestone unit="syllables" n="l-mult"/>
+	      <label type="section">|| athānēkārthāḥ ||</label>
 	      <quote type="base-text">
 		<lg n="26">
 		  <l>lallaṁ sappihaṇūṇēsū kēsaōsāraēsu laṁbō vi |</l><lb/>
@@ -13347,19 +13302,15 @@
 	      <quote type="base-text">
 		<lg n="29">
 		  <l>lēḍukkō lampaḍaluṭṭhaēsu lōḍhō a bhariasaïēsu |</l><lb/>
-		  <l><milestone type="letter" n="v"/>vaṁgavayavaṁḍhavaḍḍā vāiṅgaṇagiddhabandhagaruēsu || 29 ||</l><lb/>
+		  <l>vaṁgavayavaṁḍhavaḍḍā vāiṅgaṇagiddhabandhagaruēsu || 29 ||</l><lb/>
 		</lg>
 	      </quote>
 	      <p>
 		<s>lēḍukkō lampaṭō lōṣṭaśca |</s>
 		<s>lōḍhō smr̥taḥ śayitaśca ||</s>
               </p>
-	    </div><!-- gāthā !-->
-
-
-
-	    <label type="section">|| atha vādiḥ ||</label>
-	    <div n="1">
+	      <milestone unit="syllables" n="v"/>
+	      <label type="section">|| atha vādiḥ ||</label>
 	      <p>
 		<s>vaṁgaṁ vr̥ntākam |</s>
 		<s>vaō gr̥dhrapakṣī |</s>
@@ -13506,7 +13457,7 @@
 		<s>vaṁḍuaṁ rājyam |</s>
 		<s>vaḍālī paṅktiḥ |</s>
 		<s>varaō śālibhēdaḥ |</s>
-		<s>yō  'sāvaṇuriti<lb/> prasiddhaḥ |</s>
+		<s>yō ’sāvaṇuriti<lb/> prasiddhaḥ |</s>
 		<s>vallaī gauḥ |</s>
 		<s>vīṇāgōpīvācakastu vallakīvallavīśabdabhavaḥ |</s>
 		<s>vaddhayaṁ pradhā<lb break="no"/>nam |</s>
@@ -14072,7 +14023,7 @@
 		</quote>
 		<p>
 		  <s>vihaī vr̥ntākī |</s>
-		  <s>vikkhāsō viruō vēluṁkō trayō  ' pyamī virūpārthāḥ |</s>
+		  <s>vikkhāsō viruō vēluṁkō trayō ’ pyamī virūpārthāḥ |</s>
 		  <s>vilaō<lb/> sūryāstamayaḥ |</s>
 		  <s>viōlō āvignaḥ |</s>
 		  <s>vihaṇṇaṁ piñjanam ||</s>
@@ -14171,7 +14122,7 @@
 		<quote type="base-text">
 		  <lg n="68">
 		    <l>pacchātāvammi viṇivvaraṁ ca kōsumbhayammi virahālaṁ |</l><lb/>
-		    <l>viccōayavibbhavaṇā uvahāṇē taha viāluō  ' sahaṇē || 68 ||</l><lb/>
+		    <l>viccōayavibbhavaṇā uvahāṇē taha viāluō ’ sahaṇē || 68 ||</l><lb/>
 		  </lg>
 		</quote>
 		<p>
@@ -14488,7 +14439,7 @@
 		<quote type="base-text">
 		  <lg n="82">
 		    <l>vōkilliaṁ ca rōmanthē taha vōbhīsaṇō varāyammi |</l><lb/>
-		    <l>dārēgadēsakhēttēsu vaḍō a vaṇō  'hiārasavacēsu || 82 ||</l><lb/>
+		    <l>dārēgadēsakhēttēsu vaḍō a vaṇō ’hiārasavacēsu || 82 ||</l><lb/>
 		  </lg>
 		</quote>
 		<p>
@@ -14500,11 +14451,8 @@
 		  <l>uppāiümasamatthā jē cavviacavvaṇaṁ kuṇanti kaī |</l><lb/>
 		  <l>vōbhīsaṇā phuḍaṁ tē vōkilliakāriṇō pasuṇō || 76 ||</l><lb/>
 		</lg><!-- example !-->
-	      </div><!-- gāthā !-->
-
-
-	      <label type="section">|| athānēkārthāḥ ||</label>
-	      <div n="1">
+		<milestone unit="syllables" n="v-mult"/>
+		<label type="section">|| athānēkārthāḥ ||</label>
 		<p>
 		  <s>vaḍō dvāraikadēśaḥ kṣētraṁ cēti dvyarthaḥ |</s>
 		  <s>vaṇō adhikāraḥ śvapacaśva || [82]</s>
@@ -14579,7 +14527,7 @@
 		<p>
 		  <s>vaṭṭamāṇaṁ aṅgaṁ gandhadravyādhivāsabhēdaśca |</s>
 		  <s>vaḍḍhavaṇaṁ vastrāharaṇamabhyudayāvēdanaṁ<lb/> cēti dvyartham |</s>
-		  <s>atra varahāḍaï niḥsarati dhātavō  'rthāntarē  'pīti [siddhahēma. VIII,<lb/> 4, 259.] niṣēdhati cēti dhātvādēśēṣūkta iti nōktaḥ || [87] |</s>
+		  <s>atra varahāḍaï niḥsarati dhātavō ’rthāntarē ’pīti [siddhahēma. VIII,<lb/> 4, 259.] niṣēdhati cēti dhātvādēśēṣūkta iti nōktaḥ || [87] |</s>
 		</p>
 		<pb n="269"/>
 		<quote type="base-text">
@@ -14686,13 +14634,13 @@
 		<quote type="base-text">
 		  <lg n="95">
 		    <l>vēiddhō uddhīkayavisaṁṭhulāviddhasiḍhilayaṁgēsu |</l><lb/>
-		    <l>vēālō  'ndhatamēsuṁ vēāriamavi payāriakacēsu || 95 ||</l><lb/>
+		    <l>vēālō ’ndhatamēsuṁ vēāriamavi payāriakacēsu || 95 ||</l><lb/>
 		  </lg>
 		</quote>
 		<pb n="271"/>
 		<p>
 		  <s>vēiddhō ūrdhvīkr̥tō visaṁsthula āviddhaḥ śithilatāṁ gataścēti caturarthaḥ |</s>
-		  <s>vēālō<lb/> andhō  'ndhakāraśca |</s>
+		  <s>vēālō<lb/> andhō ’ndhakāraśca |</s>
 		  <s>vēāriaṁ pratāritam |</s>
 		  <s>vēāriā kēśāścēti dvyarthō vēāri<lb break="no"/>aśabdaḥ || [95]</s>
 		</p>
@@ -14700,7 +14648,7 @@
 	      <div type="gāthā" n="96">
 		<quote type="base-text">
 		  <lg n="96">
-		    <l>vēhaviō  'ṇāyarakōvaṇēsu vēlāiaṁ ca miudīṇaṁ |</l><lb/>
+		    <l>vēhaviō ’ṇāyarakōvaṇēsu vēlāiaṁ ca miudīṇaṁ |</l><lb/>
 		    <l>vēllahalō maüavilāsīsuṁ vōjjharamaīabhīēsu || 96 ||</l><lb/>
 		  </lg>
 		</quote>
@@ -14722,9 +14670,10 @@
 		<p>
 		  <s>aṣṭamavargē prākr̥tē śaṣau na saṁbhavata iti sādayaḥ prastūyantē |<lb/></s>
 		</p>
+		<milestone unit="syllables" n="s"/>
 		<quote type="base-text">
 		  <lg n="1">
-		    <l><milestone type="letter" n="s"/>sīhakumuēsu saḍhisaṁphā sahasaṁghāriā jōggē |</l><lb/>
+		    <l>sīhakumuēsu saḍhisaṁphā sahasaṁghāriā jōggē |</l><lb/>
 		    <l>sattī vaṁkativayavaṭṭuladāru satthasēhiā ya gaē || 1 ||</l><lb/>
 		  </lg>
 		</quote>
@@ -14933,7 +14882,7 @@
 		</p>
 		<lg type="example" n="11">
 		  <l>kiṁ sattatthē daïē saṁjatthā hōsi raṇirasiṁdīrē |</l><lb/>
-		  <l>tuha saddālapaḍiravō ṇa saïjjhē siṁkhalāravō  'ṇṇāē || 11 || [10]</l><lb/>
+		  <l>tuha saddālapaḍiravō ṇa saïjjhē siṁkhalāravō ’ṇṇāē || 11 || [10]</l><lb/>
 		</lg><!-- example !-->
 	      </div><!-- gāthā !-->
 	      <div type="gāthā" n="11">
@@ -14982,7 +14931,7 @@
 		  <l>jaṁ sīharayasaüliō kuvaï asaṁvaṭṭiaṁ mayaṇō || 13 ||</l><lb/>
 		</lg><!-- example !-->
 		<p>
-		  <s>iha || sarāhayaṁ jāṇa payalāyaṁ ||ity abhimānacinhasūtrapāṭhē sthitē  'nyōnyapa<lb break="no"/>ryāyatayā dvāvapi sarpavācakāvityajānatā payalāō śarāhata iti vyākhyāya pāṭhōdū<lb break="no"/>khalēna yadudāhr̥tam |</s>
+		  <s>iha || sarāhayaṁ jāṇa payalāyaṁ ||ity abhimānacinhasūtrapāṭhē sthitē ’nyōnyapa<lb break="no"/>ryāyatayā dvāvapi sarpavācakāvityajānatā payalāō śarāhata iti vyākhyāya pāṭhōdū<lb break="no"/>khalēna yadudāhr̥tam |</s>
 		</p>
 		<lg type="example" n="14">
 		  <l>saraḍō vva viviharūvō kaō si taṁ jīi suhaya taṁ cēa |</l><lb/>
@@ -15019,7 +14968,7 @@
 		  <s>samuggiaṁ pratīkṣitam |</s>
 		  <s>yadāha |</s>
 		  <s>|| pratipālitaṁ<lb/> samuggiaṁ || iti |</s>
-		  <s>atra pratipālitaśabdasya pratīkṣitamityarthō  'smābhirvyākhyātaḥ |<lb/> yadi tu pālanamātraṁ pratipālitaśabdasyārthastadapyastu |</s>
+		  <s>atra pratipālitaśabdasya pratīkṣitamityarthō ’smābhirvyākhyātaḥ |<lb/> yadi tu pālanamātraṁ pratipālitaśabdasyārthastadapyastu |</s>
 		  <s>kēvalaṁ sahr̥dayāḥ pramāṇam |<lb/> satthaïaṁ tathā sāṇaïaṁ uttējitam |</s>
 		  <s>sarabhēaṁ smr̥tam ||</s>
 		  <s>yathā |</s>
@@ -15733,7 +15682,7 @@
 		  <s>sēribhaō |</s>
 		  <s>kapratyayābhāvē sēribhō |</s>
 		  <s>dhuryavr̥ṣabhaḥ |</s>
-		  <s>sēribhō mahiṣē  'pītyanyē |<lb/> sōttī nadī |</s>
+		  <s>sēribhō mahiṣē ’pītyanyē |<lb/> sōttī nadī |</s>
 		  <s>sōaṁ svapanam |</s>
 		  <s>sōllaṁ tathā sōmālaṁ māṁsam ||</s>
 		  <s>yathā |</s>
@@ -15789,13 +15738,8 @@
 		  <l>cālukka sōlahāvattasēajasa bhaggarajjamahuchattā |</l><lb/>
 		  <l>sōvaṇṇamakkhiāu va disō disaṁ janti vēriṇō tujjha || 51 ||</l><lb/>
 		</lg><!-- example !-->
-	      </div><!-- gāthā !-->
-
-
-
-
-	      <label type="section">|| athānēkārthāḥ ||</label>
-	      <div n="1">
+		<milestone unit="syllables" n="s-mult"/>
+		<label type="section">|| athānēkārthāḥ ||</label>
 		<p>
 		  <s>saḍhā kēśāḥ |</s>
 		  <s>saḍhaṁ viṣamam |</s>
@@ -15969,13 +15913,12 @@
 		  <s>sōvaṇō svapnō<lb/> mallaścēti tryarthaḥ sōvaṇaśabdaḥ || [58]</s>
 		</p>
 	      </div>
-
-
-	      <label type="section">|| atha hādiḥ ||</label>
 	      <div type="gāthā" n="59">
+		<milestone unit="syllables" n="h"/>
+		<label type="section">|| atha hādiḥ ||</label>
 		<quote type="base-text">
 		  <lg n="59">
-		    <l><milestone type="letter" n="h"/>haḍḍaṁ aṭṭhimmi harī kīrē dūrē haṇaṁ haḍaṁ hariē |</l><lb/>
+		    <l>haḍḍaṁ aṭṭhimmi harī kīrē dūrē haṇaṁ haḍaṁ hariē |</l><lb/>
 		    <l>hatthaṁ hallapphaliaṁ huliaṁ sigghāmmi haṇu sasēsammi || 59 ||</l><lb/>
 		  </lg>
 		</quote>
@@ -16216,7 +16159,7 @@
 		<quote type="base-text">
 		  <lg n="70">
 		    <l>hirimaṁthā caṇaēsuṁ hīrō sūīṇihē huḍō mēsē |</l><lb/>
-		    <l>huttō  'bhimuhē huḍḍā paṇammi huḍuahuḍumā pavāhadhayā || 70 ||</l><lb/>
+		    <l>huttō ’bhimuhē huḍḍā paṇammi huḍuahuḍumā pavāhadhayā || 70 ||</l><lb/>
 		  </lg>
 		</quote>
 		<pb n="298"/>
@@ -16301,7 +16244,7 @@
 	      <div type="gāthā" n="74">
 		<quote type="base-text">
 		  <lg n="74">
-		    <l>tumulammi kōuē halahalaṁ haḍahaḍō  'ṇurāyatāvēsu |</l><lb/>
+		    <l>tumulammi kōuē halahalaṁ haḍahaḍō ’ṇurāyatāvēsu |</l><lb/>
 		    <l>harapaccuaṁ sumariē ṇāmōddēsēṇa diṇṇē a || 74 ||</l><lb/>
 		  </lg>
 		</quote>
