@@ -1,0 +1,564 @@
+Changes from Bühler’s edition:
+Verse 265: Read pāuyaṁ instead of pāuyayaṁ (m.c.).
+Verses 175, 194, and 236 are unmetrical in Bühler’s text, but I have left them as they are.
+
+namiūṇa paramapurisaṁ purisuttamanābhisaṁbhavaṁ dēvaṁ
+vucchaṁ pāiyalacchi tti nāmamālaṁ nisāmēha - 1
+kamalāsaṇō sayaṁbhū piyāmahō caümuhō ya paramiṭṭhī
+thērō vihī viriṁcō payāvaī kamalajōṇī ya - 2
+dakkhāyaṇī bhavāṇī sēlasuyā pavvaī umā gōrī
+ajjā duggā kālī sivā ya kaccāyaṇī caṁḍī - 3
+akkō taraṇī mittō mattaṇḍō diṇamaṇī payaṁgō ya
+ahimayarō paccūhō diyasayarō aṁsumālī ya - 4
+indū nisāyarō sasaharō vihū gahavaī rayaṇināhō
+mayalaṁchaṇō himayarō rōhiṇiramaṇō sasī candō - 5
+dhūmaddhaō huyavahō vihāvasū pāvaō sihī vaṇhī
+aṇalō jalaṇō ḍahanō huyāsaṇō havvavāhō ya - 6
+mayaraddhaō aṇaṁgō raïṇāhō vammahō kusumabāṇō 
+kandappō paṁcasarō mayaṇō saṁkappajōṇī ya - 7
+mayaraharō siṁdhuvaī siṁdhū rayaṇāyarō salilarāsī
+pārāvārō jalahī taraṁgamālī samuddō ya - 8
+pīlū gaō mayagalō māyaṁgō siṁdhurō karēṇū ya
+dōghaṭṭō daṁtī vāraṇō karī kuṁjarō hatthī - 9
+aṁburuhaṁ sayavattaṁ sarōruhaṁ puṁḍarīyamaraviṁdaṁ
+rāīvaṁ tāmarasaṁ mahuppalaṁ paṁkayaṁ naliṇaṁ - 10
+phullaṁdhuā rasāū bhiṁgā bhasalā ya mahuyarā aliṇō
+iṁdiṁdirā durēhā dhuyagāyā chappayā bhamarā - 11
+rāmā ramaṇī sīmaṁtiṇī vahū vāmalōyaṇā vilayā
+mahilā juvaī abalā niyaṁbinī aṁgaṇā nārī - 12
+sacchaṁdā uddāmā niraggalā mukkalā visaṁkhalayā
+niravaggahā ya saïrā niraṁkusā hunti appavasā – 13
+ruiraṁ rāhaṁ rammaṁ ahirāmaṁ baṁdhuraṁ maṇujjaṁ ca
+laṭṭhaṁ kaṁtaṁ suhayaṁ maṇōramaṁ cāru ramaṇijjaṁ - 14
+masiṇaṁ saṇiyaṁ maṭṭhaṁ maṁdaṁ alasaṁ jaḍaṁ marālaṁ ca
+khēlaṁ nihuaṁ saïraṁ vīsatthaṁ maṁtharaṁ thimiyaṁ - 15
+saṁdhukkiyam uddīviyam ujjālīyaṁ palīviyaṁ jāṇa
+saṁdumiyaṁ ūsikkiyam ubbhuttiyayaṁ ca tēyaviyaṁ (?) - 16
+sayarāhaṁ navari ya dutti jhatti sahasatti ikkasariyaṁ ca
+avihāviyam ikkavaē atakkiyaṁ takkhaṇaṁ sahasā - 17
+uppaṁkō oppīlō ukkērō pahayarō gaṇō payarō
+ōhō nivahō saṁghō saṁghāō saṁharō niyarō - 18
+saṁdōhō niuraṁbō bharō nihāō samūhanāmāiṁ 
+ittāhē gāhaddhēhĩ vaṇṇimō vatthupajjāē - 19
+lōyaggaṁ paramapayaṁ muttī siddhī sivaṁ ca nivvāṇaṁ
+suddhōyaṇī dasabalō sakkō sugaō jiṇō buddhō - 20
+saürī dasāranāhō vaïkuṁṭhō mahumahō uviṁdō ya
+sūlī sivō piṇāī thāṇū girisō bhavō saṁbhū - 21 
+kaṁcārī khaṁdō chaṁmuhō visāhō guhō kumārō ya
+amarā tiyasā vaṁdārayā ya vibuhā surā dēvā - 22
+akkhaṁḍalō suravaī puraṁdarō vāsavō suṇāsīrō 
+rāmō sīrī musalāuhō balō kāmapālō ya - 23
+pēyāhivō kayaṁtō kīṇāsō aṁtaō jamō kālō
+vēsamaṇō nihināhō jakkhāhivaī kubērō ya - 24
+aṇilō gaṁdhavahō māruō samīrō pahaṁjaṇō pavaṇō
+viṇayasuō khayarāō takkhō pannayariū garulō - 25
+uraō ahī bhuyaṁgō bhuyaṁgamō pannaō phaṇī bhuyaō
+huṁti daïccā duṇayā surariuṇō dāṇavā asurā - 26
+abbhāĩ dhūmajōṇī balāhayā jalaharā ya jīmūyā
+khaṁ abbham aṁtarikkhaṁ vōmaṁ naham aṁbaraṁ gayaṇaṁ - 27
+aṁbu salilaṁ vaṇaṁ vāri nīram udayaṁ dayaṁ payaṁ tōyaṁ
+sariyā taraṁgiṇī niṇṇayā naī āvayā siṁdhū - 28
+vasuhā vasuṁdharā vasumaī mahī mēiṇī dharā dhariṇō
+abbhapisāō rāhū gahakacchōlō viḍappō ya - 29
+ḍhayarā puyāiṇō pippayā parēyā pi sallayā bhūyā
+rayaṇiyarajāuhāṇā kavvāyā kōṇavā rakkhā - 30
+maṁdāiṇī suraṇaī gaṁgā bhāgīrahī ya jaṇhusuyā
+mēhā maī maṇīsā vinnāṇaṁ dhī ciī buddhī - 31
+jaïṇō tavassiṇō tāvasā risī bhikkhuṇō muṇī samaṇā
+maṁgalapāḍhayam āgahacāraṇavēyāliyā baṁdī - 32
+āsō sattī vāhō haō turaṁgō turaṁgamō turaō
+saṁgāmō saṁjuyam āhavaṁ raṇaṁ saṁgaraṁ samaraṁ - 33
+rōlō rāvō vayalō halabōlō kalayalō vamālō ya
+sēṇā varūhiṇī vāhiṇī aṇīyaṁ camū sinnaṁ - 34
+rōrō akiṁcaṇō duvvihō dariddō ya duggaō nissō
+sattū arī amittō riū arāī ya paḍivakkō - 35
+kaṇaō silīmuhō maggaṇō isū sāyaō sarō visihō
+pakkā sahā samatthā ya pakkalā paccalā pōḍhā - 36
+kōyaṁḍaṁ gaṁdīvaṁ dhammaṁ dhaṇuhaṁ sarāsaṇaṁ cāvaṁ
+khaggaṁ asī kivāṇaṁ karavālaṁ maṁḍalaggaṁ ca - 37
+siṇhā nīhārō dhūmiyā ya mahiyā ya dhūmamahisī ya
+kallōlō ullōlō ummī vīī taraṁgō ya - 38
+nīluppalaṁ viyāṇaha kuvalayam iṁdīvaraṁ ca kaṁduṭṭhaṁ
+caṁdujjayaṁ tu kumuyaṁ gaddahayaṁ kēravaṁ sapphaṁ - 39
+dhayaraṭṭhā kāyaṁbā haṁsā dhavalasaüṇā marālā ya
+saülā saharā mīṇā timī jhasā aṇimisā macchā - 40
+saüṇā khagā saüṁtā pattarahā aṁḍayā vihaṁgā ya
+sāṇā bhasaṇā iṁdamahakāmuyā maṁḍalā kavilā - 41
+piyamāhavī parahuyā kalayaṁṭhī kōilā vaṇasavāī
+mōrā sihī barahiṇō sihaṁḍiṇō nīlakaṁthā va - 42
+sāhāmaō balimuhō pavaṁgamō vāṇarō kaī pavaō
+paṁcāṇaṇō mayārī mayāhivō kēsarī sīhō - 43
+baliüḍḍhā riṭṭhā vukkaṇā va ḍhaṁkā ya kāyalā kāyā
+illī pullī vagghō saddūlō puṁḍarīō ya - 44
+naṁdī taṁbā bahulā giṭṭhī mōlā ya rōhiṇī surahī
+ēṇī hariṇī kamalā mayī kuraṁgī ya sāraṁgī - 45
+gōsō rayaṇivirāmō gōsaggō diṇamuhaṁ ca paccūsō
+ghammō tāvō ḍāhō umhā uṇhaṁ nirōhō ya - 46
+aṁsū rassī pāyā karā maūhā gahatthiṇō kiraṇā
+rayaṇī vihāvarī savvarī nisā jāmiṇī rāī - 47
+ālōō ujjōō dittī bhāsā pahā payāsō ya
+saṁtamasam aṁdhayāraṁ dhaṁtaṁ timiraṁ tamissaṁ ca - 48
+bhavaṇaṁ gharamāvāsō nilaō vasahī nihēlaṇam agāraṁ
+ritthaṁ daviṇaṁ davvaṁ sārō vittaṁ vasuṁ atthō - 49
+sēlō ayalō addī silōccaō mahiharō dharō siharī
+hēmaṁ kaṇayaṁ cāmīyaraṁ pasiṁḍiṁ ca tavaṇijjaṁ - 50
+vāṇī vāyā bhaṇiī sarassaī bhāraī girā bhāsā
+āyaṁkō āyallō vāhī taha āmaō rōhō - 51
+maggō paṁthō saraṇī addhāṇaṁ vattiṇī pahō payavī
+uttaṁsō avayaṁsō kannēlī kannaūrō ya - 52
+duriyaṁ kalusaṁ dukkayam ahaṁ ahammō ya kammasaṁ pāvaṁ
+micchā mōhaṁ vihalaṁ aliyam asaccaṁ asabbhūyaṁ - 53
+sāhī viḍavī vacchō mahīruhō pāyavō dumō ya tarū
+kuṁcalakuṁpalakōrayachārayakaliyāu maülaṁ ti - 54
+avalēōhaṁkārō maō maraṭṭhō maḍappharō dappō
+uppēhaḍam uḍḍāmaram ubbhaḍam āḍaṁbarillaṁ ca - 55
+ahisāriyā aḍayaṇā ya paṁsulī chiṁchaī ya dussīlā
+jāyā pattī dārā ghariṇī bhajjā puraṁdhī ya - 56
+kabarī kuṁtalahārō dhammillō kēsahatthaō maüḍī
+cūlā sihā sihaṁḍī siṁhaliyā chiṁḍaō caḍaō - 57
+ḍaharō ḍiṁbhō cullō sisū silaṁbō ya abbhaō pōō
+cēḍī dilliṁdiliyā ya duddhagaṁdhiyamuhī bālā - 58
+muttī gattaṁ buṁdī saṁghayaṇaṁ viggahō taṇū kāō
+duiō biijjaō aṇuyarō sahāō sahayarō ya - 59
+caürā niüṇā kusalā chēyā viusā buhā ya pattaṭṭhā
+maṇuyā narā maṇussā maccā taha māṇavā purisā - 60
+vacchīuttaṁ jāṇiha ya caṁḍilaṁ ṇhāviyaṁ ca rattīyaṁ
+ramaṇō kaṁtō paṇaī pāṇasamō piyayamō daïō - 61
+vicchaḍḍō sāmiddhī riddhī vihavō sirī ya saṁpattī
+juyalō juyā juyāṇō puyaṁḍaō bōdrahō taruṇō - 62
+vivaraṁ kuharaṁ raṁdhaṁ kucchillaṁ aṁtaraṁ kuḍillaṁ ca
+ōlī mālā rāī riṁchōlī āvalī paṁtī - 63
+maïrēyaṁ mahuvārō sīhū saraō mahuṁ avakkarasō
+kāyaṁbarī pasannā hālā taha vāruṇī maïrā - 64
+ghōrā dāruṇa-bhāsura-bhaïrava-lallakka-bhīma-bhīsaṇayā
+dussikkhiya-duccaṁḍiya-dullaliyā duvviyaḍḍhā ya - 65
+vāullō jaṁbullō muhulō bahujaṁpirō ya vāyālō
+vuttaṁtō ya uyaṁtō vattā ya paüttināmāï - 66
+kālō vēlā samaō patthāō aṁtaraṁ avasarō ya
+ihaïṁ saṁpaï iṇhiṁ ittāhē saṁpayaṁ dāṇiṁ - 67
+ciṁdhāĩ vējayaṁtīo paḍāyā kēuṇō dhayā huḍumā
+kuppāsō kaṁcuyaō giṁdhullō vāravāṇō ya - 68
+jāṇa sicayaṁ kaḍillaṁ niyaṁsaṇaṁ sāhulī ya parihaṇayaṁ
+cēlaṁ vāsaṁ vasaṇaṁ ca aṁsuyaṁ aṁbaraṁ vatthaṁ - 69
+hēlā laliyaṁ līlā vibbhōō vibbhamō vilāsō ya 
+īhā icchā vaṁchā saddhā kāmō ya āsaṁsā - 70
+bālā mūḍhā maṁdā ayāṇuyā bālisā jaḍā mukkhā
+pāmara-gahavaï-sēyāla-kāsayā dōṇayā haliyā - 71
+pōracchō pisuṇō maccharī khalō muhumuhō ya upphālō
+kamalō kusumālō takkarō ya pāḍaccarō thēṇō - 72
+niddhaṁdhasā nisaṁsā niccuḍḍā nikkivā akaruṇā ya
+ruṁdā pīṇā thūlā ya maṁsalā pīvarā thōrā - 73
+sarisō samō saricchō saṁkāsō sacchahō samāṇō ya
+kaḍhiṇā ya kakkasā niṭṭhurā kharā khappurā pharusā - 74
+uttāṇā uttaṇuyā thinnā thaḍḍā ya gavviyā dariyā
+lōlā lālasa-lōluya-ullēhaḍalaṁpaḍā luddhā - 75
+sannaṁ khinnaṁ suṭhiyaṁ uvvāyaṁ nīsahaṁ kilaṁtaṁ ca
+āiggaṁ uvviggaṁ uccēyaṁ vunnam uttatthaṁ - 76
+ghaḍiaṁ viṇimmiyaṁ vihiyam āhiyaṁ viraïyaṁ kayaṁ jaṇiyaṁ
+ghattaṁ kavaliyam asiyaṁ viluṁpiyaṁ vaṁphiyaṁ khaïyaṁ - 77
+saccaviya-diṭṭha-pulaïya-niyacchiyāiṁ nihāliyatthaṁmi 
+pavvāliyamāuṁbāliyaṁ ca salilucchayaṁ jāṇa - 78
+rōmaṁciyam ārēiyam ūsaliyaṁ pulaïyaṁ ca kaṁṭhaïaṁ
+pāmukkaṁ vicchaḍḍiyam avahatthiyam ujjhiyaṁ cattaṁ - 79
+niṭṭhuiyaṁ khiriyaṁ chippiyaṁ ca nīsaṁdiyaṁ ca pajjhariyaṁ
+vēyaḍiyaṁ pajjhuttaṁ khaciyaṁ vicchuriyayaṁ jaḍiyaṁ - 80
+vōlīṇaṁ vukkaṁtaṁ aïcchiyaṁ vōliyaṁ aïkkaṁtaṁ
+paḍihattham uddhumāyaṁ ahirēmaïyaṁ ca apphuṇṇaṁ - 81
+hakkhuttaṁ uccūḍhaṁ ukkhittuppāḍiyāĩ uddhariyaṁ
+kōvāsiyaṁ viyasiyaṁ viṇiddamummillamupphullaṁ - 82
+bajjariya-siddha-sūiya-upphāliya-pisuṇiyāĩ sāhiyayaṁ
+pavvāyaṁ vasuyāyaṁ susiyaṁ vāyaṁ milāṇatthē - 83
+vicchūḍhaṁ ucchittaṁ paṇulliyaṁ pilliyaṁ galatthiyayaṁ
+pēḍhālaniyakkalavaṭṭulāĩ parimaṁḍalatthaṁmi - 84
+ṭiviḍikkiyaciṁcilliyaciṁcaïyapasāhiyāĩ maṁḍiyayaṁ
+āluṁkhiyam āliddhaṁ chikkaṁ chittaṁ parāmusiyaṁ - 85
+sāmaggiyam avayāsiyam āliṁgiyayam uvaūḍham ōsattaṁ
+agghaï chajjaï rēhaï virāyaē sōhaē sahaï - 86
+saï avirayam avirāmaṁ aṇuvēlaṁ saṁtayaṁ sayā niccaṁ
+chāyaṁ chaüyaṁ layaṇaṁ taṇuyaṁ taliṇaṁ kisaṁ khāmaṁ - 87
+laliyaṁ vagguṁ maṁjuṁ maṁjulayaṁ pēsalaṁ kalaṁ mahuraṁ
+kōmalayaṁ suhaphaṁsaṁ sōmālaṁ pēlavaṁ maü ya - 88
+viyaḍaṁ viulaṁ pihulaṁ vitthinnaṁ vitthayaṁ uru visālaṁ
+khaüriyam ucciṁvalayaṁ paṭṭuhiyaṁ jāṇa kalusajalaṁ - 89
+gāḍhaṁ bāḍhaṁ baliyaṁ dhaṇiyaṁ daḍhamaïsaēṇa accatthaṁ
+saïdaṁsaṇaṁ saïsuhaṁ ciṁtādiṭṭhaṁmi saïlaṁbhaṁ - 90
+abbhāsaṁ abbhannaṁ āsannaṁ savihamaṁtiyaṁ niyaḍaṁ
+kaliyaṁ viiyaṁ viṇṇāyam ahigayaṁ bujjhiyaṁ muṇiyaṁ - 91
+sāmalam asiyaṁ sāmaṁ kālaṁ kasiṇaṁ siēyaraṁ kaṇhaṁ
+sēyaṁ siyaṁ valakkhaṁ avadāyaṁ paṁḍu dhavalaṁ ca - 92
+kavilaṁ kavisaṁ piṁgaṁ pisaṁgayaṁ piṁgayaṁ kaḍāraṁ ca
+aruṇaṁ sōṇaṁ rattaṁ pāḍalam āyaṁbiraṁ taṁbaṁ - 93
+phasalaṁ sabalaṁ sāraṁ kimmīraṁ cittalaṁ ca bōgillaṁ
+ittō nāmaggāmaṁ gāhācalaṇēsu ciṁtēmi - 94
+amarāvaī surapurī tiviṭṭhayaṁ taha surālaō nāo
+alayā kubēranayarī titthāhivaī jiṇō arahā - 95
+kamalā sirī ya lacchī hēraṁbō gayamuhō gaṇāhivaī 
+rikkhaṁ uḍu nakkhattaṁ punnayaṇā gujjhayā jakkhā - 96
+naṁdaṇam amarujjāṇaṁ kaṇayagirī suragirī sumērū ya
+phalihagirī kaïlāsō vihassaī suragurū dhisaṇō - 97
+vāsavasuō jayaṁtō pulōmataṇayā saī ya iṁdāṇī
+aïrāvaṇō suragaō vijjū sōyāmaṇī ya taḍī - 98
+asaṇī vajjaṁ kulisaṁ surāuhaṁ tiyasacāvam iṁdadhaṇuṁ
+aṁgāraō ya bhōmō usaṇō sukkō daïccagurū - 99
+bhuyaṇaṁ jayaṁ ca lōō naranāhō patthivō nivō rāyā
+mittō sahī vayaṁsō maṁtī saïvō amaccō ya - 100
+aṁtēvāsī sīsō chaliō chappaṇṇaō chaïllō ya
+aḍḍhā ibbhā dhaṇiṇō baṁdhū sayaṇō saṇāhī ya - 101
+vippō diō diyāī ya aṁgayā naṁdaṇā suyā taṇayā
+ahiyāō kulajāō aṇujīvī sēvaō bhiccō - 102
+nīsāmannā garuyā ahamā iyarā ya pāyayā nīyā
+rahayārā vaḍḍhaïṇō vacchīvā vacchavālā ya - 103
+sāsāĩ chattadhannāĩ gāmaṇī bhōiō ya gāmavaī
+kuṁbhārō ya kulālō gōvālā vallavā gōvā - 104
+āvaṇiyā vāṇiyayā māyaṁgā taha janaṁgamā pāṇā
+pāüggiō ya sahiō kēvaṭṭō dhīvarō dāsō - 105
+baṁdīō karamariō pupphacciṇiyāo pupphalāīō
+thaṁbhō thēvō viṁdū khavvō hassō ya vāmaṇaō - 106
+rōyaṇiyā lāmāō mūō mūyalliō ya tuṇhikkō
+vayapariṇāmō ya jarā thērī jaraī gayavayā ya - 107
+sōvaṇayaṁ raïmaṁdiramālī taha māuyā sahī attā
+parayattō parachaṁdō vikkhāō vissuō payaḍō - 108
+nakkhā nahā kararuhā kēsā cihurā sirōruhā vālā
+calaṇā kamā ya pāyā paōharā taha thaṇā sihiṇā - 109
+pāṇī hatthā ya karā kattī cammamaïṇaṁ chavī khallā
+dasaṇā rayaṇā daṁtā sirōharā kaṁdharā gīvā - 110
+vayaṇaṁ muhaṁ ca āṇaṇamacchī nayaṇaṁ ca lōyaṇaṁ nittaṁ
+nāsā ghāṇaṁ ghōṇā sīsaṁ siram uttamaṁgaṁ ca - 111
+bhālam aliyaṁ niḍālaṁ maṁsū khaḍḍaṁ ca māsurī kuccaṁ
+uyaraṁ jaḍharaṁ tuṁdaṁ bapphaṁ bāhī ya nayaṇajalaṁ - 112
+iṁdiyam akkhaṁ karaṇaṁ chāyā kaṁtī chavī ya lāyannaṁ
+pisiyaṁ sullaṁ maṁsaṁ kīlālāṁ sōṇiyaṁ ruhiraṁ - 113
+khuṁkhuṇaō nakkasirā vaccaṁ viṭṭhā purīsamuccārō
+laṁchaṇam aṁkō ciṁdhaṁ ghammajalaṁ samajalaṁ sēō - 114
+ramaṇaṁ tiyaṁ niyaṁbō kacchā kaṁcī ya mēhalā rasaṇā
+muttāvalī ya hārō maülī maüḍō kirīḍō ya - 115
+nīraṁgī aṁguṭṭhī āharaṇaṁ bhūsaṇaṁ alaṁkārō
+vinnāsō vicchittī kannāyaṁsō ya talavattaṁ - 116
+talimaṁ tappaṁ sayaṇaṁ ca aṁgarāō vilēvaṇaṁ caccā
+bāullī puttaliyā vivaṇī taha āvaṇō haṭṭhō - 117
+chattāiṁ āvattāĩ haṁsayaṁ nēuraṁ ca maṁjīraṁ
+bhaddāsaṇāĩ sīhāsaṇāĩ uvahāṇam ūsīsaṁ - 118
+vāyāyaṇō gavakkhō addāō dappaṇō ya āyarisō
+vēruliō vēḍujjō kalahōyaṁ ruppayaṁ rayayaṁ - 119
+sōvīram āranālaṁ nēhō pimmaṁ rasō ya aṇurāō
+pīḍhaṁ viṭṭharam āsaṇam ahirōhaṇiyā ya nissēṇī - 120
+sīraṁ halaṁ ca naṁgalam āüham atthaṁ ca paharaṇaṁ hōi
+māḍhī kavayam uratthayam asimuṭṭhī pāliyā ya charū - 121
+cakkāĩ rahaṁgāiṁ sitthaṁ jīvā guṇō paḍaṁcā ya
+talimaṁ paṭṭhaṁ ca talaṁ vivaṁciyā vallaī vīṇā - 122
+chīraṁ payaṁ ca duddhaṁ sisiraṁ dahiyaṁ ciraḍḍhihillaṁ ca
+ajjaṁ sappiṁ ca ghayaṁ amayaṁ ca suhā ya pīūsaṁ - 123
+pārāvaō kavōō caḍaō gharaghaṁṭaō ya kalaviṁkō
+cillā ghārī saüṇī bhiṁghārī jhilliyā cīrī - 124
+cakkāyaō rahaṁgō kayavāō kukkuḍō ya taṁbasihō
+varalāō haṁsīō kaṇaïllō pūsaō kīrō - 125
+gaharō vaō ya gaddhō sāraṁgō cāyaō ya bappīhō
+picchāĩ pēhuṇāiṁ nīḍaṁ niḍḍaṁ kulāyaṁ ca - 126
+kōlō kiḍī varāhō bhulluṁkī ya bhasuyā mahāsaddā
+kalahō bālō hatthī karēṇuyā gayavahū kariṇī - 127
+karimayarō jalahatthī kaḍuyālā kuṁbarā ya lahumacchā
+ricchō ya acchahallō laṁgūlaṁ vālahī chippaṁ - 128
+tālūrō āvattō kulīrakuruvillayā ya kakkaḍayā
+uggālō chiṁchōlī jaṁbālō khaṁjaṇō paṁkō - 129
+ayaḍō aḍō ya kūvō mēyalakannā ya nammayā rēvā
+pallalamakhāyatallaṁ pukkhariṇī dīhiyā sarasī - 130
+rōhō vappō ya taḍō sālūrā daddurā ya maṁḍukkā 
+arahaṭṭhō ghaḍijaṁtaṁ kēyārō vappiṇaṁ vappō - 131
+nāruṭṭhō kūsārō ōhārā kamaḍhakacchahā kummā
+gōyāvarī ya gōlā ḍiṁḍīrō pupphaō phēṇō - 132
+uvalō gāvō ya silā tūhaṁ titthaṁ naīe uttārō
+taṇhā tisā pivāsā guhiram agāhaṁ ca gaṁbhīraṁ - 133
+virayā taṇusariyāō sēvālō sēvalaṁ ca jaṁbālō
+dōṇīō kuṭṭhiṁbā kōṭuṁbhō jalakarapphālō - 134
+jālā accīo sihāu addharā sattataṁtuṇō jannā
+pāyā kaḍayā sāṇū kaṁtāraṁ kāṇaṇaṁ rannaṁ - 135
+siṁgaṁ siharaṁ kūḍaṁ sālā sāhā ya sāhulī ḍālā
+kaṇaī layaṇī ya layā kusumaṁ pasavaṁ pasūyaṁ ca - 136
+kusamaraō mayaraṁdō rēṇū paṁsū raō parāō ya 
+kōsī samī ya siṁbā dalaṁ palāsaṁ chayaṁ pattaṁ - 137
+challī tayā cuḍuppaṁ kisilāiṁ pallavā pavālā ya
+tiṁgicchī kamalaraō malaō ujjāṇam ārāmō - 138
+jalaharaṇam ālavālaṁ tōmariguṁḍī ya maṁjarīguṁḍī
+vallīu vallarīō thavayā gucchā gulucchā ya - 139
+pattasamiddhaṁ pattalam āmēlā cubbhalā ya sēharayā
+mallaṁ mālā dāmaṁ saddālaṁ siṁjiraṁ kaṇiraṁ - 140
+ummālō nimmallaṁ guvilaṁ kalilaṁ ca vallaraṁ gahaṇaṁ
+dāvō davō vaṇaggī khaṁdhaggī khōḍapajjālī - 141
+vallaram arannachittaṁ guṭṭhaṁ taha gōulaṁ vaō ghōsō
+chippīraṁ ca palālaṁ chalam avaēsō nihaṁ ca misaṁ - 142
+thūṇā diyalī bēlī ṭaṁkacchiṇṇaṁ jhasaṁ ca chiṇṇayaḍaṁ
+pakkaṁ pikkaṁ pariṇayam ikkhū ucchū ya ucchuvaṇaṁ - 143
+vaṁsō vēṇū vēlū ya vaṁjulō vēḍasō ya vāṇīrō
+taha jāsuyaṇō ya javā phaliṇī piyamā piyaṁgū ya - 144
+siṁdōlaṁ khajjūraṁ aṁbā māyaṁdacūyasahayārā
+taravaṭṭō pāmāḍō aṁbiliyā ciṁciṇī ciṁcā - 145
+kōhaliyā kōhaṁḍī baruō sāmuṁḍuō bhamāsō ya
+hayamārō kaṇavīrō sulasā taha maṁjuyā tulasī - 146
+mayaṇāhī katthūrī malayaruhaṁ caṁdaṇaṁ ca ikkaṁgaṁ
+ghaṇasārō kappūrō āmōō parimalō gaṁdhō - 147
+biṁbavayaṁ bhallāyaṁ pāyaïyā ya vayalī mayālī ya
+kaṁṭullaṁ kaṁkōḍaṁ mālūraṁ sirihalaṁ billaṁ - 148
+amilāṇō kōraṁṭō nalayaṁ lāmaṁjayaṁ usīraṁ ca
+punnāō suravannī bhisiṇī naliṇī kamaliṇī ya - 149
+suragōvō iṁdōvō kōliyayā unnanāham akkaḍayā
+majjārīo birālīo rāsahō gaddahō ya kharō - 150
+bhōō phaḍō phaṇatthē kuṁḍulluyakōsiyā ulūyā ya
+rōmaṁthō uggālō ukkhā vasahā ya vacchāṇā - 151
+jaṁtū sattā bhūyā ya kōlhuyā jaṁbuyā ya gōmāū
+uḍavō bhāvasagēhaṁ gāmahaṇaṁ khēḍayaṁ paṭṭhaṁ - 152
+uddōlī duvvālī ya phaṁphamā kōuyā karīsaggī
+patthārī sattharaō lēḍhukkō lēḍuō lēḍū - 153
+vārijjayaṁ vivāhō taggayamaṇatapparā ya tallicchā
+tuppāĩ kōuyāiṁ paīvapaccatthiṇō vāmā - 154
+daliyaṁ dāruṁ kaṭṭhaṁ patthayaṇaṁ saṁbalaṁ ca pāhijjaṁ
+bhāvō vatthu payatthō khujjaṁ kuḍiyā kuḍillaṁ ca - 155
+iṁdamahō kōmārō kōuyakuḍḍāĩ kōuhallaṁmi
+surahī mahū vasaṁtō vāsārattō ya ghaṇasamaō - 156
+māyā kavaḍaṁ kaïyavamahā diṇā vāsarā diyā diyahā
+tuhiṇaṁ himaṁ tusāraṁ ghaṇanivahō kāliyā mahiyā - 157
+kuṇavaṁ savaṁ ca maḍayaṁ pēyavaṇaṁ piuvaṇaṁ masāṇaṁ ca
+iṁgālō aṁgārō khāyaṁ taha khāiyā parihā - 158
+ōvāiyaṁ navasiyaṁ vigghā paccūham aṁtarāyā ya
+vēyallam asāmatthaṁ suhamāṇaṁdō suhellī ya - 159
+ugghāō āraṁbhō saṁkhēvō saṁgahō samāsō ya
+niccaṁ niyayaṁ sāsayam avvāhārō aṇālavaō - 160
+vāvaḍayā akkhaṇiyā sannā guttaṁ ca nāmam ahihāṇaṁ
+attī viyaṇā pīḍā saṁraṁbhō amarisō mannū - 161
+mullāĩ vēyaṇāiṁ paccaggaṁ ahiṇavaṁ ca sajjukkaṁ
+āvāō pamuhamurō hēlā ya aṇāyarō rīḍhā - 162
+jāṇa karaṁbaṁ tōttaḍim avarattayam aṇusayaṁ ca aṇutāvaṁ
+kūraṁ caṁḍaṁ ōyaṇam ōṇayam ōyattam ōmatthaṁ - 163
+thāmaṁ sāraṁ ca balaṁ thēvaṁ lēsō lavō kalā mattā
+sāricchaṁ samasīsī adihī araī ya raṇaraṇaō - 164
+ittoppaṁ ēvappabhii saṁbhamō āyarō payattō ya
+maṁtuṁ viliyaṁ vippiyam acchariyaṁ abbhuyaṁ cujjaṁ - 165
+dīhattaṇam āyāmō cavalaṁ caḍulaṁ ca caṁcalaṁ taralaṁ
+ēmēya muhā muhiyā kēlī nannaṁ ca parihāsō - 166
+palaō nihaṇaṁ ṇāsō puṇṇaṁ sukayaṁ ca bhāgahēyaṁ ca
+hitthaṁ viliyaṁ lajjiyam atthāṇī taha sahā parisā - 167
+unnāhō ussēhō vikkhaṁbhō vittharō ya pariṇāhō
+pariraṁbhaṇam avaruṁḍaṇam āmōō paharisō tōsō - 168
+naṭṭaṁ lāsaṁ taṁḍavam aṇupuvviparaṁparāu parivāḍī
+ārakkhō purarakkhō abbhāsō guṇaṇiyā juggō - 169
+avahiyam ikkaggamaṇaṁ taddiyasiyadiyasiyāĩ aṇudiyahaṁ
+ōluggō nitthāmō dujjāyaṁ āvayā vasaṇaṁ - 170
+chuṭṭaṁ maḍahaṁ lahuyaṁ rapphā vammīyavāmalūrā ya
+pāyālaṁ ca rasāyalam āulam āhittham uppitthaṁ - 171
+vēsāhō maṁthāṇō sīluṭṭaṁ cibbhiḍaṁ ca vāluṁkaṁ
+kuṁbhō kuḍō ya kalasō piḍharō ḍhamarō ya kōlaṁbō - 172
+kuḍilaṁ vaṁkaṁ bhaṁguram āēsō sāsaṇaṁ ca niddēsō 
+khippaṁ turiyaṁ sigghaṁ chēyā pēraṁtaaddhaṁtā - 173
+dīhaṁ dīharam āyayam ahiuttō ujjaō ya ujjuttō
+kallō satthō ya paḍū haḍhō ya maḍḍā balāmōḍī - 174
+paüṇaṁ nirāyamujjuyamōlaïyaṁ parihiyaṁ piṇaddhaṁ ca
+avarillam uttarijjaṁ uyaṭṭhī uccaō nīvī - 175
+duddhiyam alābu tuṁbaṁ nibaṁdhaṇaṁ kāraṇaṁ niyāṇaṁ ca
+vilaō sūratthamaṇaṁ saṁkhōhō saṁbhamō tāsō - 176
+ullūriyam ukkaḍiyaṁ jaṁghiyamōsiṁghiyaṁ ca agghāyaṁ
+nivviṭṭhaṁ uvahuttaṁ tirōhiyaṁ pihiyam aṁtariyaṁ - 177
+uddāliyam acchinnaṁ akkhittaṁ aṁchiyaṁ ca kaḍḍhiyayaṁ
+pannāḍiyayaṁ parihaṭṭhiyaṁ ca ōsariyam ōsakkaṁ - 178
+utthalliyam ucchaliyaṁ pacchāiyanūmiyāĩ vaïyāiṁ
+niddhāḍiyayaṁ nīṇiyamōhīraṁtaṁ ca sīyaṁtaṁ - 179
+unnāliyam unnāmiyam uvagayam uvasappiyaṁ ca allīṇaṁ
+cuṇṇaïyaṁ cunnāhayam ucciḍimaṁ mukkam ajjāyaṁ - 180
+uddhaṁkayam ūsaviyaṁ phuḍiyaṁ phaliyaṁ ca daliyam uddariyaṁ
+saṁvelliyaṁ maüliyaṁ parihāyaṁ dubbalaṁ jhīṇaṁ - 181
+musumūriyayaṁ cuṇṇiyam uḍḍihiükkhōḍiyāĩ ukkhittaṁ
+murumuriyaṁ tūruiyaṁ unnuiyaṁ bhukkiyaṁ jāṇa - 182
+avaciyam ucciṇiyatthē taḍiyaṁ taḍḍaviyayaṁ viralliyayaṁ
+uvvamiyaṁ uggiliyaṁ chuhāiyaṁ bhukkhiyaṁ chāyaṁ - 183
+tāḍiyam āōḍiyayaṁ nisuyaṁ āyaṇṇiyaṁ nisāmiyayaṁ
+pajjattaṁ ca pahuttaṁ paṇāmiyaṁ diṇṇam uvaṇīyaṁ - 184
+saṁdiddhaṁ saṁsaïyaṁ ghōliyaḍhuṁḍhulliyāĩ bhamiyatthē
+saṁdiṭṭhaṁ appāhiyam ullaṁ tittaṁ ca taṇṇāyaṁ - 185
+raṁkhōliraṁ pahōliram uvvellaṁ pasariyaṁ payallaṁ ca
+saṁkōḍiyaṁ niuṁciyam uttējiyayaṁ ca tōraviyaṁ - 186
+ūsittaṁ ōlittaṁ payāriyaṁ vaṁciyaṁ ca vēlaviyaṁ
+ubbhāliyam uppuṇiyaṁ lahuiyamōhāmiyaṁ tuliyaṁ - 187
+paḍivannam abbhuvagayaṁ ciddaviyaṁ viuḍiyaṁ viṇāsiyayaṁ
+aïsaïyaṁ ca visēsiyam ummuṭṭhaṁ puṁchiyaṁ phusiyaṁ - 188
+vikkhittayaṁ païṇṇaṁ khittaṁ nigghattiyaṁ ca āiddhaṁ
+uggāhiyam uccāliyam aṁkusaïyam aṁkusāyāraṁ - 189
+āvaḍiyaṁ abbhiḍiyaṁ ahiḍḍayaṁ pīḍiyaṁ paraddhaṁ ca
+pamhuṭṭhaṁ vimhariyaṁ culuculiyaṁ phaṁdiyaṁ phuriyaṁ - 190
+bhaṭṭhaṁ phiḍiyaṁ cukkaṁ parihūyaṁ ahiliyaṁ parāhūyaṁ
+paridēviyaṁ vilaviyaṁ virōliyaṁ maṁthiyaṁ mahiyaṁ - 191
+dhaṁsāḍiyaṁ vimukkaṁ guṁḍiyam uddhūliyaṁ ca dhūsariyaṁ
+akkōsiyaṁ ca saviyaṁ bhariullaṭṭaṁ ca vōsaṭṭhaṁ - 192
+ōiṇṇaṁ ōyariyaṁ gaviṭṭhamaṇṇēsiyaṁ vimaggiyayaṁ 
+rēyaviyaṁ suṇṇaïyaṁ nimiyaṁ nihiyaṁ ca nikkhittaṁ - 193
+bhariyaṁ laḍhiyaṁ sumariyam ōsaddhaṁ pāḍiyaṁ nisuddhaṁ ca
+nisuḍhiyam akkaṁtabharōṇayam ubbhaḍavēsaṁ ca uvvivvaṁ - 194
+samuhāgayamōsariyaṁ biṁduiyaṁ kaṇaïyaṁ kaṇāyaṇṇaṁ
+viramāliyaṁ vihīriyamōrāliyayaṁ ca māliyayaṁ - 195
+taṇuīkayam ullihiyaṁ kappariyaṁ dāriyaṁ ca nibbhiṇṇaṁ
+uḍḍīṇaṁ uppaïyaṁ jūriyam uttammiyaṁ naḍiyaṁ - 196
+nīhariyaṁ niggiṇṇaṁ baddhaṁ saṁdāṇiyaṁ niyaliyaṁ ca
+ūyaṭṭhaṁ vāsahayaṁ mahamahiyaṁ niggayāmōyaṁ - 197
+gummaïyaṁ saṁmūḍhaṁ phāliyam ōraṁpiyaṁ ca ōrattaṁ
+kajjalaïyaṁ kasaṇiyaṁ kayaparivēsaṁ parikkhittaṁ - 198
+vēḍhiyayaṁ pariyāliyam utthariōvaggiyāĩ akkaṁtaṁ 
+parilīṇaṁ ca nilīṇaṁ gaṁdhuggiraṇaṁmi nimmahiyaṁ - 199
+nivvaḍiyaṁ nimmāyaṁ dāviyayaṁ daṁsiyaṁ ca dakkhaviyaṁ
+tikkhāliyaṁ nisāyaṁ puluṭṭhayaṁ paüliyaṁ daḍḍhaṁ - 200
+palhatthiyam ullaṁḍiyam ucchuṇṇaṁ maddiyaṁ ca niddaliyaṁ
+pēsaviyaṁ paṭṭhaviyaṁ ghaḍiyaṁ laggaṁ ca saṁsattaṁ - 201
+payalāī ōhīraï sakkaï cayaï ya tarēi pārēi
+avvō chinnaṁ vucchaṁ saṁpaï ikkakkam ahihāṇaṁ - 202
+karaḍā kuṁjaragaṁḍā ālāṇō hatthibaṁdhaṇakkhaṁbhō
+karibaṁdhaṇam akkhāyaṁ uvaō vāraṇamaō dāṇaṁ - 203
+ravam alasaṁ kalamañjulam ōralliṁ mahuradīharaṁ jāṇa
+suivirasaṁ gaddabbhaṁ ca gaggaraṁ kaṁṭhadarakhaliyaṁ - 204
+ōūlaṁ pālaṁbaṁ hariyaṁdaṇam amaracaṁdaṇaṁ jāṇa
+jaccaturaṁgaṁ bhāyalam āyāvalayaṁ aruṇatāvaṁ - 205
+sīmaṁtiyaṁ duhāviyam apacchiaṁ caramam uddhuraṁ uccaṁ
+vāyaṇayaṁ ca pahēṇayam iṁgālī ucchugaṁḍīrī - 206
+visaḍhaṁ visamaṁ viyaliyam uccattaṁ kattiyāsiṇā saraō
+sisirō phagguṇamāhō hēmaṁtō pōsam aggasirō - 207
+duppariyallam asakkaṁ pukkāō aliyapōrusālāvā
+paṁjāyaṁ piṁḍalaïyamuū riū cottaō tottō - 208
+uvayārō pupphabalī kusumaṁkāliṁjaṇīe tāvicchaṁ
+javasaṁ gavittam ulavī vīraṇam ōlāvaō sēṇō - 209
+aggakkhaṁdhō aṇiyaṁ pāḍuccī turayadēhapiṁjaraṇaṁ
+garalaṁ visaṁ visāṇaṁ siṁgaṁ rajjū varattā ya - 210
+jagalaṁ piṁgalasaraō biṁṭhasurā piṭṭhakhaüriyā maïrā
+hijjō kallaṁ nivvaṁ paḍalaṁ kāhilliyā tavaō - 211
+aṇurōhō dakkhiṇṇaṁ laggaṇaō paḍihuō daraṁ addhaṁ
+hīraï jaṁ āṇaṁdē vatthaṁ taṁ puṇṇavattaṁ ti - 212
+saṁjaviyaṁ saṁgōviyam aṇuhūyaṁ māṇiyaṁ suī vēō
+pāsāyassōvari jā sālā sā caṁdasālatti - 213
+nibbharam aïsayabhariyaṁ patthariyaṁ atthuyaṁ chaḍā chaṁṭā
+rōsēṇaṁ uṇhikkaṁ vayaṇaṁ jaṁ taṁ thuḍaṁkiyayaṁ - 214
+sāhijjaṁ atthārō hiribērō bālaō bhisī sārī
+jaṁ picchaÏ taṁ vaṁchaï jō sō jaṁpicchaō bhaṇiō - 215
+paccāēsaṁ diṭṭhaṁtam ojjharaṁ nijjharaṁ duhaṁ dukkhaṁ
+kayagaṁṭhi thaṇōvari viraïyaṁsuyaṁ giṁdhuyaṁ jāṇa - 216
+paḍimā paḍibiṁbaṁ kajjavō kayavarō viyāṇam ullōvō 
+ubhaō vāsutthallaṇam uccattavarattayaṁ bhaṇiyaṁ - 217
+rikkaṁ rittaṁ pattāĩ bhāiṇāiṁ siriddahō paviyā
+muhavikkōṇō chiccollaütti jō niṁdaṇatthaṁmi - 218
+diṭṭhaṁ vihāviyaṁ miṁḍhiyāo avilāo sērihī mahisī
+paripāsaütti chettē jō purisō suyaï rāīē - 219
+ghusiṇaṁ kuṁkumam ukkā cuḍulī khāṇī khaṇī kuḍhaṁ kūvaṁ
+ucchaṁṭaütti turiyayaracōriyāhatthavāvārō - 220
+baddhaṁ saṁgillaṁ taṇuruhāĩ rōmāĩ cittaō dīvī
+huttavayaṁ jassaṁtē suvvaï taṁ tassa sumuhatti - 221
+kūlaṁ tīram asōō kaṁkellī raṁjaṇō aliṁjaraō
+khunnaṁ camaḍhiyamūḍhā pariṇīyā mihuṇayaṁ juyalaṁ - 222
+uya piccha dharaï jīvaï duccaṁ dūattaṇaṁ disā āsā
+saṁkhāyaṁ thīṇaṁ saṁdaṇō rahō sārahī sūō - 223
+rōsāṇiyaṁ masiṇiyaṁ vaṇaṁ pahārō payāmam aṇupuvvaṁ
+laṁcā ukkōḍā sārahaṁ mahuṁ bāhiraṁ bāhiṁ - 224
+vutthō vasiō vatthī avāṇam āhōraṇō gayārōhō
+khattaṁ khannaṁ sāhū suyaṇō khēyāluō asahō - 225
+lahudāru kiliṁcaṁ maṁtharā kusuṁbhī turaṁgiyā vaḍavā
+saṁkhō kaṁbū gēyaṁ gaṁdhavvaṁ baṁdhaṇaṁ biṁṭaṁ - 226
+sīmā mērā vāsaṁ vuṭṭhī hālāhalō ya baṁbhaṇiyā
+kārū sippī karahō kamēlaō rōhiō rojjhō - 227
+kēūram aṁgayaṁ viḍḍumaṁ pavālaṁ kaṇēṭṭhiyā guṁjā
+jhāḍaṁ kuḍaṁgaō kalusam āvilaṁ sitthayaṁ mayaṇaṁ - 228
+bukkā muṭṭhī saggaham uvarattaṁ loṭṭhayaṁ suvaṁtaṁ ca
+paratīraṁ pāraṁ aṭṭhayakkaliṁ jāṇa kaḍikhaṁbhaṁ - 229
+lōhaṁ kālāyasam ummuyaṁ alāyaṁ visēsaō tilaō
+kōṇō laüḍō jaüṇā kāliṁdī gajjiaṁ thaṇiyaṁ - 230
+duvvā hariyālī koṭṭhaō kusūlō kaḍucchuō davvī
+bhē tubbhē kullaḍayaṁ kōḍayam appullayaṁ niyayaṁ - 231
+ḍōlā piṁkhā māyaṇihayā jhalā pāusāgamō jhaṁjhā
+duṭṭhō kalī payaṁgō salahō kalahāiyaṁ raḍiyaṁ - 232
+sāhariyaṁ sāhaṭṭhiyam aṁsō bhāō pihāṇiyā maṁḍī
+tāraṁ dittaṁ vēsō nēvatthaṁ makkhiyaṁ tuppaṁ - 233
+jāṇa kaḍakkham avaṁgaṁ kalahaṁ parivāram ubbhayaṁ uddhaṁ
+sāyaṁ paōsam uttappam uddhayaṁ dūsahaṁ tivvaṁ - 234
+dārāĩ duvārāiṁ nēlacchō paṁḍaō jaḍaṁ sisiraṁ
+kōḍī aggaṁ paṁgū paṁgulaō taṇṇaō vacchō - 235
+chāyā chāhī pāhuḍam uvāyaṇaṁ sāriyā sālahiyā ya
+bhaṁdaṁ sivaṁ sayajjhō samōsiō chiṁpaō uṁchō - 236
+sālō pāyārō majjiyā rasālāu sojjhaō rayaō
+hariyaṁ saddalam aṁkō ucchaṁgō akkhayaṁ aṇahaṁ - 237
+maṇayaṁ īsi kuviṁdō ya taṁtuvāō durōyaraṁ jūyaṁ
+pajjā ahiyārō aïram aṁgaṇaṁ majjiyaṁ ṇhāyaṁ - 238
+āsatthō vīsaṁtō vajjhō vaddhō payaṭṭayaṁ caliyaṁ
+karaṇī rūvaṁ caliyaṁ vaïkaliyaṁ parisarō pāsā - 239
+āraddhaṁ āḍhattaṁ nihayaṁ nikkhayam avēsiṇō phalihā
+pharisō phaṁsō tumulaṁ muhularavō pāyasō khīrī - 240
+ummalaṇaṁ uccalaṇaṁ iharā annaha sahāsaō sabbhō
+cittaṁ māṇasam akkhō bahēḍaō saṁgamō mēlō - 241
+samaō mayaṁ virāyaṁ vilīṇam uppāhalaṁ ca ukkaṁṭhā
+saṁcārī dūī sālirakkhiyā kalam agōvitti - 242
+ruggaṁ bhaggaṁ maṁgulam asuṁdaraṁ vēviyaṁ ca tharahariyaṁ 
+papphōḍiyaṁ ca pakkhōḍiyaṁ visaṭṭaṁ vihaḍiyatthē - 243
+parihatthō dacchō kōvaṇō asahaṇō paīvaō dīvō
+iya ēvaṁ rēsaṇiyā karōḍiyā caṁdimā juṇhā - 244
+pāḍikkaṁ pattēyaṁ uṁbaraō dēhalī vihī divvaṁ
+taṁtū guṇō dugaṁchā garihā khaliyaṁ paḍipphaliyaṁ - 245
+āsārō rayavuṭṭhī pamhalayaṁ rōmasaṁ jaō vēō
+kīsa kiṇō halahalaō tarā viyaṭṭhaṁ visaṁvaïyaṁ - 246
+saṁbāhaṁ saṁkiṇṇaṁ valaggam ārūḍham ahiyam aïrittaṁ
+āhūō vāhittō viyatthaṇaṁ niyaguṇasalāhā - 247
+jāṇa savāyaṁ ḍoṁbaṁ soṁḍaṁ majjavam ayaṁḍam aṇavasaraṁ
+saraḍaṁ ca kaṁkalāsaṁ chaṇaṁ mahaṁ loddhayaṁ vāhaṁ - 248
+lakkhaṁ vijāyam iṁgiyam āyārō aha imō imā ajjā
+thāhō thagghō tōṇō tōṇīrō kaṁḍuō guliō - 249
+kaṁṭhō galaō avaḍū kiyāḍiyā jhaṁpaṇīu pamhāiṁ
+gupphā khuluhā jaṁghā ṭaṁkā gaṁḍā kavōlā ya - 250
+rasaṇā jīhā savaṇā kannā vacchaṁ uraṁ bhuyā bāhū
+bhumayā bhamuhā kakkhā bhuyamūlaṁ jaṇhuyā jāṇū - 251
+kannā kumarī dhūyā duhiyā bahiṇī sasā piyā jaṇaō
+māyā jaṇaṇī suṇhā puttavahū dēyarō diyarō - 252
+māucchā māusiyā attā sāsū sahōyarō bhāyā
+mallāṇī māmī pupphiyā piucchā paī bhattā - 253
+raṁbhā kayalī siṁdī khajjūrī sattalā ya nōmālī
+gummō jālī bōrī kakkaṁdhū kēsarō baülō - 254
+palahī vavaṇaṁ tūlō rūvō dabbhō kusō javō gajjō
+thaṁbā saḍhā kalaṁbō nīvō gōlhāphalaṁ biṁbaṁ - 255
+aïmuttō māhaviyā lavaō guṁdō piyaṁguṇō kaṁgū
+kalamō sālī ya bisaṁ muṇālam ullūḍham aṁkuriyaṁ - 256
+naggōhaṁ vaḍarukkhaṁ sigguṁ sōhaṁjaṇaṁ talaṁ tālaṁ
+cāraṁ piyālam ajuyalavannaṁ sattacchayaṁ jāṇa - 257
+bīyayam asaṇaṁ pippalam āsatthaṁ tiṁḍuyaṁ ca ṭiṁbaruyaṁ
+rāyaṁchuyaṁ ca vēḍisamalaṁbusaṁ bōḍaghēraṁ ca - 258
+khaliṇaṁ kaviyaṁ maïlaṁ malīmasaṁ sīharā jalatusārā
+thāṇū khaṇṇuyam alayā kuralā daṁtacchaō uṭṭhō - 259
+sīlaṁ payaī tattaṁ paramatthaṁ gōuraṁ paōlī ya
+rayaṇī hatthō bhīō hitthō sāhīṇam appavasaṁ - 260
+dīṇō varaō viḍḍhiram āḍōvō raggayaṁ ca navaraṁgaṁ
+laṇhaṁ masiṇaṁ ṭhāṇaṁ ōvāsō gōyarō visaō - 261
+ārōviyaṁ vilaïyaṁ dhōyaṁ vicchōliyaṁ dasā vatthā
+saṁkū kīlō ruṁṭiyam aliviruyaṁ sīriō bhinnō - 262
+asamaṁjasam anibaddhaṁ paḍisiddhō vāriō carō paṇihī
+nihasō kasō samaṁtā savvattō cāraō kārā - 263
+vihulaṁ visaṁṭhulaṁ jāṇa sāmariṁ siṁbaliṁ thaliṁ bhūmiṁ
+gharavāḍayaṁ parōhaḍam āyaïmajjaṁtakālaṁ ca - 264
+vāliyayaṁ pariyattiyam ūḍhiyayaṁ pāuyaṁ miyaṁ tucchaṁ
+huṁḍī ghaḍā paüṭṭhō kalāiyā gaṁḍaō khaggō - 265
+saṁḍaṁ vaṇaṁ muyaṁgō muraō ya vivajjaō vivajjāsō 
+pamahā gaṇā kalāvō tiuḍō vatthaṁ dugullaṁ ca - 266
+mahuraṁ sāuṁ vārī karidharaṇaṭṭhāṇam aggalā phalihō
+visayaṁ phuḍaṁ taraṁtaṁ parippavaṁtaṁ hiyaṁ nīyaṁ - 267
+lakkhāruṇiyaṁ pallaviyam āviyaṁ pōiyaṁ ghaḍhaṁ thūhaṁ
+rūḍhaṁ paüṇaṁ jāmō paharō bahulō kasaṇapakkhō - 268
+paḍibhēō paccāraṇam āsaṁdī pīḍhiyā raṇī saddō
+sayaḍō gaṁtī taṁsaṁ tiriccham asidhēṇuyā churiyā - 269
+chōhō vikkhēvō hiyayam āsaō kaṁdarō ya kappāḍō
+kūṇiyam addhanimīliyam acchāyaṁtaṁ nisāyaṁtaṁ - 270
+saṁmaddō saṁghaṭṭō rāsō hallīsaō khamaṁ uciyaṁ
+gujjhaṁ rahassamāsā maṇōrahō kōsayaṁ casayaṁ - 271
+raṁgō picchābhūmī darī guhā cūḍaō valayabāhū
+khaṁjō khōḍō ya naḍō kusīlavō nāliyā ghaḍiyā - 272
+pāsāō hammiyamaṇuyaghaṁṭiyā kiṁkiṇī kaṇī phuraṇaṁ
+pōō vahaṇaṁ sabarā ya kirāyā mālaī jāī - 273
+jetti payapūraṇē vimhayaṁmi hī vilaviyaṁmi avi hāhā
+aṁtō majjhē puraō ya aggaō maggaō pacchā - 274
+khēyāisu avvō haṁdi utti āmaṁtaṇaṁmi dēsaddō
+ira tacchīlē illō ittō ālō ya maüyatthē - 275
+vikkamakālassa gaē aüṇattīsuttarē sahassaṁmi
+mālavanariṁdadhāḍīe lūḍiē mannakhēḍaṁmi - 276
+dhārānayarīe pariṭṭhiēṇa maggē ṭhiyāe aṇavajjē
+kajjē kaṇiṭṭhabahiṇīe suṁdarīnāmadhijjāē - 277
+kaïṇō aṁdha jaṇa kivā kusala tti payāṇam aṁtimā vannā
+nāmaṁmi jassa kamasō tēṇēsā viraïyā dēsī - 278
+kavvēsu jē rasaḍḍhā saddā bahusō kaīhi bajjhaṁti
+tē ittha maē raïyā ramaṁtu hiyaē sahiyayāṇaṁ - 279
+
+pāiyalacchī nāmamālā samattā 
