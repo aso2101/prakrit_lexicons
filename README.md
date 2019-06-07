@@ -9,7 +9,7 @@ I plan to add Trivikrama’s list of *dēśī* words at somepoint in the future.
 
 ## Further information
 
-Right now the *Dēśīnāmamālā* is presented in TEI format.
+Right now the *Dēśīnāmamālā* is presented in TEI format, with encoding decisions as explained in the document. The *Pāiyalacchī* is presented in plain text format. A conversion to TEI may occur at some point in the future.
 
 ## Rights/restrictions
 
