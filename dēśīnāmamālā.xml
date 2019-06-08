@@ -60,8 +60,8 @@
 
   <text xml:lang="pra-Latn" xml:id="DēNā">
     <body>
-      <div type="adhyāya" n="1" xml:id="DēNāMā.1">
-	<div type="gāthā" n="1" xml:id="DēNāMā.1.1">
+      <div type="adhyāya" n="1">
+	<div type="gāthā" n="1">
 	  <lg>
 	    <l>dēśī duḥsaṁdarbhā prāyaḥ saṁdarbhitāpi durbōdhā |</l>
 	    <l>ācāryahēmacandras tat tāṁ saṁdr̥bhati vibhajati ca ||</l>
@@ -98,7 +98,7 @@
             <s>saivaṁbhūtā jinēndrāṇāmarhatāṁ vāṇī jayatīti saṁbandhaḥ || [1]</s>
           </p>
 	</div>
-	<div type="gāthā" n="2" xml:id="DēNāMā.1.2">
+	<div type="gāthā" n="2">
 	  <p>
             <s>vyutpitsupravr̥ttayē ’bhidhēyaprayōjanē āha |</s>
           </p>
@@ -120,7 +120,7 @@
             <s>varṇakramātikramēṇa ca nirdiśyamānā na sukhēnāvadhārayituṁ śakyantaity arthavān varṇakramanirdēśaḥ || [2]</s>
           </p>
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="3" xml:id="DēNāMā.1.3">
+	<div type="gāthā" n="3">
 	  <p>
             <s>punaritaradēśībhyō vailakṣaṇyamāha |</s>
           </p>
@@ -142,7 +142,7 @@
             <s>gaṅgātaṭē gaṅgāśabdasta iha dēśīśabdasaṁgrahē na nibaddhāḥ || [3]</s>
           </p>
 	</div>
-	<div type="gāthā" n="4" xml:id="DēNāMā.1.4">
+	<div type="gāthā" n="4">
 	  <p>
             <s>idānīṁ nānādēśaprasiddhabhāṣāsvativyāptiparihārārthaṁ dēśīlakṣaṇam āha |</s>
           </p>
@@ -170,7 +170,7 @@
 	    <l>dēśēṣu yē prasiddhās tāñ śabdān sarvataḥ samuccētum || [4]</l>
 	  </lg>
 	</div>
-	<div type="gāthā" n="5" xml:id="DēNāMā.1.5">
+	<div type="gāthā" n="5">
 	  <milestone unit="syllables" n="a"/><milestone unit="syllables" n="a2"/>
 	  <p>
             <s>atra akārādayō dvyakṣarāḥ śabdāḥ saṁgr̥hyantē |</s>
@@ -206,7 +206,7 @@
 	    <l>tō tuha ahaṁ ṇa dhūā allē ammā tumaṁ pi ṇa hu majjhā || 2 ||</l>
 	  </lg>
 	</div>
-	<div type="gāthā" n="6" xml:id="DēNāMā.1.6">
+	<div type="gāthā" n="6">
 	  <quote type="base-text">
 	    <lg n="6">
 	      <l><w xml:id="akkō">akkō</w> dūē <w xml:id="akkā">akkā</w> bahiṇī <w xml:id="appō">appō</w> piā <w xml:id="ahaṁ">ahaṁ</w> dukkhē |</l>
@@ -245,7 +245,7 @@
             <s>ētē śabdānuśāsana ēvāsmābhiḥ sādhitāity atraiva nōpāttāḥ || [7]</s>
           </p>
 	</div>
-	<div type="gāthā" n="7" xml:id="DēNāMā.1.7">
+	<div type="gāthā" n="7">
 	  <quote type="base-text">
 	    <lg n="7">
 	      <l><w xml:id="aṁkellī">aṁkēllī</w> a asōē <w xml:id="ajjhellī">ajjhēllī</w> duhiadujjhadhēṇūē |</l>
@@ -268,7 +268,7 @@
 	    <l>ajja taē dāyavva ajjhēllī bahiṇiaṇṇāṇē || 4 || [7]</l>
 	  </lg>
 	</div>
-	<div type="gāthā" n="8" xml:id="DēNāMā.1.8">
+	<div type="gāthā" n="8">
 	  <quote type="base-text">
 	    <lg n="8">
 	      <l><w xml:id="addhaṁtō">addhaṁtō</w> pēraṁtē <w xml:id="aruṇaṁ">aruṇaṁ</w> kamalē <w xml:id="akāsi">akāsi</w> pajjattē |</l>
@@ -289,7 +289,7 @@
 	    <l>ṇayaṇāruṇaaddhaṁtēṇa ṇiasi jaṁ taṁ akāsi lajjāē || 5 || [8]</l>
 	  </lg>
 	</div>
-	<div type="gāthā" n="9" xml:id="DēNāMā.1.9">
+	<div type="gāthā" n="9">
 	  <quote type="base-text">
 	    <lg n="9">
 	      <l><w xml:id="aṁkārō">aṁkārō</w> <w xml:id="atthārō">atthārō</w> sāhijjē <w xml:id="atthuḍaṁ">atthuḍaṁ</w> lahuē |</l>
@@ -309,7 +309,7 @@
 	    <l>malayasamīrō aïatthuḍō vi kāhī kimakkaṁtō || 6 || [9]</l>
 	  </lg>
 	</div>
-	<div type="gāthā" n="10" xml:id="DēNāMā.1.10">
+	<div type="gāthā" n="10">
 	  <quote type="base-text">
 	    <lg n="10">
 	      <l>dhaṇavantammi <w xml:id="ahillō">ahillō</w> <w xml:id="aviaṁ">aviaṁ</w> bhaṇiē gayammi <w xml:id="aṭṭaṭṭō">aṭṭaṭṭō</w> |</l>
@@ -332,7 +332,7 @@
 	    <l>aïṇē vi jassa raṇṇō sirē aṇattaṁ va vubbhaï ṇa āṇā || 7 || [10]</l>
 	  </lg>
 	</div>
-	<div type="gāthā" n="11" xml:id="DēNāMā.1.11">
+	<div type="gāthā" n="11">
 	  <quote type="base-text">
 	    <lg n="11">
 	      <l>ālē <w xml:id="alaggaṁ">alagga</w><w xml:id="aliṇō">maliṇō</w> viṁcuaē <w xml:id="aṁbusū">aṁbusū</w> sarahē |</l>
@@ -359,7 +359,7 @@
 	    <l>mahilāvaruṁḍiāō bīhanti vivēaaṁkiā muṇiṇō || 8 || [11]</l>
 	  </lg>
 	</div>
-	<div type="gāthā" n="12" xml:id="DēNāMā.1.12">
+	<div type="gāthā" n="12">
 	  <quote type="base-text">
 	    <lg n="12">
 	      <l>khaggammi <w xml:id="aṇappo">aṇappō</w> <w xml:id="allao">allaō</w> pariciē pasummi <w xml:id="akkōḍō">akkōḍō</w> |</l>
@@ -379,7 +379,7 @@
 	    <l>bhariā arikarimuttāhi disi avārā vidisi avārīō || 9 || [12]</l>
 	  </lg>
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="13" xml:id="DēNāMā.1.13">
+	<div type="gāthā" n="13">
 	  <quote type="base-text">
 	    <lg n="13">
 	      <l>mōrē <w xml:id="allallō">allallō</w> kukkuḍē <w xml:id="alaṁpō">alaṁpō</w> <w xml:id="ayāli">ayāli</w> duddiṇaē |</l>
@@ -406,7 +406,7 @@
 	    <l>gantumasahō alaṁpō vva appamajjhassaï tti pahiajaṇō || 10 || [13]</l>
 	  </lg>
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="14" xml:id="DēNāMā.1.14">
+	<div type="gāthā" n="14">
 	  <quote type="base-text">
 	    <lg n="14">
 	      <l><w xml:id="aṁjasaṁ">aṁjasa</w>mujjū <w xml:id="addāō">addāō</w> mukurē <w xml:id="aṁchiaṁ">aṁchiaṁ</w> ca kaḍḍhiaē |</l>
@@ -427,7 +427,7 @@
 	    <l>aṁchiahiaō tammasi kiṁ atthakkē aṇappajjhō || 11 || [14]</l>
 	  </lg>
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="15" xml:id="DēNāMā.1.15">
+	<div type="gāthā" n="15">
 	  <quote type="base-text">
 	    <lg n="15">
 	      <l><w xml:id="akkaṁdō">akkaṁdō</w> ārakkhē ambakaḍakkhēsu <w xml:id="aṁbiraṁ">aṁbira</w><w xml:id="avaṁgō">avaṁgā</w> |</l>
@@ -448,7 +448,7 @@
 	    <l>amaüggamammi khēllasu taralaavaṁgacchaḍāi addaṇṇa || 12 || [15]</l>
 	  </lg>
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="16" xml:id="DēNāMā.1.16">
+	<div type="gāthā" n="16">
 	  <quote type="base-text">
 	    <lg n="16">
 	      <l>macchammi <w xml:id="aṁḍao">aṁḍaō</w> <w xml:id="aïrō">aïrō</w> āuttammi <w xml:id="aṁbaḍō">aṁbaḍō</w> kaḍhiṇē |</l>
@@ -472,7 +472,7 @@
 	  </lg>
 	</div><!-- gāthā !-->
 
-	<div type="gāthā" n="17" xml:id="DēNāMā.1.17">
+	<div type="gāthā" n="17">
 	  <quote type="base-text">
 	    <lg n="17">
 	      <l><w xml:id="aharo">aharō</w> akhamē <w xml:id="ajuō">ajuō</w> sattacchaē <w xml:id="ajjhaō">ajjhaō</w> saïjjhammi |</l>
@@ -495,7 +495,7 @@
 	    <l>ajjhaya ṇhāṇē  'vaṇṇaṁ asaṇē  'ṇṇattī sahīsu aggahaṇaṁ || 14 || [17]</l>
 	  </lg>
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="18" xml:id="DēNāMā.1.18">
+	<div type="gāthā" n="18">
 	  <quote type="base-text">
 	    <lg n="18">
 	      <l><w xml:id="ayaḍo">ayaḍōṁ</w><w xml:id="aṁdhuṁdhū"> 'dhaṁdhū</w> kūvē <w xml:id="aṇado">aṇaḍa</w><w xml:id="aṇāḍō">aṇāḍā</w><w xml:id="aviṇayavarō">viṇayavarā</w> jārē |</l>
@@ -523,7 +523,7 @@
 	    <l>aṁdhaṁdhumaviṇayavarāhavvāṭhāṇaṁ tamittha aṇaḍō kiṁ || 15 || [18]</l>
 	  </lg>
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="19" xml:id="DēNāMā.1.19">
+	<div type="gāthā" n="19">
 	  <quote type="base-text">
 	    <lg n="19">
 	      <l><w xml:id="agghāṇo">agghāṇō</w> <w xml:id="aṇṇaïo">aṇṇaïō</w> tittammi haḍhē <w xml:id="aḍāḍō">aḍāḍa</w><w xml:id="aṇuvō">aṇuvā</w> ya |</l>
@@ -547,7 +547,7 @@
 	    <l>aliṇāēhi kamaliṇī gāi vva aṇōlaēsu aṇuallaṁ || 17 || [19]</l>
 	  </lg>
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="20" xml:id="DēNāMā.1.20">
+	<div type="gāthā" n="20">
 	  <quote type="base-text">
 	    <lg n="20">
 	      <l><w xml:id="apphuṇṇaṁ">apphuṇṇaṁ</w> <milestone unit="syllables" n="a4"/><w xml:id="ahisāyaṁ">ahisāyaṁ</w> āpuṇṇē <w xml:id="avaḍaō">avaḍaō</w> a tiṇapurisē |</l>
@@ -583,7 +583,7 @@
 	    <l>tā tassa kahasu maṁ sahi aṇarikkaṁ aṇavarikkaṁ pi || 18 || [20]</l>
 	  </lg>
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="21" xml:id="DēNāMā.1.21">
+	<div type="gāthā" n="21">
 	  <quote type="base-text">
 	    <lg n="21">
 	      <l><w xml:id="aṇhēaō">aṇhēaō</w> a bhantē khiṇṇammi <w xml:id="avaḍiaṁ">avaḍiama</w><w xml:id="aṇuiō">ṇuiō</w> caṇaē |</l><lb/>
@@ -605,7 +605,7 @@
 	    <l>aṇuiavikkayaṇē avaḍiō a aṇhēaō taō tumayaṁ || 19 || [21]</l><lb/>
 	  </lg><!-- example !-->
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="22" xml:id="DēNāMā.1.22">
+	<div type="gāthā" n="22">
 	  <pb n="12"/>
 	  <quote type="base-text">
 	    <lg n="22">
@@ -666,7 +666,7 @@
 	    <l>ṇaraarialli sakaṇṭhē avayāṇaṁ aïṇiaṁ tēṇa || 22 || [24]</l><lb/>
 	  </lg><!-- example !-->
 	</div><!-- gāthā !-->
-	<div type="gāthā" n="25" xml:id="DēNāMā.X.25">
+	<div type="gāthā" n="25">
 	  <pb n="13"/>
 	  <quote type="base-text">
 	    <lg n="25">
@@ -3673,8 +3673,8 @@
 	  </div><!-- gāthā !-->
 	  <trailer>||ity ācāryaśrīhēmacandraviracitāyāṁ svōpajñadēśīnāmamālāyāṁ prathamō vargaḥ ||</trailer>
 	</div> <!-- adhyāya !-->
-	<div type="adhyāya" n="2" xml:id="DēNāMā.2">
-	  <div type="gāthā" n="1" xml:id="DēNāMā.2.1">
+	<div type="adhyāya" n="2">
+	  <div type="gāthā" n="1">
 	    <pb n="69"/>
 	    <p>
               <s>saṁgr̥hītāḥ svarādayaḥ śabdāḥ |</s>
@@ -5736,7 +5736,7 @@
 	    <div type="gāthā" n="104">
 	      <quote type="base-text">
 		<lg n="104">
-		  <l>paḍkajavēsuṁ gēḍḍaṁ gōgōdāṇaïsahīsu gōlā ya |</l><lb/>
+		  <l>paṅkajavēsuṁ gēḍḍaṁ gōgōdāṇaïsahīsu gōlā ya |</l><lb/>
 		  <l>sīakkhiggīvāsuṁ gōrā gōṇō a sakkhiusahēsu || 104||</l><lb/>
 		</lg>
 	      </quote>
@@ -8120,7 +8120,7 @@
 		<l>virahē sumarantīē bāhēhiṁ vahaï ṇiddhamaṇaṁ || 40 || [39]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="40" xml:id="DeNāMā.X.40">
+	    <div type="gāthā" n="40">
 	      <pb n="152"/>
 	      <quote type="base-text">
 		<lg n="40">
@@ -8723,7 +8723,7 @@
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
 
-	    <div type="gāthā" n="16" xml:id="DeNāMā.X.16">
+	    <div type="gāthā" n="16">
 	      <pb n="163"/>
 	      <quote type="base-text">
 		<lg n="16">
@@ -8942,7 +8942,7 @@
 		<l>thāratthaṇiaṁ sōuṁ tharahariataṇū havēi thimiamaṇō || 22 || [27]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="28" xml:id="DeNāMā.X.28">
+	    <div type="gāthā" n="28">
 	      <pb n="167"/>
 	      <quote type="base-text">
 		<lg n="28">
@@ -9114,7 +9114,7 @@
 		<l>dahiupphakōmalaṅgī virahadaḍavaḍā dayāiüṁ jōggā || 28 || [35]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="36" xml:id="DeNāMā.X.36">
+	    <div type="gāthā" n="36">
 	      <pb n="170"/>
 	      <quote type="base-text">
 		<lg n="36">
@@ -9219,7 +9219,7 @@
 		<l>dūrē diasiavattā diahuttakaē vi tammanti || 33 || [40]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="41" xml:id="DeNāMā.X.41">
+	    <div type="gāthā" n="41">
 	      <pb n="172"/>
 	      <quote type="base-text">
 		<lg n="41">
@@ -9327,7 +9327,7 @@
 		<l>sukulubbhavaduṁdumiṇiṁ daṭṭhuṁ kiṁ karasi duṁdumiaṁ || 38 || [45]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="46" xml:id="DeNāMā.X.46">
+	    <div type="gāthā" n="46">
 	      <pb n="174"/>
 	      <quote type="base-text">
 		<lg n="46">
@@ -9435,7 +9435,7 @@
 		<l>tā ēhi maha gharē dōvēlimisā dōsiṇī ṇa jā phuraï || 43 || [50]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="51" xml:id="DeNāMā.X.51">
+	    <div type="gāthā" n="51">
 	      <pb n="176"/>
 	      <quote type="base-text">
 		<lg n="51">
@@ -9542,7 +9542,7 @@
 		<l>ṇisi dhaṁgakēsidhavvā parimalabhamiradhuagāyadhūmaṁgi || 45 || [57]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="58" xml:id="DeNāMā.X.58">
+	    <div type="gāthā" n="58">
 	      <pb n="178"/>
 	      <quote type="base-text">
 		<lg n="58">
@@ -9843,7 +9843,7 @@
 		<l>paṁkhuḍia vva vikiṇṇō palāyarakkhēṇa paḍḍalāhiṁ pi || 8 || [8]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="9" xml:id="DeNāMā.X.9">
+	    <div type="gāthā" n="9">
 	      <pb n="184"/>
 	      <quote type="base-text">
 		<lg n="9">
@@ -10112,7 +10112,7 @@
 		<l>sā tappaï tuha palihaya pakkhaḍiē sihipaḍitthirē virahē || 23 || [20]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="21" xml:id="DeNāMā.X.21">
+	    <div type="gāthā" n="21">
 	      <pb n="189"/>
 	      <quote type="base-text">
 		<lg n="21">
@@ -10170,7 +10170,7 @@
 		<l>sāsiajaē jaï paraṁ pakkaggāhaddhayassa parivāhō || 26 || [23]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="24" xml:id="DeNāMā.X.24">
+	    <div type="gāthā" n="24">
 	      <pb n="190"/>
 	      <quote type="base-text">
 		<lg n="24">
@@ -10278,7 +10278,7 @@
 		<l>paḍikhaṁdhē paḍikhaṁdhīṇiutta kiṁ kaṇḍuēsi pavaraṁgaṁ || 31 || [28]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="29" xml:id="DeNāMā.X.29">
+	    <div type="gāthā" n="29">
 	      <pb n="192"/>
 	      <quote type="base-text">
 		<lg n="29">
@@ -10334,7 +10334,7 @@
 		<l>kaha lahasi ṇiddurakkhara aṇaparivāriapaṇāmaṇiō || 33 || [30]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="31" xml:id="DeNāMā.X.31">
+	    <div type="gāthā" n="31">
 	      <pb n="193"/>
 	      <quote type="base-text">
 		<lg n="31">
@@ -10595,7 +10595,7 @@
 		<l>rōmōggamapāuraṇīi pāḍiajjhō huō malayapavaṇō || 46 || [43]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="44" xml:id="DeNāMā.X.44">
+	    <div type="gāthā" n="44">
 	      <pb n="198"/>
 	      <quote type="base-text">
 		<lg n="44">
@@ -10651,7 +10651,7 @@
 		<l>tattha apibbē piṁcuamittaphalē hōsi piṇhitaṇū || 49 || [46]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="47" xml:id="DeNāMā.X.47">
+	    <div type="gāthā" n="47">
 	      <pb n="199"/>
 	      <quote type="base-text">
 		<lg n="47">
@@ -11312,7 +11312,7 @@
 		<l>phaggummi phaṁsulighaṇē khalanti kāmaphasulā sarā ṇēttha || 67 || [82]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="83" xml:id="DeNāMā.X.83">
+	    <div type="gāthā" n="83">
 	      <pb n="211"/>
 	      <quote type="base-text">
 		<lg n="83">
@@ -11497,7 +11497,7 @@
 		<l>bappīhabōlaghaṇaghaṇabamālakālē vi ṇēa ṇivvāi || 74 || [90]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="91" xml:id="DeNāMā.X.91">
+	    <div type="gāthā" n="91">
 	      <pb n="214"/>
 	      <quote type="base-text">
 		<lg n="91">
@@ -11665,7 +11665,7 @@
 		<l>avalambantāṇa samaṁ varabōṁḍā bōkkaḍi vva paḍihāi || 82 || [96]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="97" xml:id="DeNāMā.X.97">
+	    <div type="gāthā" n="97">
 	      <pb n="217"/>
 	      <quote type="base-text">
 		<lg n="97">
@@ -11774,7 +11774,7 @@
 		<l>ṇēi bhamāsabhalaṁtaṁ tuha hayavēriṁ bhuruṁḍiā aṇṇā || 86 || [101]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="102" xml:id="DeNāMā.X.102">
+	    <div type="gāthā" n="102">
 	      <pb n="219"/>
 	      <quote type="base-text">
 		<lg n="102">
@@ -11889,7 +11889,7 @@
 		<l>kiṁ jāēhi bahūhi vi bhuṁḍīrēhiṁ ca tēhi bhuṁḍīē || 91 || [106]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="107" xml:id="DeNāMā.X.107">
+	    <div type="gāthā" n="107">
 	      <pb n="221"/>
 	      <quote type="base-text">
 		<lg n="107">
@@ -12004,7 +12004,7 @@
 		<l>ia ēsa mammimajjhē māmāhasiō haṇēi mallāṇiṁ || 95 || [112]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="113" xml:id="DeNāMā.X.113">
+	    <div type="gāthā" n="113">
 	      <pb n="223"/>
 	      <quote type="base-text">
 		<lg n="113">
@@ -12066,7 +12066,7 @@
 		<l>mahasi suandhimaāiṁ maḍayaṭhiaṁ taṁ kahaṁ mayaḍavāliṁ || 98 || [115]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="116" xml:id="DeNāMā.X.116">
+	    <div type="gāthā" n="116">
 	      <pb n="224"/>
 	      <quote type="base-text">
 		<lg n="116">
@@ -12127,7 +12127,7 @@
 		<l>maüraṁdavaṇē majjōkkamaürakaṇṭayaṇahaṁ haṇantamahiṁ || 101 || [118]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="119" xml:id="DeNāMā.X.119">
+	    <div type="gāthā" n="119">
 	      <pb n="225"/>
 	      <quote type="base-text">
 		<lg n="119">
@@ -12295,7 +12295,7 @@
 		<l>mittalapiāṇuhāriṇi kira mōvvī mayaṇivāsadhaṇuhassa || 109 || [126]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="127" xml:id="DeNāMā.X.127">
+	    <div type="gāthā" n="127">
 	      <pb n="228"/>
 	      <quote type="base-text">
 		<lg n="127">
@@ -12534,7 +12534,7 @@
 		<l>mūalliaṇiurā vi hu kaha sā mūsalathaṇī ahisarēu || 120 || [137]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="138" xml:id="DeNāMā.X.138">
+	    <div type="gāthā" n="138">
 	      <pb n="232"/>
 	      <quote type="base-text">
 		<lg n="138">
@@ -12773,7 +12773,7 @@
 		<l>raddhirasālaṁ pucchasi rattīa rasaddavāvaḍaṁ kimiha || 2 || [2]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="3" xml:id="DeNāMā.X.3">
+	    <div type="gāthā" n="3">
 	      <pb n="237"/>
 	      <quote type="base-text">
 		<lg n="3">
@@ -12887,7 +12887,7 @@
 		<l>mucchanti ricchabhallayabhīā tuha kumaravāla riuvahuā || 7 || [7]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="8" xml:id="DeNāMā.X.8">
+	    <div type="gāthā" n="8">
 	      <pb n="239"/>
 	      <quote type="base-text">
 		<lg n="8">
@@ -13062,7 +13062,7 @@
 		<l>aṇṇōṇṇaṇāmagahaṇā riudaṁpaïṇō layassa sumaranti || 13 || [16]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="17" xml:id="DeNāMā.X.17">
+	    <div type="gāthā" n="17">
 	      <pb n="242"/>
 	      <quote type="base-text">
 		<lg n="17">
@@ -13168,7 +13168,7 @@
 		<l>tāsialāsayavihayā alālasasarā biḍālirūvāō || 18 || [21]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="22" xml:id="DeNāMā.X.22">
+	    <div type="gāthā" n="22">
 	      <pb n="244"/>
 	      <quote type="base-text">
 		<lg n="22">
@@ -13386,7 +13386,7 @@
 		<l>valahivatuṁ cuṇṭantī vavaṇīvicchaḍḍamajjhammi || 26 || [32]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="33" xml:id="DeNāMā.X.33">
+	    <div type="gāthā" n="33">
 	      <pb n="248"/>
 	      <quote type="base-text">
 		<lg n="33">
@@ -13445,7 +13445,7 @@
 		<l>vaṁphiasuavaliaphalō sumaraï vayaḍaṁ gaō vaṇāyavaṇē || 29 || [35]</l><lb/>
 	      </lg><!-- example !-->
 	    </div><!-- gāthā !-->
-	    <div type="gāthā" n="36" xml:id="DeNāMā.X.36">
+	    <div type="gāthā" n="36">
 	      <pb n="249"/>
 	      <quote type="base-text">
 		<lg n="36">
@@ -13716,7 +13716,7 @@
 		  <l>vaṁsapphālaṁ vuccaï vaḍisarakammē ṇa vāruā amhē || 42 || [48]</l><lb/>
 		</lg><!-- example !-->
 	      </div><!-- gāthā !-->
-	      <div type="gāthā" n="49" xml:id="DeNāMā.X.49">
+	      <div type="gāthā" n="49">
 		<pb n="254"/>
 		<quote type="base-text">
 		  <lg n="49">
@@ -13883,7 +13883,7 @@
 		  <l>tumamagaṇiavāyārō ṇigghiṇa vāyāḍavāulla || 50 || [56]</l><lb/>
 		</lg><!-- example !-->
 	      </div><!-- gāthā !-->
-	      <div type="gāthā" n="57" xml:id="DeNāMā.X.57">
+	      <div type="gāthā" n="57">
 		<pb n="257"/>
 		<quote type="base-text">
 		  <lg n="57">
@@ -13990,7 +13990,7 @@
 		  <l>vāhagaṇaēhi mukkā vāyaḍaghaḍavāyaṇā huā riuṇō || 55 || [61]</l><lb/>
 		</lg><!-- example !-->
 	      </div><!-- gāthā !-->
-	      <div type="gāthā" n="62" xml:id="DeNāMā.X.62">
+	      <div type="gāthā" n="62">
 		<pb n="259"/>
 		<quote type="base-text">
 		  <lg n="62">
@@ -14098,7 +14098,7 @@
 		  <l>vippavarōvia gantuṁ vēaḍḍhavaṇammi visamayaṁ bhuñja || 60 || [66]</l><lb/>
 		</lg><!-- example !-->
 	      </div><!-- gāthā !-->
-	      <div type="gāthā" n="67" xml:id="DeNāMā.X.67">
+	      <div type="gāthā" n="67">
 		<pb n="261"/>
 		<quote type="base-text">
 		  <lg n="67">
@@ -14158,7 +14158,7 @@
 		  <l>muttā viliṁjarāu va tumaṁ tu vikkēṇuētthirayasattō || 63 || [69]</l><lb/>
 		</lg><!-- example !-->
 	      </div><!-- gāthā !-->
-	      <div type="gāthā" n="70" xml:id="DeNāMā.X.70">
+	      <div type="gāthā" n="70">
 		<pb n="262"/>
 		<quote type="base-text">
 		  <lg n="70">
@@ -15000,7 +15000,7 @@
 		</lg><!-- example !-->
 	      </div><!-- gāthā !-->
 
-	      <div type="gāthā" n="15" xml:id="DeNāMā.X.15">
+	      <div type="gāthā" n="15">
 		<pb n="278"/>
 		<quote type="base-text">
 		  <lg n="15">
@@ -15341,7 +15341,7 @@
 		</lg><!-- example !-->
 	      </div><!-- gāthā !-->
 
-	      <div type="gāthā" n="29" xml:id="DeNāMā.X.29">
+	      <div type="gāthā" n="29">
 		<pb n="284"/>
 		<quote type="base-text">
 		  <lg n="29">
@@ -16048,7 +16048,7 @@
 		  <l>ṇindiahatthiharillā tuha riuḍimbā karanti halabōlaṁ || 57 || [64]</l><lb/>
 		</lg><!-- example !-->
 	      </div><!-- gāthā !-->
-	      <div type="gāthā" n="65" xml:id="DeNāMā.X.65">
+	      <div type="gāthā" n="65">
 		<pb n="296"/>
 		<quote type="base-text">
 		  <lg n="65">
