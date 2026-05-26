@@ -1,0 +1,62 @@
+\begin{center}{\bf Abbreviations}\end{center}
+
+\begin{supertabular}{ll}
+AHK         &        Kumāra, {\em Apabhraṁśa-Hindī-kośa}
+Apabhr.     &        Apabhraṁśa
+APSŚK      &        Alpa-paricita-saïddhāntika-śabda-kośa
+ARK         &        \={A}bhidhānarājendra(koṣa)
+\={A}vN     &        \={A}vaśyakanijjutti
+\={A}ŚK    &        \={A}gamaśabdakośa
+BhV         &        Bhāratīya Vidyā
+BIS         &        Berliner Indologische Studien
+BKBh        &        Bṛhatkalpabh\={a}ṣya
+BHSG, BHSD  &        Edgerton
+BSOS        &        Bulletin of the School of Oriental Studies
+Caupp       &        Cauppannamahāpurisacariyam
+CDIAL       &        Turner
+CPD         &        Critical Pali Dictionary
+cty         &        commentary
+d.          &        deśī
+DŚK        &        Deśīśabdakośa
+Guj.        &        Gujarati
+Har         &        Haribhadra
+Hāla       &        Weber 1881
+Hcar        &        Bāṇa, Harṣacarita
+HPG         &        Hemacandra, Prakrit Grammar
+ifc.        &        at the end of a compound
+IHQ         &        Indian Historical Quarterly
+IT          &        Indologica Taurinensia
+JĀGM       &        Jaïna Āgama Grantha-mālā
+JHS         &        Jaïn Hybrid Sanskrit
+Ka.         &        Kanarese
+KBBh        &        Kalpa-Bṛhatbhāṣya in cty  ad BKBh
+m.c.        &        metri causā
+MW          &        Monier Williams
+Nāyā      &        Nāyādhammakahāo
+NisBh       &        Nisītha-bh\={a}ṣya
+NisCū      &        Nisītha-cūrṇi
+OI          &        Old Indian
+ON          &        Ohanijjutti
+Pā.        &        Pāli
+Paum        &        Paumacariya
+p.c.        &        private communication
+PED         &        Pali-English Dictionary
+PN          &        Piṇḍanijjutti
+ppp.        &        past participle
+Pravac      &        Pravacanas\={a}rôddh\={a}ra
+prec.       &        preceding
+PSM         &        Pāiya-sadda-mahaṇṇavo
+q.v.        &        quod vide
+Sadd        &        Saddanīti
+Shriyan     &        Critical Study
+sq.,sqq.    &        {\em sequitur, sequuntur}
+Sup\={a}s   &        Sup\={a}san\={a}hacariya
+Sur         &        Surasundarīcariyaṁ
+Sūy        &        Sūyagaḍa
+Ta.         &        Tamil
+ts.         &        tatsama
+Vdh         &        Vasudevahiṇḍi
+VisBh       &        Viśeṣâvaśyakabh\={a}ṣya
+v.n.        &        verbal noun
+WZKSA       &        Wiener Zeitschrift für die Kunde Südasiens\vspace*{1cm}
+\end{supertabular}

@@ -1,0 +1,285 @@
+These 846 words are listed under sūtra 3.4.72 of Trivikrama’s Prakrit grammar (jhāḍagās tu dēśyāḥ siddhāḥ). I have used P. L. Vaidya’s edition of 1954 (Jaina Saṁkṛti Saṁrakṣaka Saṁgha, Sholapur). Vaidya has assigned the words serial numbers that I will retain here. The Prakrit words are listed after the serial number, and their definition follows on the next line, begun with an equals sign. Cross-references to Hēmacandra’s Dēśīnāmamālā, and variant readings, both taken from Vaidya’s edition, follow.
+
+Vr̥ttiḥ: jhāḍādayaḥ śabdā dēśyā dēśaviśēṣavyavahārād upalabhyamānāḥ siddhā niṣpannāḥ prasiddhā vā vēditavyāḥ.
+
+1. jhāḍaṁ
+ = latādigahanam
+ (DNM 3.57)
+ (S rūḍhaṁ, T jhāḍā for jhāḍaṁ)
+ (S latādigamanam for latādigahanam)
+
+2. goppī
+    (MT gōṁpī, S gōṁpi for goppī)
+3. sappattiā
+    (DNM 8.18 [sapattiā])
+    (MS saṁpattiā)
+ = bālā
+
+4. goṇḍī
+    (DNM 2.95 [gōṭhī])
+    (K gōṁḍi, S gōṭṭhi)
+5. gāḍī
+    (K ṇaḍi, S gōṁḍi)
+6. goñjī
+    (DNM 2.95)
+    (KS gōṁji)
+ = mañjarī
+
+7. ekkagaṁ
+    (DNM 1.144)
+    (BKT ēkkaggaṁ, M ēkaṁgaṁ)
+8. ōhaṁsaṁ
+    (DNM 1.169 [ōharisaṁ candanagharṣaṇaśīlā])
+    (BT ōhassaṁ)
+9. bhaddasiri 
+    (DNM 6.102)
+    (K bhaddasari, MS bhaṁdasirā)
+ = candanam
+
+10. āḍōrō
+    (DNM 1.64 [āṇūvō])
+    (S ādōrō)
+11. mōrattaō
+    (DNM 6.140)
+    (MS mōrataō, T mōrītaō)
+12. mōrō
+    (DNM 6.140)
+    (BK mārō)
+13. pāṇāaō
+    (DNM 6.38)
+    (BKM paṇāaō, T pāṇaaō)
+ = śvapacaḥ
+
+14. ḍullaraaṁ
+    (DNM 1.110 [ullaraya])
+    (BKM dullaraa, BT kapardē or kapardaiḥ)
+ = bhūṣā kapardānām, kapardaiḥ kr̥tam ābharaṇam ity arthaḥ
+
+15. sōmālaṁ
+    (DNM 8.44)
+16. sōllaṁ
+    (DNM 8.44)
+ = māsam
+
+17. chaṭṭō
+    (DNM 7.31 [vaṭṭā]?)
+    (K chaṭṭā carma, M chaṁṭō marma, S chaḍhō varma, T paṭṭō vartma)
+ = marma
+
+18. bhoṭṭaṇō
+    (DNM 6.106 [bhuttūṇō, bhottūṇō])
+    (B chōṭṭaṇō, M bhōṭuṇa, S bhaṭṭuṇō, T bhōggaraṇō)
+ = bhr̥takaḥ
+    (KM bhr̥takaṁ, T bhūtakaḥ)
+
+19. goḍḍa
+    (DNM 2.93 [gēṁṭhua])
+    (M mōṁḍa, S gōda, T gēṁḍa)
+ = stanayōr upari racitō vāsōgranthiḥ
+    (Bp KMS vāsōgranthir upari kucayōḥ)
+
+20. bhāvaī
+    (DNM 6.104 [bhāvaïā dhārmikagr̥hiṇī])
+    (M bhāraī, T1 gaēī, T2 gavāī)
+ = gr̥hiṇī
+
+21. dukkhittō
+    (K dukkhitē, MS duḥkhitē, T ukkhittē kapā)
+ = kampaḥ
+
+22. parihālō
+    (DNM 6.29)
+    (T parihārō)
+ = jalanirgamaḥ
+
+23. paḍaṁ
+    (T paṭhama)
+ = grāmasīmāsthānam
+
+24. gōjā
+    (DNM 2.89 [gōā])
+    (T gōpā)
+ = kalaśī
+
+25. paḍipallilō
+    (DNM 6.32 [paḍiēlliō]?)
+    (T paḍipaḍḍirō)
+ = vihitapūjaḥ
+
+26. gandhapisāō
+    (DNM 2.87)
+    (T gadhavisāō)
+ = gāndhikaḥ
+    (BM grānthikaḥ, K gandhikaḥ)
+
+27. ōhiaṁ
+    (DNM 1.157 [ōhuraṁ]?)
+    (KS ōkhia, T ōsiaṁ)
+ = adhōmukhaṁ
+
+28. asārā
+    (DNM 1.12)
+ = kadalī
+
+29. karaïllō
+    (DNM 2.17)
+    (S karaïlli)
+ = śuṣkamahījaḥ
+
+30. vapajhaō
+    (B kejjhaō, Bp vapajjhaō, M va...pajjhaō)
+ = bhāraḥ
+
+31. dupparialla
+    (DNM 5.55)
+    (BKMS uppariallaṁ)
+ = aśakyaṁ
+
+32. vēḍūṇī
+    (DNM 7.65 [vēḷūṇa-vēlaṇayaṁ iti kēcit])
+    (B vēḍūṇā, T vēḍuṇi)
+33. picchallaṁ
+    (DNM 6.74 [picchilī])
+    (B omits the word and wrong gives picchilaḥ as the meaning of vēḍūṇī)
+    (M picchalaṁ, T picchilaṁ)
+34. viddūṇā
+    (DNM 7.65)
+    (B omits and wrongly reads panthāḥ)
+    (K vaṁdhā, M paṁthā, T vidhā)
+35. sārōvahi
+    (B rāsārōvahō, T sirōvahā)
+36. siṇī
+    (KMS siṇī)
+37. vēlūrā
+    (DNM 7.65 [vēlūṇā as under 32 above])
+    (T vēḍūrā)
+38. maṁtakkharaṁ 
+    (DNM 6.141 [maṁtakkha])
+    (B matattakharaṁ, KM mataṁtakharaṁ, S matatakharaṁ)
+ = lajjā
+
+39. koṇṇāaṁ
+    (M kōṁḍāa, T kōṇṇāya)
+ = mlānam
+    (B mānaḥ, KM mānaṁ)
+ 
+40. khandajī 
+    (DNM 2.70 [khadaggī])
+    (S khadaji, T khamayaggi)
+ = sthūlēndhanavahniḥ
+
+41. ūsāattō
+    (DNM 1.141 [ūsāantō])
+    (BK dukkhāatō, MS dukkhāata)
+ = khēdēna śithilaḥ
+
+42. uttāṇaphalaṁ
+    (DNM 1.120 [uttāṇapattaya])
+    (T uttāṇavattī)
+ = ēraṇḍaḥ
+
+43. cadurūḍhō
+    (DNM 3.7 [caüraciṁdhō])
+    (B caüraïḍō, M caüraïḍhō)
+44. hālō
+    (DNM 8.66)
+ = śātavāhanaḥ
+
+45. paüliaṁ 
+    (DNM 6.29 [paülaï pacati])
+    (T caüliaṁ)
+ = śūlaprōtaṁ māsam
+
+46. māḍā
+    (M pāḍā, S māḍhā, T amiaṁ)
+ = samakālam
+
+47. khaḍariaṁ
+    (DNM 2.79 [kharaḍiaṁ rūkṣam])
+    (T khaüraaṁ)
+ = kaluṣam
+
+48. bahurāṇō
+    (DNM 6.91 [bahurāṇā])
+ = asidhārā
+
+49. bavvāḍō
+    (DNM 6.89)
+    (B bappōṭṭēṇa, KS pappōṇa, T vappōṭṭēḍa)
+ = dakṣiṇō hastaḥ
+
+50. khabbaṇō
+    (DNM 2.77 [khavō, kkhavvō, vāmakara)
+    (S khaddaṇṇō)
+ = dakṣaḥ
+
+51. khaḍḍaṁ
+    (DNM 2.66)
+    (S khaḍaṁ, T kaḍḍō)
+52. vēḍō
+    (DNM 6.95 [beḍḍā])
+53. voḍḍaraṁ
+    (DNM 6.95)
+    (B vōddaraṁ, M vōṁdara, T vōraṁ)
+ = śmaśru
+
+54. uïttaṇaṁ
+    (DNM 1.103 [uitaṇaṁ])
+    (M uïtaṇaṁ, T ōattaṇaṁ)
+ = nivasanam
+
+55. saarāhaṁ jhaṭiti
+    (DNM 8.11 [sayarāhaṁ])
+    (M saṁharāhaṁ)
+ = khallirī
+
+56. khallirī
+    (DNM 2.70)
+    (T khallarī)
+57. khalliriā
+    (DNM 2.70)
+    (B khilliriā, M khiṁlirīā, T vallarīā)
+ = saṁkētāḥ
+
+58. raddhī
+    (DNM 7.2)
+    (BK rajjī, M raṃjī, S raji, T raḍḍī)
+59. vaḍḍaaṁ
+    (DNM 7.29)
+    (B vaddhaaṁ, M aṁdhaaṁ, T vaḍaaṁ)
+ = pradhānam
+
+60. gaaṇaraī
+    (DNM 2.88)
+ = mēghaḥ
+
+61. tiṅgacchī
+    (DNM 5.12 [tiṅgicchī])
+    (M niṁmakī, T tigicchi)
+62. tiṅgaā
+    (DNM 5.12 [tiṅgiā])
+    (T tīḍiā)
+ = puṣparajaḥ
+
+63. taṇḍaṁ 
+    (DNM 5.19)
+    (T taḍha)
+ = śirōhīnam
+
+64. pāduggō 
+    (DNM 6.42 [pāuggiō])
+    (M pāduṁgō, T pāiggō)
+ = sabhyaḥ
+
+65. tiviḍī
+    (DNM 5.12 [puṭikā tiviḍā sūcīti kēcit)
+    (M tiviī)
+ = sūcī
+
+66. pattalaṁ
+    (DNM 6.14)
+ = tīkṣṇam
+
+67. kūraṁ
+    (DNM 2.43)
+ = bhaktam

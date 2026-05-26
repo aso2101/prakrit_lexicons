@@ -71,7 +71,7 @@ saṁgāmō saṁjuyam āhavaṁ raṇaṁ saṁgaraṁ samaraṁ - 33
 rōlō rāvō vayalō halabōlō kalayalō vamālō ya
 sēṇā varūhiṇī vāhiṇī aṇīyaṁ camū sinnaṁ - 34
 rōrō akiṁcaṇō duvvihō dariddō ya duggaō nissō
-sattū arī amittō riū arāī ya paḍivakkō - 35
+sattū arī amittō riū arāī ya paḍivakkhō - 35
 kaṇaō silīmuhō maggaṇō isū sāyaō sarō visihō
 pakkā sahā samatthā ya pakkalā paccalā pōḍhā - 36
 kōyaṁḍaṁ gaṁdīvaṁ dhammaṁ dhaṇuhaṁ sarāsaṇaṁ cāvaṁ
@@ -98,7 +98,7 @@ aṁsū rassī pāyā karā maūhā gahatthiṇō kiraṇā
 rayaṇī vihāvarī savvarī nisā jāmiṇī rāī - 47
 ālōō ujjōō dittī bhāsā pahā payāsō ya
 saṁtamasam aṁdhayāraṁ dhaṁtaṁ timiraṁ tamissaṁ ca - 48
-bhavaṇaṁ gharamāvāsō nilaō vasahī nihēlaṇam agāraṁ
+bhavaṇaṁ gharam āvāsō nilaō vasahī nihēlaṇam agāraṁ
 ritthaṁ daviṇaṁ davvaṁ sārō vittaṁ vasuṁ atthō - 49
 sēlō ayalō addī silōccaō mahiharō dharō siharī
 hēmaṁ kaṇayaṁ cāmīyaraṁ pasiṁḍiṁ ca tavaṇijjaṁ - 50
@@ -220,7 +220,7 @@ sōvaṇayaṁ raïmaṁdiramālī taha māuyā sahī attā
 parayattō parachaṁdō vikkhāō vissuō payaḍō - 108
 nakkhā nahā kararuhā kēsā cihurā sirōruhā vālā
 calaṇā kamā ya pāyā paōharā taha thaṇā sihiṇā - 109
-pāṇī hatthā ya karā kattī cammamaïṇaṁ chavī khallā
+pāṇī hatthā ya karā kattī cammam aïṇaṁ chavī khallā
 dasaṇā rayaṇā daṁtā sirōharā kaṁdharā gīvā - 110
 vayaṇaṁ muhaṁ ca āṇaṇamacchī nayaṇaṁ ca lōyaṇaṁ nittaṁ
 nāsā ghāṇaṁ ghōṇā sīsaṁ siram uttamaṁgaṁ ca - 111
@@ -412,7 +412,7 @@ ravam alasaṁ kalamañjulam ōralliṁ mahuradīharaṁ jāṇa
 suivirasaṁ gaddabbhaṁ ca gaggaraṁ kaṁṭhadarakhaliyaṁ - 204
 ōūlaṁ pālaṁbaṁ hariyaṁdaṇam amaracaṁdaṇaṁ jāṇa
 jaccaturaṁgaṁ bhāyalam āyāvalayaṁ aruṇatāvaṁ - 205
-sīmaṁtiyaṁ duhāviyam apacchiaṁ caramam uddhuraṁ uccaṁ
+sīmaṁtiyaṁ duhāviyam apacchimaṁ caramam uddhuraṁ uccaṁ
 vāyaṇayaṁ ca pahēṇayam iṁgālī ucchugaṁḍīrī - 206
 visaḍhaṁ visamaṁ viyaliyam uccattaṁ kattiyāsiṇā saraō
 sisirō phagguṇamāhō hēmaṁtō pōsam aggasirō - 207

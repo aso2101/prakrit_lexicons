@@ -1,0 +1,186 @@
+%Herr Lehmann, wenn Sie den Befehlsvorspann von "Nseniors" noch haben, läát
+%sich dort wohl sehen, wie es mit folgenden Mängeln geklappt hat:
+%parindent-0.3cm wurde nicht eingehalten: überlange Zeilen sollen beim Umbruch
+%eingerückt werden
+%Das erste Lemma eines Buchstaben soll nicht hervorstehen
+
+%r10, R10 = r, R mit Strich oder zwei Punkten darunter funktioniert nicht
+%ā1 (kurz und lang, d.h. Strich und U-Bogen darüber) wird nicht so ausgedruckt,
+%ī1 dagegen ist in Ordnung, ū1 kommt hier nicht vor
+%< und > zwischen $$ gesetzt, weil sonst umgekehrtes ? bzw. ! ausgedruckt wird
+
+%*Verwandlung zum Ausdrucken von Tex/Latex Dateien:\\
+%*1. k leertaste d:Dateiname\\
+%*2. macro leertaste d:prakrtex.kex\\
+%*3. ffile leertaste a:Dateiname.tex\\
+
+
+
+%die Datei namens prakrtex.kex geht BKBhglos voran, wird aber nicht ausgedruckt\\
+%* verwandelt prakrit-wscript Diakritika in TeX-Diakritika, z.T. aus dem Exotex Makropaket\\
+%'top'\\
+%'c/"/\dq{}/* *'\\
+%'c/ä/\"{a}/* *'\\
+%'c/ö/\"{o}/* *'\\
+%'c/ü/\"{u}/* *'\\
+%'c/Ä/\"{A}/* *'\\
+%'c/Ö/\"{O}/* *'\\
+%'c/Ü/\"{U}/* *'\\
+
+%'c/á/\ss{}/* *'\\
+%'c/ā0/\lgra{}/* *'\\ long vowel with grave accent
+%'c/ī0/\lgri{}/* *'\\
+%'c/ū0/\lgru{}/* *'\\
+%'c/r10/\b{r}* *'\\    r with bar below
+%'c/ā1/\loka{}/* *'\\ long or short vowel (bar and smile)
+%'c/ī1/\loki{}/* *'\\
+%'c/ū1/\loku{}/* *'\\
+%'c/ā4/\laka{}/* *'\\ long vowel with acute accent
+%'c/ī4/\laki{}/* *'\\
+%'c/ū4/\laku{}/* *'\\
+%'c/ā/\={a}/* *'\\
+%'c/Ā/\={A}/* *'\\
+%'c/ē/\={e}/* *'\\
+%'c/ī/\={\i}/* *'\\
+%'c/Ī/\={I}/* *'\\
+%'c/ō/\={o}/* *'\\
+%'c/ū/\={u}/* *'\\
+%'c/Ū/\={U}/* *'\\
+%'c/ṭ/\d{t}/* *'\\
+%'c/Ṭ/\d{T}/* *'\\
+%'c/ḍ/\d{d}/* *'\\
+%'c/Ḍ/\d{D}/* *'\\
+%'c/ṇ/\d{n}/* *'\\
+%'c/Ṇ/\d{N}/* *'\\
+%'c/ṁ/\d{m}/* *'\\
+%'c/Ṁ/\d{M}/* *'\\
+%'c/ṛ/\d{r}/* *'\\
+%'c/Ṛ/\d{R}/* *'\\
+%'c/ḷ/\d{l}/* *'\\
+%'c/Ḷ/\d{L}/* *'\\
+%'c/ṣ/\d{s}/* *'\\
+%'c/Ṣ/\d{S}/* *'\\
+%'c/ḥ/\d{h}/* *'\\
+%'c/Ḥ/\d{H}/* *'\\
+%'c/ǎ/\u{a}/* *'\\
+%'c/ě/\u{e}/* *'\\
+%'c/ǐ/\u{\i}/* *'\\
+%'c/ǒ/\u{o}/* *'\\
+%'c/ǔ/\u{u}/* *'\\
+%'c/ṅ/n/* *'\\
+%'c/Ṅ/N/* *'\\
+%"c/á/\'{a}/* *"
+%"c/é/\'{e}/* *"
+%"c/ó/\'{o}/* *"
+%"c/ś/\'{s}/* *"
+%"c/Ś/\'{S}/* *"
+%'c/ã/\~{a}/* *'\\
+%'c/ẽ/\~{e}/* *'\\
+%'c/ĩ/\~{\i}/* *'\\
+%'c/õ/\~{o}/* *'\\
+%'c/ũ/\~{u}/* *'\\
+%'c/ñ/n/* *'\\
+%'c/Ñ/N/* *'\\
+%'c/ṽ/\~{v}/* *'\\
+%'c/Ṽ/\~{V}/* *'\\
+%'c/ṅ/\b{n}/* *'\\
+%'c/ṙ/\b{r}/* *'\\
+%'c/˙l/\b{l}/* *'\\
+%'c/˙L/\b{L}/* *'\\
+%'c/Ṅ/\b{N}/* *'\\
+%'c/R6/\b{R}/* *'\\
+%'c/â/\^{a}/* *'\\
+%'c/ê/\^{e}/* *'\\
+%'c/î/\^{\i}/* *'\\
+%'c/ô/\^{o}/* *'\\
+%'c/û/\^{u}/* *'\\
+%'c/à/\`{a}/* *'\\
+%'c/è/\`{e}/* *'\\
+%'c/ì/\`{i}/* *'\\
+%'c/ò/\`{u}/* *'\\
+%'c/ù/\`{o}/* *'\\
+%'c/ṝ/\p{\d{r}}/* *'\\  langes vokalisches  r
+%'c/Ṝ/\P{\d{R}}/* *'\\
+%'c/^1/$^{1}$/* *'\\
+%'c/^2/$^{2}$/* *'\\
+%'c/^3/$^{3}$/* *'\\
+%'c/^4/$^{4}$/* *'\\
+%'c/^5/$^{5}$/* *'\\
+%'c/^6/$^{6}$/* *'\\
+%*Achtung homoorg. n vor k,g,j,c  -> n
+%*Sondermarkierungszeichen
+%'c/$/$\S\$\S$/ * *'\\
+%'c/{}/\S{} / * *'\\
+%'c/Ä/--/ * *'\\
+%'c/°/$^\circ$/ * *'\\
+%'c/û/$\surd$/ * *'\\
+
+
+
+
+%Klammerkontrolle  17.1.96; 4.2.96; 6.12.96; 15.3.97
+%double preposition: uvaveya, pavalitta
+%
+%Oberlies durchgesehen 18.3.97
+%Schwarzschild durchsehen
+%Kuiper durchgesehen  14.5.97
+%Norman durchgesehen  12.5.97
+%Schubring 1905  durchgesehen   22.3.97
+%Bhayani 1988 durchgesehen
+%DŚK durchgesehen  21.3.97
+%%%%%13.03.96 12:28 Th. Malten
+
+
+
+
+\documentstyle[german,12pt,supertab,kopf]{book}
+\begin{document}
+\textheight 18cm\voffset = -4.0cm
+\textwidth 11.7cm
+\input{exotex}
+\pagestyle{myheadings}
+\markboth{}{}
+\originalTeX
+\frenchspacing
+\emergencystretch 20pt
+\evensidemargin0cm
+\oddsidemargin0cm
+%\parskip+0.3cm
+
+\tableofcontents
+{Preface vii\\Abbreviations\\Glossary of Selected Words\\Sanskrit words
+from the commentary not found in Monier Williams' Sanskrit Dictionary
+\\Bibliography\\}
+
+
+
+\newpage
+
+
+\begin{center}{\bf Selective glossary}\end{center}\par
+\newpage
+\begin{center}{\bf Preface}\end{center}\par
+
+I need not discuss the grammatical idiosyncrasies of the Niryuktis and
+Bhāṣyas the composers of which resemble Procrustes in that they not
+only cause words to be lopped, sometimes by aphaeresis, more often by apocope,
+in order to fit the metrical bed, but also rack them out by lengthening
+of vowels, gemination of consonants, double prepositions (e.g. pavalitta
+$\sim$ {\em pradīpta}) or adding meaningless suffixes like
+(a/i)ga/ya or, rarely it seems, -ṇa (a case in point of which may be
+osavaṇa $\sim$ {\em utsava}). For them I can refer to, e.g., Mme Balbir's
+recent study (Balbir 1993: 52 note 71). As to the diction as such it may be
+remarked that more than once we meet with Prākrit words the Sanskrit
+equivalent of which is attested for the Bhāgavatapurāṇa only, as e.g.,
+urvarita (621, 2851), gobbara (1731, 1734) and parokkha (214, 565).
+PSM mentions other rare BKBh words as occurring in the Supāsanāhacariya
+which therefore may be worth a systematic evaluation. In many cases I
+did not find a satisfying etymon, not only as regards {\em deśī}
+words, but also where the commentary explaïns one rare word by another
+as, e.g., at ujjhiṇigā and Sa. 4pāriṣṭhāpanikā5, vuvajjiya and Sa.
+{\em vyāyita}.
+The Glossary includes also words from Prākrit passages in the commentary
+({\em udākaraṇa}s etc.).
+
+At the occasion of his eightiest birthday this volume is  dedicated to
+Professor Harivallabh Bhāyāṇī whom I never in vain consulted.
